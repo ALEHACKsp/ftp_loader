@@ -2,9 +2,9 @@
 This is a pretty simple VAC Bypass injector for csgo
 
 Features:
-VAC3 Bypass
-Byte VAC bypass
-ManualMap Injection
+VAC3 Bypass,
+Byte VAC bypass,
+ManualMap Injection,
 LoadLibrary Injection
 
 
