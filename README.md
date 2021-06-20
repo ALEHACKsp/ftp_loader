@@ -8,6 +8,7 @@
 - ManualMap Injection
 - LoadLibrary Injection
 
+# [Download](https://github.com/n0verify/ftp_loader/releases/tag/1.1/)
 
 # Credits
 - b1scoito (https://github.com/b1scoito/)
