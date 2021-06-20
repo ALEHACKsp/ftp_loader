@@ -1,7 +1,6 @@
 # FTP LOADER
 This is a pretty simple VAC Bypass injector for csgo
 
-![Screenshot_1](https://user-images.githubusercontent.com/86177056/122668286-21486d80-d16c-11eb-884e-16228aee6837.png)
 
 Features:
 VAC3 Bypass,
@@ -23,3 +22,6 @@ vc redistributable is needed for this code to be executed, newest windows versio
 # Compiling
 - Visual Studio 2019
 - Blackbone Static Library (included in files)
+
+# Screenshots
+![Screenshot_1](https://user-images.githubusercontent.com/86177056/122668286-21486d80-d16c-11eb-884e-16228aee6837.png)
