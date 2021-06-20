@@ -9,8 +9,9 @@ ManualMap Injection,
 LoadLibrary Injection
 
 
-!! Credits to b1scoito for making most of this project ~ i cleaned it up and made it take loadlibrary
-https://github.com/b1scoito
+# Credits
+b1scoito (https://github.com/b1scoito/)
+DarthTon https://github.com/DarthTon/Blackbone)
 
 Everything is pretty obvious so no further explanation is needed.
 
