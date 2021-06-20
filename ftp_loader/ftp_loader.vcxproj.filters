@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="loader">
+      <UniqueIdentifier>{d12d3d7f-dc0d-4eaa-8eb7-8c518c5734ea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="pch">
+      <UniqueIdentifier>{ebfadaa9-2c80-4c74-b27c-c01e8ed57886}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ext">
+      <UniqueIdentifier>{ba7bf719-1929-4eed-a323-02c32e116f3f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ext\memory">
+      <UniqueIdentifier>{8f4f41f8-3272-4c46-a64b-a5209764d0cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ext\logging">
+      <UniqueIdentifier>{10d10d53-65fa-4875-965f-f7ec0fa57614}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ext\utils">
+      <UniqueIdentifier>{5dfeec10-d957-4322-8a9a-3f33434a2c17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ext\vac3_bypass">
+      <UniqueIdentifier>{1771c7ca-3cf1-4f5a-8fb0-c784c17f5d96}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="pch.cpp">
+      <Filter>pch</Filter>
+    </ClCompile>
+    <ClCompile Include="injection.cpp">
+      <Filter>loader</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.hpp">
+      <Filter>pch</Filter>
+    </ClInclude>
+    <ClInclude Include="logger.hpp">
+      <Filter>ext\logging</Filter>
+    </ClInclude>
+    <ClInclude Include="memory.hpp">
+      <Filter>ext\memory</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.hpp">
+      <Filter>ext\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="injection.hpp">
+      <Filter>loader</Filter>
+    </ClInclude>
+    <ClInclude Include="vac3_bypass_data.hpp">
+      <Filter>ext\vac3_bypass</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
