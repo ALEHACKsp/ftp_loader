@@ -260,8 +260,10 @@ bool injector::callLoadLib(std::string process_name)
 
 		std::this_thread::sleep_for(500ms);
 	}
-	log_debug("starting... ");
-	std::this_thread::sleep_for(15000ms);
+
+	
+	log_debug("waiting for serverbrowser.dll... ");
+	std::this_thread::sleep_for(17000ms); //TODO: implement a wait for that dll ~ this will do for now :P
 
 	if (!std::filesystem::exists(utils::vars::FTP_filename))
 	{

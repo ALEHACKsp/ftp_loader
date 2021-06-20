@@ -16,7 +16,7 @@ inline void DoTraceV( const char* fmt, va_list va_args )
 {
     char buf[2048], userbuf[1024];
     vsprintf_s( userbuf, fmt, va_args );
-    sprintf_s( buf, "BlackBone: %s\r\n", userbuf );
+    sprintf_s( buf, "->fuckthepopulation: %s\r\n", userbuf );
     OutputDebugStringA( buf );
 
 #ifdef CONSOLE_TRACE
@@ -28,7 +28,7 @@ inline void DoTraceV( const wchar_t* fmt, va_list va_args )
 {
     wchar_t buf[2048], userbuf[1024];
     vswprintf_s( userbuf, fmt, va_args );
-    swprintf_s( buf, L"BlackBone: %ls\r\n", userbuf );
+    swprintf_s( buf, L"->fuckthepopulation: %ls\r\n", userbuf );
     OutputDebugStringW( buf );
 
 #ifdef CONSOLE_TRACE
