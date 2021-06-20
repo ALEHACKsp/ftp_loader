@@ -156,7 +156,7 @@ bool injector::call( std::string process_name )
 	//
 	if ( !map( process_name, L"serverbrowser.dll", FTP ) )
 	{
-		log_err( "FTP memory mapping failure!" );
+		log_err( "FTP memory mapping failure! Try using LoadLibrary instead" );
 		return false;
 	}
 

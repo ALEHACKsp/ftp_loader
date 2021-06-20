@@ -1,1 +1,0 @@
-thank u for buying!

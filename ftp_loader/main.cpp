@@ -26,17 +26,15 @@ int WINAPI WinMain( _In_ HINSTANCE hInstance,
 	std::cout << "|   __|  |  |     |  |  |_   _|  |  |   __|  _  |     |  _  |  |  |  |  |  _  |_   _|     |     |   | |" << std::endl;
 	std::cout << "|   __|  |  |   --|    -| | | |     |   __|   __|  |  |   __|  |  |  |__|     | | | |-   -|  |  | | | |" << std::endl;
 	std::cout << "|__|  |_____|_____|__|__| |_| |__|__|_____|__|  |_____|__|  |_____|_____|__|__| |_| |_____|_____|_|___|" << std::endl;
-	std::cout << "~ developed by n0verify and b1scoito" << std::endl;
+	std::cout << "~ developed by n0verify and b1scoito. Thank you DarthTon for making BlackBone memory hacking library." << std::endl;
 	log_debug("Injection Method:");
 	log_debug("1 ) LoadLibrary");
-	log_debug("2 ) ManualMap (experimental)");
-	std::cout << "_______________________________________________________________________________________________________" << std::endl;
-	std::cout << "";
+	log_debug("2 ) ManualMap");
 	std::cin >> methhead;
-	std::cout << "_______________________________________________________________________________________________________" << std::endl;
+	std::cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" << std::endl;
 	log_debug("Type csgo to start injection :");
 	std::cin >> proc_name;
-	std::cout << "_______________________________________________________________________________________________________" << std::endl;
+	std::cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" << std::endl;
 
 	if (methhead == "1"| methhead == "loadlibrary" | methhead == "LoadLibrary" | methhead == "ll")
 	{
