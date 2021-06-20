@@ -1,19 +1,17 @@
 # FTP LOADER
-This is a pretty simple VAC Bypass injector for csgo
+This is a pretty simple VAC Bypass injector for csgo.
+Everything is pretty obvious so no further explanation is needed.
 
-
-Features:
-VAC3 Bypass,
-Byte VAC bypass,
-ManualMap Injection,
-LoadLibrary Injection
+# Features
+-VAC3 Bypass
+-Byte VAC bypass
+-ManualMap Injection
+-LoadLibrary Injection
 
 
 # Credits
 b1scoito (https://github.com/b1scoito/)
 DarthTon https://github.com/DarthTon/Blackbone)
-
-Everything is pretty obvious so no further explanation is needed.
 
 # Doesn't open
 vc redistributable is needed for this code to be executed, newest windows versions already comes with these.
@@ -24,8 +22,6 @@ vc redistributable is needed for this code to be executed, newest windows versio
 - Visual Studio 2019
 - Blackbone Static Library (included in files)
 
-# Cheat
-its an osiris paste
 
 # Screenshots
 ![Screenshot_1](https://user-images.githubusercontent.com/86177056/122668286-21486d80-d16c-11eb-884e-16228aee6837.png)
