@@ -49,6 +49,390 @@
 
 #include "../Helpers.h"
 
+using namespace std;
+
+class qpwpwlo {
+public:
+    double xfyaxv;
+    double bkpgrnezyal;
+    double bbuzrazr;
+    bool hzsjelf;
+    qpwpwlo();
+    bool pocqzwfmskbthzabz(bool eushlgbnwcgpskb, bool mfxouzbhkx, double lawnoevdto, bool oynmiithwyq);
+    int fsgkdgrtlxygqd(double xoabt, bool dsycknaiiddnzr, int grfddpd, int meqzft, int kyeqyqz, string ewnufterahstwk, bool zhuypjt, double pxmmtexmvhf, bool noxukibmwnu, double kbtftsfrufic);
+    bool oivkvexcagwjcmhdurbzwarnf(string yydivaubvdqwf, bool xorjqteemtmvg);
+    int wjzbeloxqmujypnutecilywk(int sqibeazcx, int jucbhgtlwiddald, string wcsuvlerwef, double fasjbubhgvpl, bool lykfwe, string sjmivlwofymcyr, bool pbbvudhith, double cuiwfywocdeyzp, double carlwwznkpadhux);
+    void oaldxjsrpt(int bcbmyyskwcplxy, string kbcnrtpmlk);
+
+protected:
+    int ydsncboakbug;
+
+    string klmtugpzpoqetftn(int tscbdgoh, int rcrzjyg, string xaqfg, double ivpssvgcbw, double jmvqfxbgvnesvr);
+
+private:
+    bool klmzvxwatpg;
+    bool jqbpue;
+    bool rnkdzifilsaicg;
+
+    void dvmfgwheull(double qopaqd, int girogtntvecw, string yziwii);
+    bool zafxkrqxouanldyxi(double lzvaeiot, double xzpowsmpfj, string bjpcidspjri, bool ufghio, int yxsls, int yffsusuqhwarsoj, int hywgpds, int zhqms);
+    string mjbdsmnwcuzqw(double aerne, int lubhdukwymfa, int uxmihgzoy, bool jcultrr, bool vxteax, int keyjddguvoet, bool byivnuh);
+    void tlsugoxoxb();
+    double jwbzpbhyfmxprvioyyboouxen(int zmdsb);
+    double lgdauamygezrqayvhiowoo(double hphmvgdfskbhve, bool rlnhkgz, string gorwkz, string whefm, bool tocmpjuot, string vwxmisbbaslb, double akybdbggcpy, int ifytdkiapfqxtee);
+    string qytobymdwcaqzgxykxzeuz(bool hkwvfxtodxasug, bool zxtdpbqseiroey, bool lebrfwpaneh, double oizas);
+    void wwepsqfxjgoqydibutafzg(int scvvzxtjgaupkhj, bool qeverdxheb, string tfkobhiwdjaoeyv, int nwqqgohlkkuo, bool vbhbhtvhkctgxwg, string lssmnz, string pdbxnze, string jwupvapnw, bool jewsmudvri, int vjjxcjr);
+    void vikdtzjdpzkepj(string dmwemb, string poggwsrwy, int vzntkmoh, double oklum, bool ovzdcn, string ygdodd, bool rwtcaxxrp, string ojtyctfldipd);
+
+};
+
+
+
+
+void qpwpwlo::dvmfgwheull(double qopaqd, int girogtntvecw, string yziwii) {
+    bool dzhthxzzkgm = true;
+    bool aihkrchighqjotl = false;
+    double rvpavlcicofldpr = 3026;
+    int ixvcrqmfpig = 3614;
+    string xdhexjwhnidbujc = "fbjixutbvxeamepjnycxjbevxonwgjkhtwkylliudnpseez";
+    string fvsuwmyo = "iwtnvsfjhumkhiobtxvynbgcvhiwoxgpzaowasukwjgyhqsfrlgvwsidejwkgezkwitduxvxsl";
+    bool pbbjebg = true;
+    string sqjysln = "opixdtllzgwtblgsyuacabzepphcyydikseyrridwodsorymarqtixdpreqrqtzwhigmyhrtdeczwrylathgizrquqfxzwick";
+    int udkpjzpehivjf = 2865;
+    double eobknb = 18948;
+    if (string("iwtnvsfjhumkhiobtxvynbgcvhiwoxgpzaowasukwjgyhqsfrlgvwsidejwkgezkwitduxvxsl") == string("iwtnvsfjhumkhiobtxvynbgcvhiwoxgpzaowasukwjgyhqsfrlgvwsidejwkgezkwitduxvxsl")) {
+        int rfguhz;
+        for (rfguhz = 98; rfguhz > 0; rfguhz--) {
+            continue;
+        }
+    }
+    if (true != true) {
+        int pdfkfuwctc;
+        for (pdfkfuwctc = 15; pdfkfuwctc > 0; pdfkfuwctc--) {
+            continue;
+        }
+    }
+
+}
+
+bool qpwpwlo::zafxkrqxouanldyxi(double lzvaeiot, double xzpowsmpfj, string bjpcidspjri, bool ufghio, int yxsls, int yffsusuqhwarsoj, int hywgpds, int zhqms) {
+    string vtichekmfxfey = "sssxtmztmejawdzwmysymvlbkoonarxbiapirnpcqemabwrpwilox";
+    bool jluxvpigupknlit = true;
+    bool pyteotxfdiquqh = true;
+    int qhrigd = 5117;
+    string dagmmtsdmc = "hqhceaeqxpmivyuecnyhvvqfkjrvfzgtswhmpszidgbrmucpjayr";
+    double ncqzworl = 28992;
+    string yicul = "xghumslhgrlmrmklrnlnsjylvjbvhxhlmxegjnugmqmgavhakmxandkrwcgnooxjicmkzbukavvnpyzdutymicfvlnukefmb";
+    double zmsacjvyo = 30060;
+    string zzpfdgxbt = "koltmqtqxtpqujjhrkesmcrertjqiovznetqpbixsjasntboytclmbpbeajtjdvxldrwpdnfrcvpjophijcstlfqzgoc";
+    if (string("hqhceaeqxpmivyuecnyhvvqfkjrvfzgtswhmpszidgbrmucpjayr") == string("hqhceaeqxpmivyuecnyhvvqfkjrvfzgtswhmpszidgbrmucpjayr")) {
+        int nsfmwy;
+        for (nsfmwy = 2; nsfmwy > 0; nsfmwy--) {
+            continue;
+        }
+    }
+    if (string("hqhceaeqxpmivyuecnyhvvqfkjrvfzgtswhmpszidgbrmucpjayr") != string("hqhceaeqxpmivyuecnyhvvqfkjrvfzgtswhmpszidgbrmucpjayr")) {
+        int dvp;
+        for (dvp = 5; dvp > 0; dvp--) {
+            continue;
+        }
+    }
+    return true;
+}
+
+string qpwpwlo::mjbdsmnwcuzqw(double aerne, int lubhdukwymfa, int uxmihgzoy, bool jcultrr, bool vxteax, int keyjddguvoet, bool byivnuh) {
+    bool kwaxeiebc = false;
+    int dujxomuzvhmfyds = 2560;
+    double mevdlpzdg = 63964;
+    string exvoffaflzyd = "bmdemmvkfwigdlvlevcvudgugvphxhbzgpnjbrpsva";
+    int xgwugkhvmu = 507;
+    int llqpgweltywzqkk = 408;
+    if (408 == 408) {
+        int labbzlsc;
+        for (labbzlsc = 43; labbzlsc > 0; labbzlsc--) {
+            continue;
+        }
+    }
+    return string("tlbymsp");
+}
+
+void qpwpwlo::tlsugoxoxb() {
+    string qhceeygtsbz = "eififbhmofnyqsvpmgqjxkriiguojdloruslvbdcjxinaix";
+    double ipdyvzdmtrwxcb = 8122;
+    double ctgumlpxrsx = 18092;
+    double bywlqzh = 76107;
+    double htxmpb = 5197;
+    if (8122 != 8122) {
+        int nwjxuqq;
+        for (nwjxuqq = 77; nwjxuqq > 0; nwjxuqq--) {
+            continue;
+        }
+    }
+
+}
+
+double qpwpwlo::jwbzpbhyfmxprvioyyboouxen(int zmdsb) {
+    bool wbwejup = true;
+    string sdtemthfgoubc = "iyjiftvpzguvczkitmfhfebpylhotcqduuinbvhnmyasryhnqomrcdhwvvqyekehrcysfqkm";
+    string kmrtlglyj = "npcmqdexowdmjgbmzoviiuwayppeupny";
+    int ekjshpb = 4772;
+    if (true != true) {
+        int gdulvl;
+        for (gdulvl = 86; gdulvl > 0; gdulvl--) {
+            continue;
+        }
+    }
+    if (string("iyjiftvpzguvczkitmfhfebpylhotcqduuinbvhnmyasryhnqomrcdhwvvqyekehrcysfqkm") != string("iyjiftvpzguvczkitmfhfebpylhotcqduuinbvhnmyasryhnqomrcdhwvvqyekehrcysfqkm")) {
+        int ulkfncs;
+        for (ulkfncs = 53; ulkfncs > 0; ulkfncs--) {
+            continue;
+        }
+    }
+    if (string("npcmqdexowdmjgbmzoviiuwayppeupny") == string("npcmqdexowdmjgbmzoviiuwayppeupny")) {
+        int xnomyp;
+        for (xnomyp = 21; xnomyp > 0; xnomyp--) {
+            continue;
+        }
+    }
+    if (true == true) {
+        int jfesq;
+        for (jfesq = 97; jfesq > 0; jfesq--) {
+            continue;
+        }
+    }
+    return 74395;
+}
+
+double qpwpwlo::lgdauamygezrqayvhiowoo(double hphmvgdfskbhve, bool rlnhkgz, string gorwkz, string whefm, bool tocmpjuot, string vwxmisbbaslb, double akybdbggcpy, int ifytdkiapfqxtee) {
+    int bdyyfdnen = 1884;
+    return 21616;
+}
+
+string qpwpwlo::qytobymdwcaqzgxykxzeuz(bool hkwvfxtodxasug, bool zxtdpbqseiroey, bool lebrfwpaneh, double oizas) {
+    double blggfyo = 27371;
+    int mshhlczvqkx = 7818;
+    if (27371 == 27371) {
+        int ww;
+        for (ww = 21; ww > 0; ww--) {
+            continue;
+        }
+    }
+    if (27371 == 27371) {
+        int nv;
+        for (nv = 50; nv > 0; nv--) {
+            continue;
+        }
+    }
+    if (7818 == 7818) {
+        int egrudyh;
+        for (egrudyh = 52; egrudyh > 0; egrudyh--) {
+            continue;
+        }
+    }
+    if (7818 == 7818) {
+        int ksr;
+        for (ksr = 90; ksr > 0; ksr--) {
+            continue;
+        }
+    }
+    if (7818 == 7818) {
+        int kfzieak;
+        for (kfzieak = 48; kfzieak > 0; kfzieak--) {
+            continue;
+        }
+    }
+    return string("");
+}
+
+void qpwpwlo::wwepsqfxjgoqydibutafzg(int scvvzxtjgaupkhj, bool qeverdxheb, string tfkobhiwdjaoeyv, int nwqqgohlkkuo, bool vbhbhtvhkctgxwg, string lssmnz, string pdbxnze, string jwupvapnw, bool jewsmudvri, int vjjxcjr) {
+    string lyfozt = "mufkbpveqmbbdmbkmjxfvlbgowyvrixdldkhaynnsjgoshbuzz";
+    int qjgxwj = 5316;
+    if (string("mufkbpveqmbbdmbkmjxfvlbgowyvrixdldkhaynnsjgoshbuzz") != string("mufkbpveqmbbdmbkmjxfvlbgowyvrixdldkhaynnsjgoshbuzz")) {
+        int eqjl;
+        for (eqjl = 97; eqjl > 0; eqjl--) {
+            continue;
+        }
+    }
+
+}
+
+void qpwpwlo::vikdtzjdpzkepj(string dmwemb, string poggwsrwy, int vzntkmoh, double oklum, bool ovzdcn, string ygdodd, bool rwtcaxxrp, string ojtyctfldipd) {
+    double xypuydwb = 31543;
+    int mytpqakb = 7239;
+    if (7239 != 7239) {
+        int thzbw;
+        for (thzbw = 4; thzbw > 0; thzbw--) {
+            continue;
+        }
+    }
+    if (31543 != 31543) {
+        int gppjr;
+        for (gppjr = 10; gppjr > 0; gppjr--) {
+            continue;
+        }
+    }
+
+}
+
+string qpwpwlo::klmtugpzpoqetftn(int tscbdgoh, int rcrzjyg, string xaqfg, double ivpssvgcbw, double jmvqfxbgvnesvr) {
+    int ztnwtdtjboe = 1079;
+    int gxdle = 822;
+    string pgmqz = "mjmxdfpynpfngiddcldsvurjssicungkalpeefxvuxsldvnngqurxfyobyrcchusdepfslcpswlelyxqtsuaptagq";
+    bool wluais = false;
+    int pfnyybup = 917;
+    string jmtgzrq = "nypiffiiueilfpfuutqiymziybl";
+    string jjbemaabf = "qdcbocyeuymk";
+    return string("imb");
+}
+
+bool qpwpwlo::pocqzwfmskbthzabz(bool eushlgbnwcgpskb, bool mfxouzbhkx, double lawnoevdto, bool oynmiithwyq) {
+    string mxxponfreo = "gnwsuydbfhbhhvxmyayvmmoxrfjyzlwjmbhjokkrktyytmktpjftwwsoriuaatwpjnhpjqyo";
+    string dvwrvydtqftc = "yaalkdljarowmbjoidjklirtiqqpprrvqnpdmnjnfcgzsilyatngsgbmngsabigpwpkjzwmqfnhqayxthaxhfogk";
+    bool dfbbaxovlmbbqp = true;
+    string prrskzeeyktwrnh = "sngawfxvzxvysfaescbksnhvqevuedmsshnsdehsdvgffdbbwsjqtveopanphllftnczjc";
+    if (true == true) {
+        int bcxcqe;
+        for (bcxcqe = 26; bcxcqe > 0; bcxcqe--) {
+            continue;
+        }
+    }
+    if (string("sngawfxvzxvysfaescbksnhvqevuedmsshnsdehsdvgffdbbwsjqtveopanphllftnczjc") != string("sngawfxvzxvysfaescbksnhvqevuedmsshnsdehsdvgffdbbwsjqtveopanphllftnczjc")) {
+        int vumiq;
+        for (vumiq = 62; vumiq > 0; vumiq--) {
+            continue;
+        }
+    }
+    if (string("gnwsuydbfhbhhvxmyayvmmoxrfjyzlwjmbhjokkrktyytmktpjftwwsoriuaatwpjnhpjqyo") != string("gnwsuydbfhbhhvxmyayvmmoxrfjyzlwjmbhjokkrktyytmktpjftwwsoriuaatwpjnhpjqyo")) {
+        int sddz;
+        for (sddz = 76; sddz > 0; sddz--) {
+            continue;
+        }
+    }
+    if (string("yaalkdljarowmbjoidjklirtiqqpprrvqnpdmnjnfcgzsilyatngsgbmngsabigpwpkjzwmqfnhqayxthaxhfogk") != string("yaalkdljarowmbjoidjklirtiqqpprrvqnpdmnjnfcgzsilyatngsgbmngsabigpwpkjzwmqfnhqayxthaxhfogk")) {
+        int hqxmlym;
+        for (hqxmlym = 70; hqxmlym > 0; hqxmlym--) {
+            continue;
+        }
+    }
+    if (string("yaalkdljarowmbjoidjklirtiqqpprrvqnpdmnjnfcgzsilyatngsgbmngsabigpwpkjzwmqfnhqayxthaxhfogk") == string("yaalkdljarowmbjoidjklirtiqqpprrvqnpdmnjnfcgzsilyatngsgbmngsabigpwpkjzwmqfnhqayxthaxhfogk")) {
+        int cpj;
+        for (cpj = 25; cpj > 0; cpj--) {
+            continue;
+        }
+    }
+    return false;
+}
+
+int qpwpwlo::fsgkdgrtlxygqd(double xoabt, bool dsycknaiiddnzr, int grfddpd, int meqzft, int kyeqyqz, string ewnufterahstwk, bool zhuypjt, double pxmmtexmvhf, bool noxukibmwnu, double kbtftsfrufic) {
+    string xqpicacdt = "ykgdjtuplrganpunilrgpmriltsrbjxjlrhgzskuufichwiatuzyztnxbvmfvzdqxcllssywjruxupgrqahysqbddqyvgk";
+    int yzrfpsoqs = 1716;
+    bool kcphckptsd = true;
+    string kwnhjibnuqqvax = "lxhxjsvqtcufiyxczyaqyojuomelabtczskjevowwrgowifmnp";
+    if (string("lxhxjsvqtcufiyxczyaqyojuomelabtczskjevowwrgowifmnp") == string("lxhxjsvqtcufiyxczyaqyojuomelabtczskjevowwrgowifmnp")) {
+        int ppkocaxysk;
+        for (ppkocaxysk = 69; ppkocaxysk > 0; ppkocaxysk--) {
+            continue;
+        }
+    }
+    return 64050;
+}
+
+bool qpwpwlo::oivkvexcagwjcmhdurbzwarnf(string yydivaubvdqwf, bool xorjqteemtmvg) {
+    double iocpdnbkotklkr = 66525;
+    string akjdzcqyegwhr = "jfyioofpctwqegbkwevnlojgvmwcrpfghtdxogwkycuerrbfdwxchusgixpvyiqpswdyihhcemvnyxbqljzbxswxswruiq";
+    bool scncupjmipqbrq = false;
+    int axcetayaeqsikuk = 4150;
+    if (false == false) {
+        int fdden;
+        for (fdden = 47; fdden > 0; fdden--) {
+            continue;
+        }
+    }
+    if (66525 == 66525) {
+        int tl;
+        for (tl = 4; tl > 0; tl--) {
+            continue;
+        }
+    }
+    if (4150 == 4150) {
+        int pc;
+        for (pc = 55; pc > 0; pc--) {
+            continue;
+        }
+    }
+    if (66525 != 66525) {
+        int gfxoadcra;
+        for (gfxoadcra = 42; gfxoadcra > 0; gfxoadcra--) {
+            continue;
+        }
+    }
+    return true;
+}
+
+int qpwpwlo::wjzbeloxqmujypnutecilywk(int sqibeazcx, int jucbhgtlwiddald, string wcsuvlerwef, double fasjbubhgvpl, bool lykfwe, string sjmivlwofymcyr, bool pbbvudhith, double cuiwfywocdeyzp, double carlwwznkpadhux) {
+    bool ouhbtbikthcr = false;
+    string eblcvtx = "pazogkpfpgtscaxdgcmibofzqoojqbztionltqyihmfltwammkmipwislhka";
+    string viizi = "nstaqnafhakhhqlmkmgrchnqfquvftlqicfjdbcvdjtpvxucgjhyetxkluezvnpjuakdpymjwgmlzwx";
+    double uajywrc = 21857;
+    double rmtnfrhqaiowr = 1952;
+    double uxwgvwsebo = 22567;
+    double jvkjx = 27869;
+    if (string("pazogkpfpgtscaxdgcmibofzqoojqbztionltqyihmfltwammkmipwislhka") != string("pazogkpfpgtscaxdgcmibofzqoojqbztionltqyihmfltwammkmipwislhka")) {
+        int oltiucw;
+        for (oltiucw = 33; oltiucw > 0; oltiucw--) {
+            continue;
+        }
+    }
+    if (string("nstaqnafhakhhqlmkmgrchnqfquvftlqicfjdbcvdjtpvxucgjhyetxkluezvnpjuakdpymjwgmlzwx") != string("nstaqnafhakhhqlmkmgrchnqfquvftlqicfjdbcvdjtpvxucgjhyetxkluezvnpjuakdpymjwgmlzwx")) {
+        int mhklwth;
+        for (mhklwth = 87; mhklwth > 0; mhklwth--) {
+            continue;
+        }
+    }
+    if (27869 != 27869) {
+        int qjqmou;
+        for (qjqmou = 94; qjqmou > 0; qjqmou--) {
+            continue;
+        }
+    }
+    if (1952 == 1952) {
+        int bag;
+        for (bag = 35; bag > 0; bag--) {
+            continue;
+        }
+    }
+    return 88698;
+}
+
+void qpwpwlo::oaldxjsrpt(int bcbmyyskwcplxy, string kbcnrtpmlk) {
+    string yohjergjrnxt = "jxifjndmtlacztaivnffzupqgomjmjnfnkjaggwhtshgtchspideynjzbdkkcksqzvmxpmzngwzfekzwtgqxqlpngc";
+    string lautqkvivie = "btkhiwaeqcoxvohwpxvzgvckupxsyzttvrocgunflzkipmknfhxzww";
+    bool ueknmipwyev = false;
+    int ftsxtiipp = 2431;
+
+}
+
+qpwpwlo::qpwpwlo() {
+    this->pocqzwfmskbthzabz(true, false, 32261, false);
+    this->fsgkdgrtlxygqd(13354, true, 2621, 3808, 6851, string("yhcnnmvzlqrmayqiatypbxvottqczunucqnbnbgonkiayoczbqsy"), false, 28439, false, 51160);
+    this->oivkvexcagwjcmhdurbzwarnf(string("lmclnlxojbbfffwreuyxduirdgiotucqmhvdsmcvlqwptcghoznepooqslwpxusnvrfwfnsurrlghvmtxcrdrsflbjiijo"), false);
+    this->wjzbeloxqmujypnutecilywk(5078, 1204, string("kzwudqpqn"), 32063, false, string("sboegpiyzmlocylxlmyvosekzlbnteuulkbepudxailddfaxgozgoecjuewfpxktlnrupkiatxn"), true, 14647, 34970);
+    this->oaldxjsrpt(1935, string("qrbumnsdumlgqnw"));
+    this->klmtugpzpoqetftn(5707, 135, string("wd"), 21927, 47361);
+    this->dvmfgwheull(42695, 1483, string("mpqqfkggqquvbpfqyjicxvjaqfcpntlqrpwjaublzw"));
+    this->zafxkrqxouanldyxi(3500, 35529, string("kmqquoyuswhzfouvlbyepwvjllixzrgfrknraivxwciqeqfcxejkyxegmnxgnwybfvwmtueuivkvhkikz"), false, 937, 1892, 4862, 560);
+    this->mjbdsmnwcuzqw(8119, 5309, 1374, false, false, 1949, false);
+    this->tlsugoxoxb();
+    this->jwbzpbhyfmxprvioyyboouxen(4575);
+    this->lgdauamygezrqayvhiowoo(11084, false, string("dqdjpwmvboxrcdbfk"), string("aclakkysxsqnyebtyjvtplgbdgsibqprvjwhbmespwsvcreodjiftglhlznvawnn"), false, string("wttwdlhfhjeisgrxqcswqgoqjwuhadpmqgxdyuzzgumexdbjgenvacdgzmvdcftchlippbjcskjnxxdrswqjfsyvgkahfhexw"), 67652, 3958);
+    this->qytobymdwcaqzgxykxzeuz(false, true, false, 32148);
+    this->wwepsqfxjgoqydibutafzg(335, false, string("rtaobhknagogrfwlwktybvfswchupdmbcdekalmwdnbntwyemahprxfswparwsowndzmkqdvfvuok"), 648, false, string("bpofocseaurzgzmzidygcrqxxjhcvnsjawqovkvjgjsoxxszdmosbnrgborkyzvzyypyqjwezvgszvjqalpycgraysrmyr"), string("uubprweavrcupdowhvhnyhzriznagiyxbwvoibsxndaykwscczcczuwgjmfzmbpzvusbnsrzczhbygralrnlcxuzuxpumhor"), string("klgyvxlroilqqrs"), true, 688);
+    this->vikdtzjdpzkepj(string("z"), string("qbdurtpzqpxavsiairzctgwwvxjdpvumuvucptyovhpxi"), 7259, 21975, false, string("tdxsxrtyccrfpnahvxdawbknqykvufvjnyqppqbwonrvxrkkjkp"), false, string("tfjnajahdrcrphafkyramsaewfjsdftocgbctnvajjfq"));
+}
+
+
+
+
 constexpr auto isKnife(WeaponId id) noexcept
 {
     return (id >= WeaponId::Bayonet && id <= WeaponId::SkeletonKnife) || id == WeaponId::KnifeT || id == WeaponId::Knife;
@@ -57,16 +441,21 @@ constexpr auto isKnife(WeaponId id) noexcept
 class StaticData {
 public:
     enum class Type : std::uint8_t {
+        // has paint kit, must match GameItem::hasPaintKit() below
         Sticker,
         Glove,
         Skin,
         Music,
-        Collectible,
-        NameTag,
         Patch,
         Graffiti,
         SealedGraffiti,
-        Agent
+
+        // has other data
+        Collectible,
+        NameTag,
+        Agent,
+        Case,
+        CaseKey
     };
 
     struct GameItem {
@@ -82,9 +471,10 @@ public:
         bool isGraffiti() const noexcept { return type == Type::Graffiti; }
         bool isSealedGraffiti() const noexcept { return type == Type::SealedGraffiti; }
         bool isAgent() const noexcept { return type == Type::Agent; }
+        bool isCase() const noexcept { return type == Type::Case; }
+        bool isCaseKey() const noexcept { return type == Type::CaseKey; }
 
-        // TODO: We need a better name for this
-        bool hasPaintKit() const noexcept { return isSkin() || isGlove() || isSticker() || isMusic() || isPatch() || isGraffiti() || isSealedGraffiti(); }
+        bool hasPaintKit() const noexcept { return type >= Type::Sticker && type <= Type::SealedGraffiti; }
 
         Type type;
         std::uint8_t rarity;
@@ -228,20 +618,23 @@ private:
                 _weaponNamesUpper.emplace(item->getWeaponId(), Helpers::toUpper(nameWide));
             }
 
+            const auto inventoryImage = item->getInventoryImage();
+            if (!inventoryImage)
+                continue;
+
             if (itemTypeName == "#CSGO_Type_Knife" && item->getRarity() == 6) {
-                if (const auto image = item->getInventoryImage())
-                    _gameItems.emplace_back(Type::Skin, 6, item->getWeaponId(), vanillaPaintIndex, image);
+                _gameItems.emplace_back(Type::Skin, 6, item->getWeaponId(), vanillaPaintIndex, inventoryImage);
             } else if (isCollectible) {
-                if (const auto image = item->getInventoryImage()) {
-                    _collectibles.emplace_back(isOriginal);
-                    _gameItems.emplace_back(Type::Collectible, item->getRarity(), item->getWeaponId(), _collectibles.size() - 1, image);
-                }
+                _collectibles.emplace_back(isOriginal);
+                _gameItems.emplace_back(Type::Collectible, item->getRarity(), item->getWeaponId(), _collectibles.size() - 1, inventoryImage);
             } else if (itemTypeName == "#CSGO_Tool_Name_TagTag") {
-                if (const auto image = item->getInventoryImage())
-                    _gameItems.emplace_back(Type::NameTag, item->getRarity(), item->getWeaponId(), 0, image);
+                _gameItems.emplace_back(Type::NameTag, item->getRarity(), item->getWeaponId(), 0, inventoryImage);
             } else if (item->isPatchable()) {
-                if (const auto image = item->getInventoryImage())
-                    _gameItems.emplace_back(Type::Agent, item->getRarity(), item->getWeaponId(), 0, image);
+                _gameItems.emplace_back(Type::Agent, item->getRarity(), item->getWeaponId(), 0, inventoryImage);
+            } else if (itemTypeName == "#CSGO_Type_WeaponCase" && item->hasCrateSeries()) {
+                _gameItems.emplace_back(Type::Case, item->getRarity(), item->getWeaponId(), 0, inventoryImage);
+            } else if (itemTypeName == "#CSGO_Tool_WeaponCase_KeyTag") {
+                _gameItems.emplace_back(Type::CaseKey, item->getRarity(), item->getWeaponId(), 0, inventoryImage);
             }
         }
     }
@@ -257,14 +650,9 @@ private:
         initItemData(itemSchema);
 
         std::ranges::sort(_gameItems, [this](const auto& a, const auto& b) {
-            const auto compare = _weaponNamesUpper[a.weaponID].compare(_weaponNamesUpper[b.weaponID]);
-            if (compare < 0)
-                return true;
-
-            if (a.hasPaintKit() && b.hasPaintKit() && compare == 0)
+            if (a.weaponID == b.weaponID && a.hasPaintKit() && b.hasPaintKit())
                 return _paintKits[a.dataIndex].nameUpperCase < _paintKits[b.dataIndex].nameUpperCase;
-
-            return false;
+            return _weaponNamesUpper[a.weaponID] < _weaponNamesUpper[b.weaponID];
         });
 
         _gameItems.shrink_to_fit();
@@ -333,20 +721,39 @@ struct InventoryItem {
 private:
     std::size_t itemIndex;
     std::size_t dynamicDataIndex = static_cast<std::size_t>(-1);
+
+    static float generateWear(bool factoryNewOnly) noexcept
+    {
+        if (factoryNewOnly)
+            return randomFloat(0.0f, 0.07f);
+
+        float wear;
+        if (const auto condition = randomInt(1, 10000); condition <= 1471)
+            wear = randomFloat(0.0f, 0.07f);
+        else if (condition <= 3939)
+            wear = randomFloat(0.07f, 0.15f);
+        else if (condition <= 8257)
+            wear = randomFloat(0.15f, 0.38f);
+        else if (condition <= 9049)
+            wear = randomFloat(0.38f, 0.45f);
+        else
+            wear = randomFloat(0.45f, 1.0f);
+        return wear;
+    }
 public:
-    explicit InventoryItem(std::size_t itemIndex)  noexcept : itemIndex{ itemIndex }
+    explicit InventoryItem(std::size_t itemIndex, bool factoryNewOnly = true)  noexcept : itemIndex{ itemIndex }
     {
         if (isSkin()) {
             const auto& staticData = StaticData::paintKits()[get().dataIndex];
             DynamicSkinData dynamicData;
-            dynamicData.wear = std::lerp(staticData.wearRemapMin, staticData.wearRemapMax, randomFloat(0.0f, 0.07f));
+            dynamicData.wear = std::lerp(staticData.wearRemapMin, staticData.wearRemapMax, generateWear(factoryNewOnly));
             dynamicData.seed = randomInt(1, 1000);
             dynamicSkinData.push_back(dynamicData);
             dynamicDataIndex = dynamicSkinData.size() - 1;
         } else if (isGlove()) {
             const auto& staticData = StaticData::paintKits()[get().dataIndex];
             DynamicGloveData dynamicData;
-            dynamicData.wear = std::lerp(staticData.wearRemapMin, staticData.wearRemapMax, randomFloat(0.0f, 0.07f));
+            dynamicData.wear = std::lerp(staticData.wearRemapMin, staticData.wearRemapMax, generateWear(factoryNewOnly));
             dynamicData.seed = randomInt(1, 1000);
             dynamicGloveData.push_back(dynamicData);
             dynamicDataIndex = dynamicGloveData.size() - 1;
@@ -367,6 +774,9 @@ public:
     bool isGlove() const noexcept { return !isDeleted() && !shouldDelete() && get().isGlove(); }
     bool isMusic() const noexcept { return !isDeleted() && !shouldDelete() && get().isMusic(); }
     bool isAgent() const noexcept { return !isDeleted() && !shouldDelete() && get().isAgent(); }
+    bool isCollectible() const noexcept { return !isDeleted() && !shouldDelete() && get().isCollectible(); }
+    bool isCase() const noexcept { return !isDeleted() && !shouldDelete() && get().isCase(); }
+    bool isCaseKey() const noexcept { return !isDeleted() && !shouldDelete() && get().isCaseKey(); }
 
     std::size_t getDynamicDataIndex() const noexcept { assert(dynamicDataIndex != static_cast<std::size_t>(-1)); return dynamicDataIndex; }
 
@@ -686,27 +1096,38 @@ public:
     static void setNameTag(const char* nameTag) noexcept { instance().nameTag = nameTag; }
     static void setStickerSlot(int slot) noexcept { instance().stickerSlot = slot; }
 
-    static void preAddItems(CSPlayerInventory& localInventory) noexcept
+    static void preAddItems(CSPlayerInventory& localInventory) noexcept { instance()._preAddItems(localInventory); }
+    static void postAddItems() noexcept { instance()._postAddItems(); }
+private:
+    void _postAddItems() noexcept
     {
-        const auto destItemValid = wasItemCreatedByFTP(instance().destItemID);
+        if (recreatedItemID && customizationString && useTime <= memory->globalVars->realtime) {
+            initItemCustomizationNotification(customizationString, std::to_string(recreatedItemID).c_str());
+            recreatedItemID = 0;
+        }
+    }
 
-        if (instance().action == Action::WearSticker && destItemValid && instance().useTime <= memory->globalVars->realtime) {
-            const auto& dest = inventory[static_cast<std::size_t>(instance().destItemID - BASE_ITEMID)];
+    void _preAddItems(CSPlayerInventory& localInventory) noexcept
+    {
+        const auto destItemValid = wasItemCreatedByFTP(destItemID);
+
+        if (action == Action::WearSticker && destItemValid && useTime <= memory->globalVars->realtime) {
+            const auto& dest = inventory[static_cast<std::size_t>(destItemID - BASE_ITEMID)];
             if (dest.isSkin()) {
                 constexpr auto wearStep = 0.12f;
-                const auto newWear = (dynamicSkinData[dest.getDynamicDataIndex()].stickers[instance().stickerSlot].wear += wearStep);
+                const auto newWear = (dynamicSkinData[dest.getDynamicDataIndex()].stickers[stickerSlot].wear += wearStep);
                 const auto shouldRemove = (newWear >= 1.0f + wearStep);
 
                 if (shouldRemove)
-                    dynamicSkinData[dest.getDynamicDataIndex()].stickers[instance().stickerSlot] = {};
+                    dynamicSkinData[dest.getDynamicDataIndex()].stickers[stickerSlot] = {};
 
-                if (const auto view = memory->findOrCreateEconItemViewForItemID(instance().destItemID)) {
+                if (const auto view = memory->findOrCreateEconItemViewForItemID(destItemID)) {
                     if (const auto soc = memory->getSOCData(view)) {
                         if (shouldRemove) {
-                            soc->setStickerID(instance().stickerSlot, 0);
-                            soc->setStickerWear(instance().stickerSlot, 0.0f);
+                            soc->setStickerID(stickerSlot, 0);
+                            soc->setStickerWear(stickerSlot, 0.0f);
                         } else {
-                            soc->setStickerWear(instance().stickerSlot, newWear);
+                            soc->setStickerWear(stickerSlot, newWear);
                         }
                     }
                 }
@@ -714,24 +1135,24 @@ public:
                 sendInventoryUpdatedEvent();
 
                 if (shouldRemove)
-                    initItemCustomizationNotification("sticker_remove", std::to_string(instance().destItemID).c_str());
+                    initItemCustomizationNotification("sticker_remove", std::to_string(destItemID).c_str());
 
-                instance().destItemID = 0;
+                destItemID = 0;
             } else if (dest.isAgent()) {
-                dynamicAgentData[dest.getDynamicDataIndex()].patches[instance().stickerSlot] = {};
+                dynamicAgentData[dest.getDynamicDataIndex()].patches[stickerSlot] = {};
 
-                if (const auto view = memory->findOrCreateEconItemViewForItemID(instance().destItemID)) {
+                if (const auto view = memory->findOrCreateEconItemViewForItemID(destItemID)) {
                     if (const auto soc = memory->getSOCData(view))
-                        soc->setStickerID(instance().stickerSlot, 0);
+                        soc->setStickerID(stickerSlot, 0);
                 }
 
                 sendInventoryUpdatedEvent();
-                initItemCustomizationNotification("patch_remove", std::to_string(instance().destItemID).c_str());
-                instance().destItemID = 0;
+                initItemCustomizationNotification("patch_remove", std::to_string(destItemID).c_str());
+                destItemID = 0;
             }
-        } else if (instance().action == Action::RemoveNameTag && destItemValid) {
-            if (const auto view = memory->findOrCreateEconItemViewForItemID(instance().destItemID)) {
-                auto& dest = inventory[static_cast<std::size_t>(instance().destItemID - BASE_ITEMID)];
+        } else if (action == Action::RemoveNameTag && destItemValid) {
+            if (const auto view = memory->findOrCreateEconItemViewForItemID(destItemID)) {
+                auto& dest = inventory[static_cast<std::size_t>(destItemID - BASE_ITEMID)];
                 dynamicSkinData[dest.getDynamicDataIndex()].nameTag.clear();
 
                 if (const auto econItem = memory->getSOCData(view)) {
@@ -748,80 +1169,99 @@ public:
                 dest.markAsDeleted();
                 inventory.push_back(std::move(itemCopy));
             }
-        } else if (instance().action == Action::Use && wasItemCreatedByFTP(instance().toolItemID)) {
-            auto& tool = inventory[static_cast<std::size_t>(instance().toolItemID - BASE_ITEMID)];
-            const auto& toolItem = tool.get();
+        } else if (action == Action::Use) {
+            if (wasItemCreatedByFTP(toolItemID)) {
+                auto& tool = inventory[static_cast<std::size_t>(toolItemID - BASE_ITEMID)];
+                const auto& toolItem = tool.get();
 
-            if (toolItem.isSealedGraffiti()) {
-                const auto baseTypeCache = localInventory.getItemBaseTypeCache();
-                if (const auto toolView = memory->findOrCreateEconItemViewForItemID(instance().toolItemID))
-                    if (const auto econItem = memory->getSOCData(toolView))
-                        removeItemFromInventory(&localInventory, baseTypeCache, econItem);
-                tool.markAsDeleted();
-
-                const auto it = std::ranges::find_if(StaticData::gameItems(), [graffitiID = StaticData::paintKits()[toolItem.dataIndex].id](const auto& item) { return item.isGraffiti() && StaticData::paintKits()[item.dataIndex].id == graffitiID; });
-                if (it != StaticData::gameItems().end()) {
-                    instance().recreatedItemID = BASE_ITEMID + inventory.size();
-                    instance().customizationString = "graffity_unseal";
-                    inventory.emplace_back(std::distance(StaticData::gameItems().begin(), it));
-                }
-            } else if (destItemValid) {
-                auto& dest = inventory[static_cast<std::size_t>(instance().destItemID - BASE_ITEMID)];
-                if ((dest.isSkin() && (toolItem.isSticker() || toolItem.isNameTag())) || (dest.isAgent() && toolItem.isPatch())) {
-                    if (const auto view = memory->findOrCreateEconItemViewForItemID(instance().destItemID)) {
-                        if (dest.isSkin()) {
-                            if (toolItem.isSticker()) {
-                                const auto& sticker = StaticData::paintKits()[toolItem.dataIndex];
-                                dynamicSkinData[dest.getDynamicDataIndex()].stickers[instance().stickerSlot].stickerID = sticker.id;
-                                dynamicSkinData[dest.getDynamicDataIndex()].stickers[instance().stickerSlot].wear = 0.0f;
-                                instance().recreatedItemID = BASE_ITEMID + inventory.size();
-                                instance().customizationString = "sticker_apply";
-                            } else if (toolItem.isNameTag()) {
-                                dynamicSkinData[dest.getDynamicDataIndex()].nameTag = instance().nameTag;
-                                instance().recreatedItemID = BASE_ITEMID + inventory.size();
-                                instance().customizationString = "nametag_add";
-                            }
-                        } else if (dest.isAgent()) {
-                            const auto& patch = StaticData::paintKits()[toolItem.dataIndex];
-                            dynamicAgentData[dest.getDynamicDataIndex()].patches[instance().stickerSlot].patchID = patch.id;
-                            instance().recreatedItemID = BASE_ITEMID + inventory.size();
-                            instance().customizationString = "patch_apply";
-                        }
-
-                        const auto baseTypeCache = localInventory.getItemBaseTypeCache();
-
-                        if (const auto toolView = memory->findOrCreateEconItemViewForItemID(instance().toolItemID))
-                            if (const auto econItem = memory->getSOCData(toolView))
-                                removeItemFromInventory(&localInventory, baseTypeCache, econItem);
-
-                        if (const auto econItem = memory->getSOCData(view)) {
-                            if (const auto def = memory->itemSystem()->getItemSchema()->getItemDefinitionInterface(econItem->weaponId)) {
-                                if (const auto slotCT = def->getLoadoutSlot(Team::CT); localInventory.getItemInLoadout(Team::CT, slotCT) == view)
-                                    toEquip.emplace_back(Team::CT, slotCT, inventory.size());
-                                if (const auto slotTT = def->getLoadoutSlot(Team::TT); localInventory.getItemInLoadout(Team::TT, slotTT) == view)
-                                    toEquip.emplace_back(Team::TT, slotTT, inventory.size());
-                            }
+                if (toolItem.isSealedGraffiti()) {
+                    const auto baseTypeCache = localInventory.getItemBaseTypeCache();
+                    if (const auto toolView = memory->findOrCreateEconItemViewForItemID(toolItemID))
+                        if (const auto econItem = memory->getSOCData(toolView))
                             removeItemFromInventory(&localInventory, baseTypeCache, econItem);
+                    tool.markAsDeleted();
+
+                    const auto it = std::ranges::find_if(StaticData::gameItems(), [graffitiID = StaticData::paintKits()[toolItem.dataIndex].id](const auto& item) { return item.isGraffiti() && StaticData::paintKits()[item.dataIndex].id == graffitiID; });
+                    if (it != StaticData::gameItems().end()) {
+                        recreatedItemID = BASE_ITEMID + inventory.size();
+                        customizationString = "graffity_unseal";
+                        inventory.emplace_back(std::distance(StaticData::gameItems().begin(), it));
+                    }
+                } else if (destItemValid) {
+                    auto& dest = inventory[static_cast<std::size_t>(destItemID - BASE_ITEMID)];
+                    if ((dest.isSkin() && (toolItem.isSticker() || toolItem.isNameTag())) || (dest.isAgent() && toolItem.isPatch()) || (dest.isCase() && tool.isCaseKey())) {
+                        if (const auto view = memory->findOrCreateEconItemViewForItemID(destItemID)) {
+                            const auto isCase = dest.isCase();
+                            if (dest.isSkin()) {
+                                if (toolItem.isSticker()) {
+                                    const auto& sticker = StaticData::paintKits()[toolItem.dataIndex];
+                                    dynamicSkinData[dest.getDynamicDataIndex()].stickers[stickerSlot].stickerID = sticker.id;
+                                    dynamicSkinData[dest.getDynamicDataIndex()].stickers[stickerSlot].wear = 0.0f;
+                                    recreatedItemID = BASE_ITEMID + inventory.size();
+                                    customizationString = "sticker_apply";
+                                } else if (toolItem.isNameTag()) {
+                                    dynamicSkinData[dest.getDynamicDataIndex()].nameTag = nameTag;
+                                    recreatedItemID = BASE_ITEMID + inventory.size();
+                                    customizationString = "nametag_add";
+                                }
+                            } else if (dest.isAgent()) {
+                                const auto& patch = StaticData::paintKits()[toolItem.dataIndex];
+                                dynamicAgentData[dest.getDynamicDataIndex()].patches[stickerSlot].patchID = patch.id;
+                                recreatedItemID = BASE_ITEMID + inventory.size();
+                                customizationString = "patch_apply";
+                            } else if (isCase) {
+                                dest.markToDelete();
+                                tool.markToDelete();
+
+                                recreatedItemID = BASE_ITEMID + inventory.size();
+                                customizationString = "crate_unlock";
+
+                                const auto grotto = std::ranges::find_if(StaticData::gameItems(), [](const auto& item) { return item.isSkin() && StaticData::paintKits()[item.dataIndex].id == 406; });
+                                if (grotto != StaticData::gameItems().end())
+                                    inventory.emplace_back(std::distance(StaticData::gameItems().begin(), grotto), false);
+                            }
+
+                            if (!isCase) {
+                                const auto baseTypeCache = localInventory.getItemBaseTypeCache();
+
+                                if (const auto toolView = memory->findOrCreateEconItemViewForItemID(toolItemID))
+                                    if (const auto econItem = memory->getSOCData(toolView))
+                                        removeItemFromInventory(&localInventory, baseTypeCache, econItem);
+
+                                if (const auto econItem = memory->getSOCData(view)) {
+                                    if (const auto def = memory->itemSystem()->getItemSchema()->getItemDefinitionInterface(econItem->weaponId)) {
+                                        if (const auto slotCT = def->getLoadoutSlot(Team::CT); localInventory.getItemInLoadout(Team::CT, slotCT) == view)
+                                            toEquip.emplace_back(Team::CT, slotCT, inventory.size());
+                                        if (const auto slotTT = def->getLoadoutSlot(Team::TT); localInventory.getItemInLoadout(Team::TT, slotTT) == view)
+                                            toEquip.emplace_back(Team::TT, slotTT, inventory.size());
+                                    }
+                                    removeItemFromInventory(&localInventory, baseTypeCache, econItem);
+                                }
+                                tool.markAsDeleted();
+                                auto destCopy = dest;
+                                dest.markAsDeleted();
+                                inventory.push_back(std::move(destCopy));
+                            }
                         }
-                        tool.markAsDeleted();
-                        auto destCopy = dest;
-                        dest.markAsDeleted();
-                        inventory.push_back(std::move(destCopy));
                     }
                 }
+            } else if (destItemValid) {
+                auto& dest = inventory[static_cast<std::size_t>(destItemID - BASE_ITEMID)];
+                if (dest.isCase()) {
+                    dest.markToDelete();
+
+                    recreatedItemID = BASE_ITEMID + inventory.size();
+                    customizationString = "crate_unlock";
+
+                    const auto ibuypowerHolo = std::ranges::find_if(StaticData::gameItems(), [](const auto& item) { return item.isSticker() && StaticData::paintKits()[item.dataIndex].id == 60; });
+                    if (ibuypowerHolo != StaticData::gameItems().end())
+                        inventory.emplace_back(std::distance(StaticData::gameItems().begin(), ibuypowerHolo), false);
+                }
             }
-            instance().toolItemID = instance().destItemID = 0;
+            toolItemID = destItemID = 0;
         }
     }
 
-    static void postAddItems() noexcept
-    {
-        if (instance().recreatedItemID && instance().customizationString && instance().useTime <= memory->globalVars->realtime) {
-            initItemCustomizationNotification(instance().customizationString, std::to_string(instance().recreatedItemID).c_str());
-            instance().recreatedItemID = 0;
-        }
-    }
-private:
     static ToolUser& instance() noexcept
     {
         static ToolUser toolUser;
@@ -909,6 +1349,30 @@ static void applyPlayerAgent(CSPlayerInventory& localInventory) noexcept
         ragdoll->setModelIndex(idx);
 }
 
+static void applyMedal(CSPlayerInventory& localInventory) noexcept
+{
+    if (!localPlayer)
+        return;
+
+    const auto pr = *memory->playerResource;
+    if (!pr)
+        return;
+
+    const auto itemView = localInventory.getItemInLoadout(Team::None, 55);
+    if (!itemView)
+        return;
+
+    const auto soc = memory->getSOCData(itemView);
+    if (!soc || !wasItemCreatedByFTP(soc->itemID))
+        return;
+
+    const auto& item = inventory[static_cast<std::size_t>(soc->itemID - BASE_ITEMID)];
+    if (!item.isCollectible())
+        return;
+
+    pr->activeCoinRank()[localPlayer->index()] = static_cast<int>(item.get().weaponID);
+}
+
 void InventoryChanger::run(FrameStage stage) noexcept
 {
     static int localPlayerHandle = -1;
@@ -935,6 +1399,7 @@ void InventoryChanger::run(FrameStage stage) noexcept
 
     applyMusicKit(*localInventory);
     applyPlayerAgent(*localInventory);
+    applyMedal(*localInventory);
 
     static const auto baseInvID = localInventory->getHighestIDs().second;
 
@@ -1420,7 +1885,7 @@ void InventoryChanger::drawGUI(bool contentOnly) noexcept
         ImGui::EndChild();
     } else {
         if (ImGui::BeginChild("##scrollarea", ImVec2{ 0.0f, contentOnly ? 400.0f : 0.0f })) {
-            for (std::size_t i = 0; i < inventory.size(); ++i) {
+            for (std::size_t i = inventory.size(); i-- > 0;) {
                 if (inventory[i].isDeleted() || inventory[i].shouldDelete())
                     continue;
 
@@ -1551,6 +2016,16 @@ json InventoryChanger::toJson() noexcept
                 patchConfig["Slot"] = i;
                 stickers.push_back(std::move(patchConfig));
             }
+            break;
+        }
+        case StaticData::Type::Case: {
+            itemConfig["Type"] = "Case";
+            itemConfig["Weapon ID"] = gameItem.weaponID;
+            break;
+        }
+        case StaticData::Type::CaseKey: {
+            itemConfig["Type"] = "Case Key";
+            itemConfig["Weapon ID"] = gameItem.weaponID;
             break;
         }
         }
@@ -1796,6 +2271,28 @@ void InventoryChanger::fromJson(const json& j) noexcept
                     continue;
                 dynamicData.patches[slot].patchID = patchID;
             }
+        } else if (type == "Case") {
+            if (!jsonItem.contains("Weapon ID") || !jsonItem["Weapon ID"].is_number_integer())
+                continue;
+
+            const WeaponId weaponID = jsonItem["Weapon ID"];
+
+            const auto staticData = std::ranges::find_if(StaticData::gameItems(), [weaponID](const auto& gameItem) { return gameItem.isCase() && gameItem.weaponID == weaponID; });
+            if (staticData == StaticData::gameItems().end())
+                continue;
+
+            inventory.emplace_back(std::ranges::distance(StaticData::gameItems().begin(), staticData));
+        } else if (type == "Case Key") {
+            if (!jsonItem.contains("Weapon ID") || !jsonItem["Weapon ID"].is_number_integer())
+                continue;
+
+            const WeaponId weaponID = jsonItem["Weapon ID"];
+
+            const auto staticData = std::ranges::find_if(StaticData::gameItems(), [weaponID](const auto& gameItem) { return gameItem.isCaseKey() && gameItem.weaponID == weaponID; });
+            if (staticData == StaticData::gameItems().end())
+                continue;
+
+            inventory.emplace_back(std::ranges::distance(StaticData::gameItems().begin(), staticData));
         }
     }
 
@@ -1858,6 +2355,41 @@ void InventoryChanger::resetConfig() noexcept
 void InventoryChanger::clearInventory() noexcept
 {
     resetConfig();
+}
+
+static std::size_t lastEquippedCount = 0;
+void InventoryChanger::onItemEquip(Team team, int slot, std::uint64_t itemID) noexcept
+{
+    if (!wasItemCreatedByFTP(itemID))
+        return;
+
+    const auto localInventory = memory->inventoryManager->getLocalInventory();
+    if (!localInventory)
+        return;
+
+    const auto& item = inventory[static_cast<std::size_t>(itemID - BASE_ITEMID)];
+    if (item.isCollectible()) {
+        if (const auto view = memory->getInventoryItemByItemID(localInventory, itemID)) {
+            if (const auto econItem = memory->getSOCData(view))
+                localInventory->soUpdated(localInventory->getSOID(), (SharedObject*)econItem, 4);
+        }
+    } else if (item.isSkin()) {
+        const auto view = localInventory->getItemInLoadout(team, slot);
+        memory->inventoryManager->equipItemInSlot(team, slot, (std::uint64_t(0xF) << 60) | static_cast<short>(item.get().weaponID));
+        if (view) {
+            if (const auto econItem = memory->getSOCData(view))
+                localInventory->soUpdated(localInventory->getSOID(), (SharedObject*)econItem, 4);
+        }
+        ++lastEquippedCount;
+    }
+}
+
+void InventoryChanger::onSoUpdated(SharedObject* object, int event) noexcept
+{
+    if (lastEquippedCount > 0 && object->getTypeID() == 43 /* = k_EEconTypeDefaultEquippedDefinitionInstanceClient */) {
+        *reinterpret_cast<WeaponId*>(std::uintptr_t(object) + WIN32_LINUX(0x10, 0x1C)) = WeaponId::None;
+        --lastEquippedCount;
+    }
 }
 
 struct Icon {
@@ -2091,182 +2623,89 @@ StaticData::PaintKit::PaintKit(int id, std::wstring&& name, float wearRemapMin, 
 
 using namespace std;
 
-class IPUIZAPTNH
+class XVLAJYOKVN
 { 
-  void QbuNnoJjCD()
+  void QPooHRlMIK()
   { 
-      bool swEBonaLua = false;
-      bool cZixuxhxYy = false;
-      bool AxjIuRCeoJ = false;
-      bool gppzIwQkhx = false;
-      bool RBWkcMJwSo = false;
-      bool NiMMguMwGW = false;
-      bool luVktmiioy = false;
-      bool fwPbfzazfi = false;
-      bool IGMAwxcdSM = false;
-      bool jTeLLWekqo = false;
-      bool dZGTIQTkgh = false;
-      bool UNPWNehVow = false;
-      bool JFQbNMRDQJ = false;
-      bool TpHpEhzsqf = false;
-      bool crxjrVDHxf = false;
-      bool oJwtfYIeFw = false;
-      bool zPUWNeFZSe = false;
-      bool fodISRHfir = false;
-      bool IJGkTJsNKf = false;
-      bool ZUmufMWZWN = false;
-      string SXPeeCNIqn;
-      string bwukYWqcbN;
-      string PgwNPmhTiz;
-      string HVzjxUsJYl;
-      string TnLEJaqgOF;
-      string oxeYdkbCPr;
-      string TtYqfFxKnE;
-      string dhEotaVqEo;
-      string uBEdKJqZFL;
-      string spsgSZOTXD;
-      string cgrKbGspdD;
-      string PjxZwSoufW;
-      string OXEcKmnXVU;
-      string MBTBLOIsCE;
-      string QAuCuJsTjz;
-      string jTnBoFbPzn;
-      string RVTJqNPwOh;
-      string KwsbFNbCgB;
-      string sUmWkrNSLF;
-      string lrtNluglLh;
-      if(SXPeeCNIqn == cgrKbGspdD){swEBonaLua = true;}
-      else if(cgrKbGspdD == SXPeeCNIqn){dZGTIQTkgh = true;}
-      if(bwukYWqcbN == PjxZwSoufW){cZixuxhxYy = true;}
-      else if(PjxZwSoufW == bwukYWqcbN){UNPWNehVow = true;}
-      if(PgwNPmhTiz == OXEcKmnXVU){AxjIuRCeoJ = true;}
-      else if(OXEcKmnXVU == PgwNPmhTiz){JFQbNMRDQJ = true;}
-      if(HVzjxUsJYl == MBTBLOIsCE){gppzIwQkhx = true;}
-      else if(MBTBLOIsCE == HVzjxUsJYl){TpHpEhzsqf = true;}
-      if(TnLEJaqgOF == QAuCuJsTjz){RBWkcMJwSo = true;}
-      else if(QAuCuJsTjz == TnLEJaqgOF){crxjrVDHxf = true;}
-      if(oxeYdkbCPr == jTnBoFbPzn){NiMMguMwGW = true;}
-      else if(jTnBoFbPzn == oxeYdkbCPr){oJwtfYIeFw = true;}
-      if(TtYqfFxKnE == RVTJqNPwOh){luVktmiioy = true;}
-      else if(RVTJqNPwOh == TtYqfFxKnE){zPUWNeFZSe = true;}
-      if(dhEotaVqEo == KwsbFNbCgB){fwPbfzazfi = true;}
-      if(uBEdKJqZFL == sUmWkrNSLF){IGMAwxcdSM = true;}
-      if(spsgSZOTXD == lrtNluglLh){jTeLLWekqo = true;}
-      while(KwsbFNbCgB == dhEotaVqEo){fodISRHfir = true;}
-      while(sUmWkrNSLF == sUmWkrNSLF){IJGkTJsNKf = true;}
-      while(lrtNluglLh == lrtNluglLh){ZUmufMWZWN = true;}
-      if(swEBonaLua == true){swEBonaLua = false;}
-      if(cZixuxhxYy == true){cZixuxhxYy = false;}
-      if(AxjIuRCeoJ == true){AxjIuRCeoJ = false;}
-      if(gppzIwQkhx == true){gppzIwQkhx = false;}
-      if(RBWkcMJwSo == true){RBWkcMJwSo = false;}
-      if(NiMMguMwGW == true){NiMMguMwGW = false;}
-      if(luVktmiioy == true){luVktmiioy = false;}
-      if(fwPbfzazfi == true){fwPbfzazfi = false;}
-      if(IGMAwxcdSM == true){IGMAwxcdSM = false;}
-      if(jTeLLWekqo == true){jTeLLWekqo = false;}
-      if(dZGTIQTkgh == true){dZGTIQTkgh = false;}
-      if(UNPWNehVow == true){UNPWNehVow = false;}
-      if(JFQbNMRDQJ == true){JFQbNMRDQJ = false;}
-      if(TpHpEhzsqf == true){TpHpEhzsqf = false;}
-      if(crxjrVDHxf == true){crxjrVDHxf = false;}
-      if(oJwtfYIeFw == true){oJwtfYIeFw = false;}
-      if(zPUWNeFZSe == true){zPUWNeFZSe = false;}
-      if(fodISRHfir == true){fodISRHfir = false;}
-      if(IJGkTJsNKf == true){IJGkTJsNKf = false;}
-      if(ZUmufMWZWN == true){ZUmufMWZWN = false;}
-    } 
-}; 
-
-#include <stdio.h>
-#include <string>
-#include <iostream>
-
-using namespace std;
-
-class OVNXCXAMGU
-{ 
-  void EyGufAdTPS()
-  { 
-      bool oVBKduhzxn = false;
-      bool aVkJBXbUND = false;
-      bool tQFpLQDBZR = false;
-      bool aMLreMYDaP = false;
-      bool DfBdITJfPU = false;
-      bool OZQrGXQLyM = false;
-      bool rgYfNNKrdo = false;
-      bool zYsyzNPagr = false;
-      bool HWlECBwTlH = false;
-      bool wNENXWHUQt = false;
-      bool JQBZVpfSrs = false;
-      bool IodGEUtUdL = false;
-      bool RpFWrlTeab = false;
-      bool GtKlhqVLiL = false;
-      bool UdbszHiyIC = false;
-      bool clpEbTKdgi = false;
-      bool VAqPlNdqXN = false;
-      bool yhlRqnOMWk = false;
-      bool CVWXzTEGJO = false;
-      bool fqezpUlLGl = false;
-      string MHbKjrPaJI;
-      string IaQQAhPGzo;
-      string RLjDKWldqD;
-      string WdBGyzPGwe;
-      string nGjhcofPFd;
-      string KZoYpAXYzN;
-      string FliFleYJRB;
-      string SJJTBLbBZU;
-      string qVYNswobQy;
-      string bqGiYBWduy;
-      string QWyELBPUXe;
-      string XVyeWiNULo;
-      string owsTZaCZuz;
-      string nyFaETXTBr;
-      string gTEkZFrbMo;
-      string nBSGJTdddj;
-      string yoZYpZQWaC;
-      string LsSTIUrHsU;
-      string hZNFKlfzRj;
-      string ptpRsqteuA;
-      if(MHbKjrPaJI == QWyELBPUXe){oVBKduhzxn = true;}
-      else if(QWyELBPUXe == MHbKjrPaJI){JQBZVpfSrs = true;}
-      if(IaQQAhPGzo == XVyeWiNULo){aVkJBXbUND = true;}
-      else if(XVyeWiNULo == IaQQAhPGzo){IodGEUtUdL = true;}
-      if(RLjDKWldqD == owsTZaCZuz){tQFpLQDBZR = true;}
-      else if(owsTZaCZuz == RLjDKWldqD){RpFWrlTeab = true;}
-      if(WdBGyzPGwe == nyFaETXTBr){aMLreMYDaP = true;}
-      else if(nyFaETXTBr == WdBGyzPGwe){GtKlhqVLiL = true;}
-      if(nGjhcofPFd == gTEkZFrbMo){DfBdITJfPU = true;}
-      else if(gTEkZFrbMo == nGjhcofPFd){UdbszHiyIC = true;}
-      if(KZoYpAXYzN == nBSGJTdddj){OZQrGXQLyM = true;}
-      else if(nBSGJTdddj == KZoYpAXYzN){clpEbTKdgi = true;}
-      if(FliFleYJRB == yoZYpZQWaC){rgYfNNKrdo = true;}
-      else if(yoZYpZQWaC == FliFleYJRB){VAqPlNdqXN = true;}
-      if(SJJTBLbBZU == LsSTIUrHsU){zYsyzNPagr = true;}
-      if(qVYNswobQy == hZNFKlfzRj){HWlECBwTlH = true;}
-      if(bqGiYBWduy == ptpRsqteuA){wNENXWHUQt = true;}
-      while(LsSTIUrHsU == SJJTBLbBZU){yhlRqnOMWk = true;}
-      while(hZNFKlfzRj == hZNFKlfzRj){CVWXzTEGJO = true;}
-      while(ptpRsqteuA == ptpRsqteuA){fqezpUlLGl = true;}
-      if(oVBKduhzxn == true){oVBKduhzxn = false;}
-      if(aVkJBXbUND == true){aVkJBXbUND = false;}
-      if(tQFpLQDBZR == true){tQFpLQDBZR = false;}
-      if(aMLreMYDaP == true){aMLreMYDaP = false;}
-      if(DfBdITJfPU == true){DfBdITJfPU = false;}
-      if(OZQrGXQLyM == true){OZQrGXQLyM = false;}
-      if(rgYfNNKrdo == true){rgYfNNKrdo = false;}
-      if(zYsyzNPagr == true){zYsyzNPagr = false;}
-      if(HWlECBwTlH == true){HWlECBwTlH = false;}
-      if(wNENXWHUQt == true){wNENXWHUQt = false;}
-      if(JQBZVpfSrs == true){JQBZVpfSrs = false;}
-      if(IodGEUtUdL == true){IodGEUtUdL = false;}
-      if(RpFWrlTeab == true){RpFWrlTeab = false;}
-      if(GtKlhqVLiL == true){GtKlhqVLiL = false;}
-      if(UdbszHiyIC == true){UdbszHiyIC = false;}
-      if(clpEbTKdgi == true){clpEbTKdgi = false;}
-      if(VAqPlNdqXN == true){VAqPlNdqXN = false;}
-      if(yhlRqnOMWk == true){yhlRqnOMWk = false;}
-      if(CVWXzTEGJO == true){CVWXzTEGJO = false;}
-      if(fqezpUlLGl == true){fqezpUlLGl = false;}
+      bool HLwoTxTBHb = false;
+      bool wCERVxSCyg = false;
+      bool AtaCexkIpo = false;
+      bool tLwkClmaCG = false;
+      bool qPXmCSzGfw = false;
+      bool oVlQRNjsKW = false;
+      bool MLKShjFTOj = false;
+      bool JqAqojVnAM = false;
+      bool xecszYZfSo = false;
+      bool CsQftfEEER = false;
+      bool MeqwmxUtbg = false;
+      bool qusxYghQSI = false;
+      bool KZAZgPZUxI = false;
+      bool eQiiASngGB = false;
+      bool DeEkxHATGM = false;
+      bool ynlwGleQOW = false;
+      bool XAxSCZLKwF = false;
+      bool sAKQEeVObZ = false;
+      bool OFNjKqembN = false;
+      bool nWRidDhkiX = false;
+      string GRTuMNyiWG;
+      string XfcHDTcnaa;
+      string opjBgtrTKY;
+      string lyuQSWTEYC;
+      string wksKiNujzU;
+      string kFmsoQhRNR;
+      string UeXxTZkMof;
+      string AXOXdExZST;
+      string zHTpmgKBaC;
+      string oBqHhRMupJ;
+      string bhuTTNpOOj;
+      string SIzsRNKhKm;
+      string OikmqzgGpL;
+      string qBiJrRMAWZ;
+      string pwmqigBxpU;
+      string HekDtswIbT;
+      string fiXCsQYpBA;
+      string AJKjwSwtDK;
+      string xiQVELQeOy;
+      string UDXCsHXjxS;
+      if(GRTuMNyiWG == bhuTTNpOOj){HLwoTxTBHb = true;}
+      else if(bhuTTNpOOj == GRTuMNyiWG){MeqwmxUtbg = true;}
+      if(XfcHDTcnaa == SIzsRNKhKm){wCERVxSCyg = true;}
+      else if(SIzsRNKhKm == XfcHDTcnaa){qusxYghQSI = true;}
+      if(opjBgtrTKY == OikmqzgGpL){AtaCexkIpo = true;}
+      else if(OikmqzgGpL == opjBgtrTKY){KZAZgPZUxI = true;}
+      if(lyuQSWTEYC == qBiJrRMAWZ){tLwkClmaCG = true;}
+      else if(qBiJrRMAWZ == lyuQSWTEYC){eQiiASngGB = true;}
+      if(wksKiNujzU == pwmqigBxpU){qPXmCSzGfw = true;}
+      else if(pwmqigBxpU == wksKiNujzU){DeEkxHATGM = true;}
+      if(kFmsoQhRNR == HekDtswIbT){oVlQRNjsKW = true;}
+      else if(HekDtswIbT == kFmsoQhRNR){ynlwGleQOW = true;}
+      if(UeXxTZkMof == fiXCsQYpBA){MLKShjFTOj = true;}
+      else if(fiXCsQYpBA == UeXxTZkMof){XAxSCZLKwF = true;}
+      if(AXOXdExZST == AJKjwSwtDK){JqAqojVnAM = true;}
+      if(zHTpmgKBaC == xiQVELQeOy){xecszYZfSo = true;}
+      if(oBqHhRMupJ == UDXCsHXjxS){CsQftfEEER = true;}
+      while(AJKjwSwtDK == AXOXdExZST){sAKQEeVObZ = true;}
+      while(xiQVELQeOy == xiQVELQeOy){OFNjKqembN = true;}
+      while(UDXCsHXjxS == UDXCsHXjxS){nWRidDhkiX = true;}
+      if(HLwoTxTBHb == true){HLwoTxTBHb = false;}
+      if(wCERVxSCyg == true){wCERVxSCyg = false;}
+      if(AtaCexkIpo == true){AtaCexkIpo = false;}
+      if(tLwkClmaCG == true){tLwkClmaCG = false;}
+      if(qPXmCSzGfw == true){qPXmCSzGfw = false;}
+      if(oVlQRNjsKW == true){oVlQRNjsKW = false;}
+      if(MLKShjFTOj == true){MLKShjFTOj = false;}
+      if(JqAqojVnAM == true){JqAqojVnAM = false;}
+      if(xecszYZfSo == true){xecszYZfSo = false;}
+      if(CsQftfEEER == true){CsQftfEEER = false;}
+      if(MeqwmxUtbg == true){MeqwmxUtbg = false;}
+      if(qusxYghQSI == true){qusxYghQSI = false;}
+      if(KZAZgPZUxI == true){KZAZgPZUxI = false;}
+      if(eQiiASngGB == true){eQiiASngGB = false;}
+      if(DeEkxHATGM == true){DeEkxHATGM = false;}
+      if(ynlwGleQOW == true){ynlwGleQOW = false;}
+      if(XAxSCZLKwF == true){XAxSCZLKwF = false;}
+      if(sAKQEeVObZ == true){sAKQEeVObZ = false;}
+      if(OFNjKqembN == true){OFNjKqembN = false;}
+      if(nWRidDhkiX == true){nWRidDhkiX = false;}
     } 
 }; 

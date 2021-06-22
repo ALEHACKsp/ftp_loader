@@ -29,659 +29,704 @@
 #include "../SDK/Surface.h"
 #include "../SDK/ViewRenderBeams.h"
 
-
 using namespace std;
 
-class ntqwwza {
+class mfujjnt {
 public:
-    bool qkfqpycnhapao;
-    string jkyhvai;
-    ntqwwza();
-    int dqttewqzrsrqqrsjnbxref(string jaojycfxspb, double psvltyqsyiv, double tesvynmdhlr, string bwvwpjz, bool uaydbdbsjutafvc, string ctesbvmyb, double zyapabalbmzm, string zvxrwbyn, double wznbbjpppx, double vtnnz);
-    int opympgdcukzaohc(double geheshhxmrk, string rbkrrgm, bool yjvyaquujav, bool iazxpfqp, int spyarrzo, double zevmkxuriazw, bool bupnvpileuf, string osgzbryvlvmtfdv);
-    bool hjmzgunncshrcpftdsmixkfvr(int nphvovpfahwtion, string ssggu, string qufbvbvn, string xmfigbehmtkr, bool kseahmck, double pvccdkk, double jphlonx, int bldhehyihoupl, double zjdblyuoa);
-    bool lsbkavbfkfspy(double sdzxeqpqb, bool mildd);
-    bool rorbadoutgbwwcgnjmlsyrso(int optxpjmbj, bool ivghqmt, int icmbsfowl, int zdhvfon, double jbstqpybadwtq, int qszsazsiuv, int wighhh, string kthkmasov);
-    string qflsowoagrduxaenqlcrbxm(string gcnngzogumad, int kjmagpttodbnzke, bool tnphzavol, string qzzjzzhdpatrdxz, int xtjrdsau, double kpchrv, bool fohpkeu);
-    bool radqaqulpx(string nrqwvfgskylbc, string hsvqzldxiutlrf);
-    double pjbwudultsppmzcamhzedi(double wqqfttrb, bool nrmwbdtedwz, bool ryytpmyw, bool jnobxtqoyjhesh, int kgnvktdwurwas, double nkxaztrdo, double lcrzyitgtlolvcy);
-    int xgqpwrvqiyotvxgwiyaobs();
+    int gmgfddhlpjqht;
+    mfujjnt();
+    int senlwhgenhmapwygqbzjnxt();
+    void jcuxeqamnps(string dbmgumh, bool jdhuldvxgskko, string gtknwxlc, string pkngsa, int swbhzrfwf, string apvvmcp, int qaxsmgszck, string kerrrdtdkhwsun, string vjubyslffcmxv, double zofebdkr);
+    bool szybjlynismldnuryyfmlgypm(double dwaveaurgkunk, bool medcaosmk, string xampftzh, bool hxttamrfkd, string evwxryy, int mrnlmdbpxarghq, bool hmorxtoz);
+    void vhuhmomudwocpcigcgwua(int yaoxuk, int osyqvuermena, int kcmvhqer, bool tofmtu, bool stylqkivqbkx, int lanyz, string vpytoexyienyl, double pcxgdsmikpu);
+    string vhpzgxmyqvn(bool mxpfkswophndpd, string gspyaxhkyagjv, string vnhhecs, string yxisu, double casnevmyyu, double ryfbbfenw, string nzofunanfeiddfk, int jglnze);
+    bool ukryqapjvhw(string ualyvowednr, bool qcrqxmxz, int hpdxwszoj, string xqjnxgkfuyi, double uxwvxmjmc, double ofdjxbzg, int yjrsym, bool izckydrern, double rcnryw, double wbrgfuheshsiz);
+    string vldmjfkgfrhdwqirowe(bool bkkevtkqoefyzo, string sdppca, int kkcsmrtrabmzs, bool yidgupadcxokld, bool gibuoktfkk, string pisnciebbbm);
+    string qajmiqdpkbnubjkvfuxkv(string bykqygtw, bool ydhsxzhgr, double uqnfolwj, double qrhynrv, bool bwihhzflgfuvulg, int oqcfb, double wtegugrcnntr, int rdbezatf);
+    int nnslqawsotyssxbwdxbsciok(int ipkezrnh, int myeppurauemwdsc, bool rbazyzwrm, double rmebwm, bool fcxlxslxqd, string hggtrvzmko, bool ytlukwbjuy, bool yqyouyibewqael, string mrnir);
+    int zfajaxqbvaidicgfbvmsvw(double bhyctlyjj, bool snwotr, int ttdawsydwrbaf, bool gwlcdvguxqobwj, int gnbyf, string eicxwhknxum, int rltfkphmdvu, int mvnlztogbvlxueu, int kntinzkbnh, string elakuuvxvvbj);
 
 protected:
-    double aqdfiycgruzste;
-    double ibehoftt;
+    double indcbbscn;
 
-    bool mrhcdcnzscwjdyikreofd(bool qkoelgfvdmtpepe, string hickzzdjzy, bool ehyqumf, bool fesmu, bool ralgtsbd, bool ikgbljizip, string jxgmuwaykivhca, int ihiuanmm);
-    string yhdqionlnrpeskxbyurkny(double lbvvfpoda, string ewqbq, int zptcndbrb, string aqkzfatqwrlwxvd, bool gxzmlu, double jpdew, int rfaezda);
-    double uofxprrpdvnsqwhwkpv(int nkfocnphwvz, int mtprktktyzkhn, double ixmtjmezyowlcfx);
-    void makbjnfzuzijnoigsdoluk(double uyqekdfdly, double kbmerbpe, int eqhjfu, double hrqmlpdb, bool psmza);
+    double cfdkdaoqmjphxkj(int oylrhnquzqxc, bool bbvcghphqvizx, string wmtsknwk, bool pwmhdxmbmbu, bool xnywoljvdcop, string hvqtdsqpimfwgr, double vnrkqy);
+    string jfvprzrqfithkbcyfitjo(int mnubnjdvkovilte);
+    void xxdonwjiwdzcfhwztvzyz(bool dbhjjo, double rukymbvqac, int ygckbzfwiawlh, bool iqciw, int wtbta);
+    string fkvebginpgho(bool goxyvoygfeqh, bool fjagdbnab, bool ikupijqaukcehk, double slroybffqsdcbn, double lowgnlnfcp);
+    bool bczhhiwnqidazoxnawonmrlq(bool aqdjkhvqwfuauob, bool rkoawo, int qvqckitkymvakg);
+    double ggmqfqywtz(int vasbezbdadewtsc, string uahiko, string snamyjkcbt, double yunczkgv, bool oklwqywsqppgj, int xudbdcsk, bool vnunxoduohay);
+    int aejfsoqlswcvup(string gmhgmninfokjp, double oxwdaa, int ujeqjfsxnjt, string oaaitd, bool nmkizeaganh, bool poyofp, bool pnyyr, int xxegdwosjqapw, bool myjwsylz, string mpxrqmufxq);
 
 private:
-    string tirbkggg;
-    double syfgs;
+    int wnstz;
+    double lvhmljrtwopmyeg;
+    int egkqfimpoabs;
 
-    void ojlpcvluvpe(string udamzynmxylyb, string lcxsbubbd, string rjdizyjrg, double lhguhsqscc, int knsrlrcjlswjb, bool oycmwlnddms, double eryjihacfc, bool vaorjjxoa, bool pbpjcuuz);
-    int wdrqpgqwga(string duxoksxqp, double gyxiwybni, bool unkhvg, int ubvppu);
-    string nbmflqnvijhnbvxfrqpxpjf(int wjvbsthngbyeqzm, bool dapahixwq, string tgdaubuepmuwha, string nqxbfibjdvr, double wldawbgllns, bool hitofdkryocm, int akhfxbnn, bool srfcnhcdavgnr);
-    string qdwuigamqnsjprzfbnsxy(bool nsastauuinuemd, double pxfxkyk, double rhjpi, string ahoafc, string knlfnbwkqz, int yimmzhcjhtibm, string msutnq, double nhbtvcu, double rxwnufhwgvwmhag, string xlqzy);
-    void nrdmajtbddwuxjn(bool dadyxtkrhyjvb, bool obyxzab, bool yebdkqazaous, string bzwrvjqaphcu, double dnijrzoc, int szywp, double tymvqhba, bool sahtupsrkmjfaff);
-    string vixkkscslyvhngpillhkyt();
-    double jzzufgadwnyvxbk(bool ryfwupjl, double jbsio, int fmohzhepbjfyi, int akofctajxsew, double ksebqykclniebfl, bool yumlmgxm, string mkvbbfdpkjrycv, int lylqdnq);
-    bool ksgibfovmb(bool wkbqoawzzuim, string zmvrjaftn, string mtqdwsbbswmrt, int hhflpyydwakc, int ibanacts, bool osxieiimpotnx);
-    bool nsbnfbyidbdjqhbnqxlil(int fsiwdzmzamk, string ntvgtbvjow, bool kawtxirer, bool wzdbgr, string nnmwpwcad, int uzmlzbmhejwq);
-    string zckcxajrvmpcirskjes();
+    double jjoplnfcof(bool rtpqfxtkxhnptvz, string mgkrsjko, double mdssktjjjmxe, bool hgbqnadard, int xngjk);
+    int otqxzqdxunnsjjmbzsgcv(bool ssiwugyrthprke, bool xvltmnulv, double tmjhz, double nvdzogck);
+    int fxsvqbsbyscxurxadbilaemf(string zpyyyr, double noeigf, int ggsfug, double huvnvg, string mqyfurpgyizhnc);
+    void ceqimmbziwoixy(string mtlekxtjgjf, double npeewcmfwarwg, int dkkohiqvsc, int lpnbaqkdbrk, string stkvxr, string mraodgdqmwzhi, string dltorrvglcpy);
+    string dhrawcibbdyzzxjmmaqp(int jajijm, int twqtlhjtjhhmy, bool dvqhqvsuf, bool urswqttwjqqtj, int ypbuq, bool gxwaoedzipip, double schrruenvwrvp, double hocyq, string ldaoeostfheop, int mzplllgxjmf);
+    int xebgqqvydmmsqrgjbilp(bool rxftoglerdypbxk, bool dkevoobqut, bool wbftpnfacjip, bool lvhkkrh, double dqfwu, string ohkdqnkqxwv, bool eobyiih, int fsmnupqs, double clgiw, bool opjuhfp);
+    string vohwnmgkzllwgbti();
+    double oxsxfjbbevnukfos(bool vnbbldm, string idfqwmikqzk, double xvhlxu, bool dfjrkhe, bool sifaay, int kmbpurxkwubj, double eguufymn, double adnyywcjpczunj, double naiitxnwbeatyl);
 
 };
 
 
-void ntqwwza::ojlpcvluvpe(string udamzynmxylyb, string lcxsbubbd, string rjdizyjrg, double lhguhsqscc, int knsrlrcjlswjb, bool oycmwlnddms, double eryjihacfc, bool vaorjjxoa, bool pbpjcuuz) {
-    int tddqgejh = 1599;
-    string chirimwpy = "qzkrzqmwtwtawjlesmnhljzjairiqppbenjovxdlgfeidqachmrkstykqu";
-    bool tubmmub = true;
-    string pyuxdsqswfwy = "xcfqvcjuybcthujsnbzrktowgiliajjogjlttuoznakjzawaolkfbammitjxtwiqmclueshsscvvzaxixviapkurssbczn";
-    string uszrjtmptavv = "ybbblo";
-    if (true == true) {
-        int gbsgypwlhh;
-        for (gbsgypwlhh = 70; gbsgypwlhh > 0; gbsgypwlhh--) {
-            continue;
-        }
-    }
-    if (string("xcfqvcjuybcthujsnbzrktowgiliajjogjlttuoznakjzawaolkfbammitjxtwiqmclueshsscvvzaxixviapkurssbczn") == string("xcfqvcjuybcthujsnbzrktowgiliajjogjlttuoznakjzawaolkfbammitjxtwiqmclueshsscvvzaxixviapkurssbczn")) {
-        int ckodevvc;
-        for (ckodevvc = 17; ckodevvc > 0; ckodevvc--) {
-            continue;
-        }
-    }
-    if (1599 == 1599) {
-        int uoutklv;
-        for (uoutklv = 57; uoutklv > 0; uoutklv--) {
-            continue;
-        }
-    }
-    if (string("qzkrzqmwtwtawjlesmnhljzjairiqppbenjovxdlgfeidqachmrkstykqu") == string("qzkrzqmwtwtawjlesmnhljzjairiqppbenjovxdlgfeidqachmrkstykqu")) {
-        int xegoaji;
-        for (xegoaji = 48; xegoaji > 0; xegoaji--) {
-            continue;
-        }
-    }
-    if (true != true) {
-        int yvtj;
-        for (yvtj = 94; yvtj > 0; yvtj--) {
-            continue;
-        }
-    }
 
-}
 
-int ntqwwza::wdrqpgqwga(string duxoksxqp, double gyxiwybni, bool unkhvg, int ubvppu) {
-    return 67642;
-}
-
-string ntqwwza::nbmflqnvijhnbvxfrqpxpjf(int wjvbsthngbyeqzm, bool dapahixwq, string tgdaubuepmuwha, string nqxbfibjdvr, double wldawbgllns, bool hitofdkryocm, int akhfxbnn, bool srfcnhcdavgnr) {
-    bool wobxsofkefwrqs = false;
-    string scdvhmp = "qgmkubhmrsussjccgdvuwsefxzlxlcwaabmfrrkrdvbjmrggpbsbbclf";
-    double hbeysxf = 23773;
-    int ycdehcdrv = 5112;
-    int uhepknvoecgb = 3792;
-    int hfaieykklyf = 285;
-    bool wynudokeuuqu = false;
-    if (string("qgmkubhmrsussjccgdvuwsefxzlxlcwaabmfrrkrdvbjmrggpbsbbclf") == string("qgmkubhmrsussjccgdvuwsefxzlxlcwaabmfrrkrdvbjmrggpbsbbclf")) {
-        int vhr;
-        for (vhr = 93; vhr > 0; vhr--) {
+double mfujjnt::jjoplnfcof(bool rtpqfxtkxhnptvz, string mgkrsjko, double mdssktjjjmxe, bool hgbqnadard, int xngjk) {
+    double lbirlseizdsxsiq = 17467;
+    bool pgqtcrbqga = false;
+    double obufczh = 49137;
+    if (49137 == 49137) {
+        int bdbvgx;
+        for (bdbvgx = 84; bdbvgx > 0; bdbvgx--) {
             continue;
         }
     }
-    if (string("qgmkubhmrsussjccgdvuwsefxzlxlcwaabmfrrkrdvbjmrggpbsbbclf") != string("qgmkubhmrsussjccgdvuwsefxzlxlcwaabmfrrkrdvbjmrggpbsbbclf")) {
-        int hlctiihfa;
-        for (hlctiihfa = 49; hlctiihfa > 0; hlctiihfa--) {
-            continue;
-        }
-    }
-    if (string("qgmkubhmrsussjccgdvuwsefxzlxlcwaabmfrrkrdvbjmrggpbsbbclf") == string("qgmkubhmrsussjccgdvuwsefxzlxlcwaabmfrrkrdvbjmrggpbsbbclf")) {
-        int xuo;
-        for (xuo = 87; xuo > 0; xuo--) {
-            continue;
-        }
-    }
-    if (3792 == 3792) {
-        int icqin;
-        for (icqin = 36; icqin > 0; icqin--) {
-            continue;
-        }
-    }
-    return string("g");
-}
-
-string ntqwwza::qdwuigamqnsjprzfbnsxy(bool nsastauuinuemd, double pxfxkyk, double rhjpi, string ahoafc, string knlfnbwkqz, int yimmzhcjhtibm, string msutnq, double nhbtvcu, double rxwnufhwgvwmhag, string xlqzy) {
-    bool fvwbfbbmffsw = true;
-    string fkvply = "pwitxasbclqvtusgtnqpoivbkkbykutrvixrbbuanlkhhyesbmiuhvqkuy";
-    string fhtezmkiim = "pdpnzxrocjxugzubdqsfldzbxciepdnejegxfqmftydlejpqykxqbbxwtjnzhapvtyohwyoha";
-    bool hzirfcne = true;
-    int xrbpeqq = 2375;
-    double qxdkq = 11495;
-    string yqbapzxyskyql = "isuaeocvpnunrzijtsoeoaqwnhmpndiwwulentouqnnlcrmxpnyrqivbdlrxfh";
-    int zoritpqee = 2217;
-    int xgjfm = 7858;
-    string karfgrxk = "isrsvnmtnbmsuvxac";
-    if (true != true) {
-        int ix;
-        for (ix = 14; ix > 0; ix--) {
-            continue;
-        }
-    }
-    if (string("pwitxasbclqvtusgtnqpoivbkkbykutrvixrbbuanlkhhyesbmiuhvqkuy") == string("pwitxasbclqvtusgtnqpoivbkkbykutrvixrbbuanlkhhyesbmiuhvqkuy")) {
-        int bhnqb;
-        for (bhnqb = 89; bhnqb > 0; bhnqb--) {
-            continue;
-        }
-    }
-    if (string("isuaeocvpnunrzijtsoeoaqwnhmpndiwwulentouqnnlcrmxpnyrqivbdlrxfh") != string("isuaeocvpnunrzijtsoeoaqwnhmpndiwwulentouqnnlcrmxpnyrqivbdlrxfh")) {
-        int ed;
-        for (ed = 95; ed > 0; ed--) {
-            continue;
-        }
-    }
-    if (11495 != 11495) {
-        int xyqkr;
-        for (xyqkr = 68; xyqkr > 0; xyqkr--) {
-            continue;
-        }
-    }
-    return string("xwqdzkr");
-}
-
-void ntqwwza::nrdmajtbddwuxjn(bool dadyxtkrhyjvb, bool obyxzab, bool yebdkqazaous, string bzwrvjqaphcu, double dnijrzoc, int szywp, double tymvqhba, bool sahtupsrkmjfaff) {
-    string hpyawpnt = "zybwjetklozodzbvpxmdtorfbruelashmwewtxohuqjwfoiyqtjqshddkbgoaaprd";
-    string jhsxvx = "eowkynhbccierqunpvsulnvzwpgojszxfrzavshmpjnfhzqhtldxjkszspfaxrtojlrduztrmyuojlcpp";
-    string hpxglpaufllv = "cmqzqpqukaisggsgyilgwobsfkblplhifmvwaaoznxhdxgkvqhlfqxfwkbnsicysvqrjkhckryshcvkorovk";
-    string goofjnae = "difrxusyfvkvkfqmbbaslaoteredhmxwqsaxyuqcyzfgffhsalkkooxreij";
-    bool ejynsmlczk = true;
-    bool bkmaarm = true;
-    int wuyjntfepbv = 6493;
-    if (string("eowkynhbccierqunpvsulnvzwpgojszxfrzavshmpjnfhzqhtldxjkszspfaxrtojlrduztrmyuojlcpp") == string("eowkynhbccierqunpvsulnvzwpgojszxfrzavshmpjnfhzqhtldxjkszspfaxrtojlrduztrmyuojlcpp")) {
-        int wm;
-        for (wm = 14; wm > 0; wm--) {
-            continue;
-        }
-    }
-
-}
-
-string ntqwwza::vixkkscslyvhngpillhkyt() {
-    bool qvgwn = false;
-    int takdfjdlveye = 2635;
-    string gettgkaww = "ggtkbgsbmfxehoqaczzirozhthfkd";
-    int etwqzkwzgymw = 1352;
-    string dyapxzndoqeqazx = "ff";
-    bool yehabmzt = false;
-    double hvwdaoge = 14501;
-    double vdhadibdl = 3024;
-    double bcuqhxcjeypaady = 7606;
-    int hdtjrbipt = 5634;
-    return string("ajahokxsmthyrxuztz");
-}
-
-double ntqwwza::jzzufgadwnyvxbk(bool ryfwupjl, double jbsio, int fmohzhepbjfyi, int akofctajxsew, double ksebqykclniebfl, bool yumlmgxm, string mkvbbfdpkjrycv, int lylqdnq) {
-    int mokszuht = 267;
-    double aribpje = 14718;
-    double jrmmlxvekkubnz = 18323;
-    if (14718 == 14718) {
-        int mdv;
-        for (mdv = 22; mdv > 0; mdv--) {
-            continue;
-        }
-    }
-    if (18323 == 18323) {
-        int jydutql;
-        for (jydutql = 72; jydutql > 0; jydutql--) {
-            continue;
-        }
-    }
-    if (18323 == 18323) {
-        int ymbmgjrxpj;
-        for (ymbmgjrxpj = 2; ymbmgjrxpj > 0; ymbmgjrxpj--) {
-            continue;
-        }
-    }
-    if (18323 == 18323) {
-        int knqiyvots;
-        for (knqiyvots = 83; knqiyvots > 0; knqiyvots--) {
-            continue;
-        }
-    }
-    return 71002;
-}
-
-bool ntqwwza::ksgibfovmb(bool wkbqoawzzuim, string zmvrjaftn, string mtqdwsbbswmrt, int hhflpyydwakc, int ibanacts, bool osxieiimpotnx) {
-    double hpqbxpuml = 70112;
-    int zzlaqltbqwhvm = 460;
-    bool smzjrivigcq = true;
-    double bnjpc = 18581;
-    string jqqolk = "elqxgctkqxwhczrikzgltwjwsrssmekbopcdcfzkvtvtrdukepfagskvoqctxtqbkqlkyqvhqqubxtzxhltbqggevby";
-    string qjsyozrfbrg = "sfogj";
-    if (true != true) {
-        int cpjd;
-        for (cpjd = 31; cpjd > 0; cpjd--) {
-            continue;
-        }
-    }
-    if (string("elqxgctkqxwhczrikzgltwjwsrssmekbopcdcfzkvtvtrdukepfagskvoqctxtqbkqlkyqvhqqubxtzxhltbqggevby") != string("elqxgctkqxwhczrikzgltwjwsrssmekbopcdcfzkvtvtrdukepfagskvoqctxtqbkqlkyqvhqqubxtzxhltbqggevby")) {
-        int mw;
-        for (mw = 77; mw > 0; mw--) {
-            continue;
-        }
-    }
-    return false;
-}
-
-bool ntqwwza::nsbnfbyidbdjqhbnqxlil(int fsiwdzmzamk, string ntvgtbvjow, bool kawtxirer, bool wzdbgr, string nnmwpwcad, int uzmlzbmhejwq) {
-    bool ykpuwcctifdn = true;
-    int lyjlwfcbcfjp = 2893;
-    int lkdhnbaksebz = 232;
-    string aqluwk = "kbewcdshbfqsfunynaiwfbrwetpojciwphliiqreopxfzplz";
-    double rneodofovnk = 17309;
-    int lvupjnjablnwz = 2878;
-    if (string("kbewcdshbfqsfunynaiwfbrwetpojciwphliiqreopxfzplz") != string("kbewcdshbfqsfunynaiwfbrwetpojciwphliiqreopxfzplz")) {
-        int yyfrbokw;
-        for (yyfrbokw = 50; yyfrbokw > 0; yyfrbokw--) {
-            continue;
-        }
-    }
-    if (true == true) {
-        int tc;
-        for (tc = 1; tc > 0; tc--) {
-            continue;
-        }
-    }
-    if (string("kbewcdshbfqsfunynaiwfbrwetpojciwphliiqreopxfzplz") == string("kbewcdshbfqsfunynaiwfbrwetpojciwphliiqreopxfzplz")) {
-        int ys;
-        for (ys = 98; ys > 0; ys--) {
-            continue;
-        }
-    }
-    if (2878 == 2878) {
-        int qoynwshfz;
-        for (qoynwshfz = 58; qoynwshfz > 0; qoynwshfz--) {
-            continue;
-        }
-    }
-    if (string("kbewcdshbfqsfunynaiwfbrwetpojciwphliiqreopxfzplz") != string("kbewcdshbfqsfunynaiwfbrwetpojciwphliiqreopxfzplz")) {
-        int zcfkmaoojl;
-        for (zcfkmaoojl = 2; zcfkmaoojl > 0; zcfkmaoojl--) {
-            continue;
-        }
-    }
-    return false;
-}
-
-string ntqwwza::zckcxajrvmpcirskjes() {
-    int ohpwimjtpqokn = 4660;
-    bool xrbjhffowpw = true;
-    double kmyebw = 2714;
-    int nocfayxoda = 545;
-    int iiywjdxdgxt = 2727;
-    double xmqfnmra = 37025;
-    if (37025 == 37025) {
-        int vb;
-        for (vb = 88; vb > 0; vb--) {
-            continue;
-        }
-    }
-    if (37025 != 37025) {
-        int gcamdwt;
-        for (gcamdwt = 59; gcamdwt > 0; gcamdwt--) {
-            continue;
-        }
-    }
-    return string("");
-}
-
-bool ntqwwza::mrhcdcnzscwjdyikreofd(bool qkoelgfvdmtpepe, string hickzzdjzy, bool ehyqumf, bool fesmu, bool ralgtsbd, bool ikgbljizip, string jxgmuwaykivhca, int ihiuanmm) {
-    double yymfqdw = 60056;
-    string bkcltdsxylr = "cqsfhwiuyvkblsiolqlkpwrazcenuyvwzumynkyonv";
-    bool lskkhggufa = false;
-    string tpkjwblglibc = "cinplzsjobiwahlxjcchrriysojrwlwvaqstrkcnglebdqabnkadvazvunxvummouaegddjtfhfcivaisxrhxlycprclh";
-    double csritj = 26360;
-    bool dxllmdehdsxpj = true;
-    if (true == true) {
-        int vjujuddqea;
-        for (vjujuddqea = 36; vjujuddqea > 0; vjujuddqea--) {
-            continue;
-        }
-    }
-    return false;
-}
-
-string ntqwwza::yhdqionlnrpeskxbyurkny(double lbvvfpoda, string ewqbq, int zptcndbrb, string aqkzfatqwrlwxvd, bool gxzmlu, double jpdew, int rfaezda) {
-    bool umnzpgl = false;
-    int ozoxeil = 823;
-    int baobaavh = 3057;
-    bool ynjujyzd = true;
-    int ijpedttzsws = 2971;
-    double fcfsgsjqajvhyv = 15589;
-    int bcxrxfuezzxwmlp = 7581;
-    string sjglincxu = "umpkgcwzrbnomagyhccyoqeielefegrdfawfxvsrgkamkreqxn";
-    bool ckjjbhxfnuey = true;
-    double tecyxud = 15998;
-    if (string("umpkgcwzrbnomagyhccyoqeielefegrdfawfxvsrgkamkreqxn") == string("umpkgcwzrbnomagyhccyoqeielefegrdfawfxvsrgkamkreqxn")) {
-        int tehujqpg;
-        for (tehujqpg = 47; tehujqpg > 0; tehujqpg--) {
-            continue;
-        }
-    }
-    if (3057 != 3057) {
-        int kqqjkhdeq;
-        for (kqqjkhdeq = 71; kqqjkhdeq > 0; kqqjkhdeq--) {
-            continue;
-        }
-    }
-    if (true != true) {
-        int xnqdqdis;
-        for (xnqdqdis = 75; xnqdqdis > 0; xnqdqdis--) {
-            continue;
-        }
-    }
-    if (7581 == 7581) {
-        int ijn;
-        for (ijn = 59; ijn > 0; ijn--) {
-            continue;
-        }
-    }
-    return string("xqaxuxt");
-}
-
-double ntqwwza::uofxprrpdvnsqwhwkpv(int nkfocnphwvz, int mtprktktyzkhn, double ixmtjmezyowlcfx) {
-    string dfauhv = "wdwdmiaecjgmwmatazdggwlcoxdajtxhlzwkllowkzwkgiziaajytwdzirurfpgzhwdjjcporb";
-    double xzoyaonyzfhg = 14244;
-    string pnjsr = "dpngxtgvt";
-    int lklxognaau = 163;
-    double yrimswv = 13539;
-    int babdankugckysom = 3451;
-    bool plfyznnmd = false;
-    int ojnbya = 3723;
-    if (3723 != 3723) {
-        int qdbxgwsowj;
-        for (qdbxgwsowj = 7; qdbxgwsowj > 0; qdbxgwsowj--) {
-            continue;
-        }
-    }
-    if (14244 != 14244) {
-        int acomeptwaq;
-        for (acomeptwaq = 79; acomeptwaq > 0; acomeptwaq--) {
-            continue;
-        }
-    }
-    return 60513;
-}
-
-void ntqwwza::makbjnfzuzijnoigsdoluk(double uyqekdfdly, double kbmerbpe, int eqhjfu, double hrqmlpdb, bool psmza) {
-    string shdsaplkfufgdfd = "ipnvphsjmtpwevgkztzibvztj";
-    double jefgiiq = 21346;
-    bool hjpuf = false;
-    bool epluhq = true;
-    int trage = 3089;
-    double jkqmpi = 32814;
-    bool bsgxcc = true;
-    int sjmesslorqn = 4093;
-    int panddqjqasyo = 2495;
-    bool dqjjnvcpe = false;
-    if (32814 != 32814) {
-        int ajkd;
-        for (ajkd = 59; ajkd > 0; ajkd--) {
-            continue;
-        }
-    }
-    if (2495 != 2495) {
-        int kazv;
-        for (kazv = 79; kazv > 0; kazv--) {
-            continue;
-        }
-    }
-
-}
-
-int ntqwwza::dqttewqzrsrqqrsjnbxref(string jaojycfxspb, double psvltyqsyiv, double tesvynmdhlr, string bwvwpjz, bool uaydbdbsjutafvc, string ctesbvmyb, double zyapabalbmzm, string zvxrwbyn, double wznbbjpppx, double vtnnz) {
-    double urobbuq = 45033;
-    bool oasxnczkxe = true;
-    double rilfm = 59284;
-    int jaksvuy = 599;
-    bool cbkphc = false;
-    if (599 != 599) {
-        int wrj;
-        for (wrj = 21; wrj > 0; wrj--) {
-            continue;
-        }
-    }
-    if (599 != 599) {
-        int txiy;
-        for (txiy = 45; txiy > 0; txiy--) {
-            continue;
-        }
-    }
-    if (599 != 599) {
-        int kjgp;
-        for (kjgp = 19; kjgp > 0; kjgp--) {
-            continue;
-        }
-    }
-    if (false == false) {
-        int av;
-        for (av = 7; av > 0; av--) {
-            continue;
-        }
-    }
-    if (true == true) {
-        int vhmuv;
-        for (vhmuv = 34; vhmuv > 0; vhmuv--) {
-            continue;
-        }
-    }
-    return 90105;
-}
-
-int ntqwwza::opympgdcukzaohc(double geheshhxmrk, string rbkrrgm, bool yjvyaquujav, bool iazxpfqp, int spyarrzo, double zevmkxuriazw, bool bupnvpileuf, string osgzbryvlvmtfdv) {
-    string ipkrlgs = "kwwnveqpnlvvplatpxylrrdgwdockctscyptrlgkqnfkvgrhcnwbubfurm";
-    int siaobdujfdzwfea = 2219;
-    int tvmxzodiksxo = 997;
-    double bdldlrxptflt = 52102;
-    bool xhqlxjdpbvyppvd = true;
-    int iprueaotgpon = 4258;
-    string sknhrsyfwaid = "zaorupiyvddjebemmgzrbl";
-    if (4258 != 4258) {
-        int aoiy;
-        for (aoiy = 68; aoiy > 0; aoiy--) {
-            continue;
-        }
-    }
-    return 63505;
-}
-
-bool ntqwwza::hjmzgunncshrcpftdsmixkfvr(int nphvovpfahwtion, string ssggu, string qufbvbvn, string xmfigbehmtkr, bool kseahmck, double pvccdkk, double jphlonx, int bldhehyihoupl, double zjdblyuoa) {
-    string hemvflf = "rcuwozlyihdhbkgeyenfmincjyzndysazungagxakzzisovperihtesafnucxcjhqemzspubaraespixsdotxldcf";
-    bool amwihpjbz = true;
-    string uaana = "kbzxaitimyrpvmwvucyczzuafjo";
-    int sjrbenyk = 1062;
-    string nmcwzgnlip = "ycqbffrpcncdagavmdbvsblajznxdgmxrnkdeefzfxqmydbmstefidmfrnfjlzwcytszrkfwtwmryn";
-    int xngyobcbcl = 1284;
-    return true;
-}
-
-bool ntqwwza::lsbkavbfkfspy(double sdzxeqpqb, bool mildd) {
-    int jzvtu = 2147;
-    double zlkvwoll = 35749;
-    string lwtfjleclw = "xnonwetxeghpyctksbvezqsasbljtesfcnbihmftubbrucoybywkgpzkwjvkklupvctmspthdvqtbhzmeyokinlkmucotdbo";
-    bool zmekvwcbxa = false;
-    string qhhaqifokpyodf = "ottzdhwxwzipkaaoxtbzmoizvqxcqhgrntezffilmnvrnhrwmndiextypjwkosbpxppmodmjnekdgeatj";
-    bool zqslkcxyszd = true;
-    if (string("ottzdhwxwzipkaaoxtbzmoizvqxcqhgrntezffilmnvrnhrwmndiextypjwkosbpxppmodmjnekdgeatj") != string("ottzdhwxwzipkaaoxtbzmoizvqxcqhgrntezffilmnvrnhrwmndiextypjwkosbpxppmodmjnekdgeatj")) {
-        int xswwbq;
-        for (xswwbq = 15; xswwbq > 0; xswwbq--) {
-            continue;
-        }
-    }
-    if (true != true) {
-        int dbiop;
-        for (dbiop = 46; dbiop > 0; dbiop--) {
+    if (49137 == 49137) {
+        int ntmbdjh;
+        for (ntmbdjh = 51; ntmbdjh > 0; ntmbdjh--) {
             continue;
         }
     }
     if (false != false) {
-        int hh;
-        for (hh = 9; hh > 0; hh--) {
+        int lvzbhjklkw;
+        for (lvzbhjklkw = 94; lvzbhjklkw > 0; lvzbhjklkw--) {
+            continue;
+        }
+    }
+    if (false != false) {
+        int mtt;
+        for (mtt = 57; mtt > 0; mtt--) {
+            continue;
+        }
+    }
+    return 66035;
+}
+
+int mfujjnt::otqxzqdxunnsjjmbzsgcv(bool ssiwugyrthprke, bool xvltmnulv, double tmjhz, double nvdzogck) {
+    bool udbkyollghczshd = false;
+    double ygdrvfyud = 24987;
+    int kygvqznqeagkz = 5731;
+    double nldfwfuukkps = 22518;
+    int jilfoqtgvgd = 1516;
+    double hbyoobdczzl = 19245;
+    string hhmsqqwayfkbae = "lzckvlmrmmbzqecxunohevozdeuzadzysufdymadighgvaijqrhnqlizvvsfpqfhhsm";
+    int hgzvgw = 119;
+    if (1516 == 1516) {
+        int drnspgw;
+        for (drnspgw = 45; drnspgw > 0; drnspgw--) {
+            continue;
+        }
+    }
+    if (22518 != 22518) {
+        int mqwowzq;
+        for (mqwowzq = 97; mqwowzq > 0; mqwowzq--) {
+            continue;
+        }
+    }
+    if (1516 != 1516) {
+        int dtkmx;
+        for (dtkmx = 11; dtkmx > 0; dtkmx--) {
+            continue;
+        }
+    }
+    if (24987 != 24987) {
+        int bgvamlwufe;
+        for (bgvamlwufe = 45; bgvamlwufe > 0; bgvamlwufe--) {
+            continue;
+        }
+    }
+    if (string("lzckvlmrmmbzqecxunohevozdeuzadzysufdymadighgvaijqrhnqlizvvsfpqfhhsm") != string("lzckvlmrmmbzqecxunohevozdeuzadzysufdymadighgvaijqrhnqlizvvsfpqfhhsm")) {
+        int ginfmsvk;
+        for (ginfmsvk = 10; ginfmsvk > 0; ginfmsvk--) {
+            continue;
+        }
+    }
+    return 78027;
+}
+
+int mfujjnt::fxsvqbsbyscxurxadbilaemf(string zpyyyr, double noeigf, int ggsfug, double huvnvg, string mqyfurpgyizhnc) {
+    int akbwbyrs = 4682;
+    double afyjhdqovvods = 62283;
+    string kyptimjmanq = "";
+    double izgucrdzjocwot = 19995;
+    bool iebiesmnippnb = true;
+    bool lldplrfkbmial = true;
+    string iegmhennslgb = "zcaqcyzkqchndqivhuovnlgwnrbqquxpgzxufazzmvhlwzwhddspwfbjpje";
+    double vqsgkuipac = 23681;
+    string ipegz = "gnlacjwffvssiuoeiiecjtjbpevmjltifnmsy";
+    if (62283 != 62283) {
+        int jsbcylj;
+        for (jsbcylj = 99; jsbcylj > 0; jsbcylj--) {
+            continue;
+        }
+    }
+    if (23681 == 23681) {
+        int xbaoohwdri;
+        for (xbaoohwdri = 93; xbaoohwdri > 0; xbaoohwdri--) {
+            continue;
+        }
+    }
+    if (true != true) {
+        int mmvu;
+        for (mmvu = 34; mmvu > 0; mmvu--) {
+            continue;
+        }
+    }
+    return 53003;
+}
+
+void mfujjnt::ceqimmbziwoixy(string mtlekxtjgjf, double npeewcmfwarwg, int dkkohiqvsc, int lpnbaqkdbrk, string stkvxr, string mraodgdqmwzhi, string dltorrvglcpy) {
+    double mxoaxfyysynbnj = 2446;
+    string ukfdgnytzjmmkhe = "";
+    string ngngwxtgbl = "lhszxkncobqtkipvappkxftygqucqphcbfgnkttbcnsspzluieqagepmsiaxnaugcp";
+    bool zuxaypenvgeyrli = true;
+    if (string("lhszxkncobqtkipvappkxftygqucqphcbfgnkttbcnsspzluieqagepmsiaxnaugcp") == string("lhszxkncobqtkipvappkxftygqucqphcbfgnkttbcnsspzluieqagepmsiaxnaugcp")) {
+        int ecqwp;
+        for (ecqwp = 46; ecqwp > 0; ecqwp--) {
+            continue;
+        }
+    }
+    if (string("") == string("")) {
+        int hdbu;
+        for (hdbu = 23; hdbu > 0; hdbu--) {
+            continue;
+        }
+    }
+    if (2446 != 2446) {
+        int tbivouyu;
+        for (tbivouyu = 84; tbivouyu > 0; tbivouyu--) {
+            continue;
+        }
+    }
+    if (true != true) {
+        int fodmhbtp;
+        for (fodmhbtp = 3; fodmhbtp > 0; fodmhbtp--) {
+            continue;
+        }
+    }
+    if (2446 != 2446) {
+        int ttnjwk;
+        for (ttnjwk = 76; ttnjwk > 0; ttnjwk--) {
+            continue;
+        }
+    }
+
+}
+
+string mfujjnt::dhrawcibbdyzzxjmmaqp(int jajijm, int twqtlhjtjhhmy, bool dvqhqvsuf, bool urswqttwjqqtj, int ypbuq, bool gxwaoedzipip, double schrruenvwrvp, double hocyq, string ldaoeostfheop, int mzplllgxjmf) {
+    string lbkhsmy = "dswqppsemvjahkfuzoziyjnkdttolvakexp";
+    bool zqpnamgk = false;
+    bool xvhohmh = false;
+    string xllwqfbxotfaj = "rxiksorjzpiatcwyrxadtszlmzaixoshxwjdfursgsaldsypvhqkthszyxyhikgbiolpermeuczomeipgdpfnvrmupdna";
+    bool iaxhqpvyfnqrba = true;
+    double ujcydjgibbjln = 42154;
+    return string("xnkeqzhnuws");
+}
+
+int mfujjnt::xebgqqvydmmsqrgjbilp(bool rxftoglerdypbxk, bool dkevoobqut, bool wbftpnfacjip, bool lvhkkrh, double dqfwu, string ohkdqnkqxwv, bool eobyiih, int fsmnupqs, double clgiw, bool opjuhfp) {
+    double bsellnpx = 48133;
+    int gewbsudozyajk = 4427;
+    double wldhngqziozzc = 12694;
+    bool thhnufsnpofnp = false;
+    double rhtgfxons = 20789;
+    string ssbxoxhzxtepxt = "zvbeearnquwrddd";
+    int xlavmizt = 1849;
+    string xpzbbfroedcei = "pjglqsmsdrwpozwwdrvmvcdwmncshfmvg";
+    return 52481;
+}
+
+string mfujjnt::vohwnmgkzllwgbti() {
+    bool qfgguzevvtta = true;
+    int plaboukdyxecb = 212;
+    int glzzsekqadke = 412;
+    int kjyeqt = 2383;
+    bool yijyrhiovicqbum = true;
+    string inlbshxkvriiklt = "tkxjflwrkopasfuhnbqwcpwoxnhlqnszjckhypnvkztphsavadoqagpgdxyughonlvrvbpdxgwrbthuecppsdgaaknhgdl";
+    int wxpqpzajiw = 522;
+    int iwulsvsenh = 2143;
+    if (string("tkxjflwrkopasfuhnbqwcpwoxnhlqnszjckhypnvkztphsavadoqagpgdxyughonlvrvbpdxgwrbthuecppsdgaaknhgdl") != string("tkxjflwrkopasfuhnbqwcpwoxnhlqnszjckhypnvkztphsavadoqagpgdxyughonlvrvbpdxgwrbthuecppsdgaaknhgdl")) {
+        int njmfsx;
+        for (njmfsx = 10; njmfsx > 0; njmfsx--) {
+            continue;
+        }
+    }
+    if (412 != 412) {
+        int huhjxpr;
+        for (huhjxpr = 77; huhjxpr > 0; huhjxpr--) {
+            continue;
+        }
+    }
+    if (true != true) {
+        int jepqoryhfw;
+        for (jepqoryhfw = 26; jepqoryhfw > 0; jepqoryhfw--) {
+            continue;
+        }
+    }
+    if (string("tkxjflwrkopasfuhnbqwcpwoxnhlqnszjckhypnvkztphsavadoqagpgdxyughonlvrvbpdxgwrbthuecppsdgaaknhgdl") == string("tkxjflwrkopasfuhnbqwcpwoxnhlqnszjckhypnvkztphsavadoqagpgdxyughonlvrvbpdxgwrbthuecppsdgaaknhgdl")) {
+        int byvyj;
+        for (byvyj = 63; byvyj > 0; byvyj--) {
+            continue;
+        }
+    }
+    if (2383 == 2383) {
+        int eualcdsx;
+        for (eualcdsx = 78; eualcdsx > 0; eualcdsx--) {
+            continue;
+        }
+    }
+    return string("dwaa");
+}
+
+double mfujjnt::oxsxfjbbevnukfos(bool vnbbldm, string idfqwmikqzk, double xvhlxu, bool dfjrkhe, bool sifaay, int kmbpurxkwubj, double eguufymn, double adnyywcjpczunj, double naiitxnwbeatyl) {
+    bool ciekcqe = false;
+    if (false != false) {
+        int opzcwpcg;
+        for (opzcwpcg = 9; opzcwpcg > 0; opzcwpcg--) {
             continue;
         }
     }
     if (false == false) {
-        int xmincv;
-        for (xmincv = 42; xmincv > 0; xmincv--) {
+        int zeddnb;
+        for (zeddnb = 64; zeddnb > 0; zeddnb--) {
+            continue;
+        }
+    }
+    if (false == false) {
+        int ts;
+        for (ts = 25; ts > 0; ts--) {
+            continue;
+        }
+    }
+    if (false != false) {
+        int bhao;
+        for (bhao = 51; bhao > 0; bhao--) {
+            continue;
+        }
+    }
+    if (false == false) {
+        int qya;
+        for (qya = 93; qya > 0; qya--) {
+            continue;
+        }
+    }
+    return 57178;
+}
+
+double mfujjnt::cfdkdaoqmjphxkj(int oylrhnquzqxc, bool bbvcghphqvizx, string wmtsknwk, bool pwmhdxmbmbu, bool xnywoljvdcop, string hvqtdsqpimfwgr, double vnrkqy) {
+    string rxddgdcogr = "yhbstrxwjcxcvytbpegczqwspugztgpvsxgyafvoytuvdygyvrfhtxxmdbugevgqj";
+    bool kxfrxa = false;
+    double ognvuhhzmmu = 15036;
+    bool lmirsicd = true;
+    int eucdawzickunnh = 1460;
+    return 8381;
+}
+
+string mfujjnt::jfvprzrqfithkbcyfitjo(int mnubnjdvkovilte) {
+    string saawvjvkr = "gmztcmcoygekcsjruttinvkhd";
+    double fzamejonb = 37161;
+    int fivwuepr = 231;
+    int becudclfmxh = 6567;
+    int uggrot = 2076;
+    string apzly = "scafucilgcslegeeisljpelopiolhtugevrwuwkqbpepwhraaqhrmsliryhpwbpirbgksar";
+    bool stwjbo = true;
+    return string("ukhxggphkezcjvp");
+}
+
+void mfujjnt::xxdonwjiwdzcfhwztvzyz(bool dbhjjo, double rukymbvqac, int ygckbzfwiawlh, bool iqciw, int wtbta) {
+    bool dxoadzcq = true;
+    double jbtxvqmoek = 15695;
+    int gvgollvbjgnt = 1671;
+    double exysurbam = 10550;
+    int xobzoikts = 5425;
+    bool wrzswuzvezn = true;
+    bool mlamzjd = false;
+    bool zgjbzvhkjltvl = true;
+    if (10550 == 10550) {
+        int bzoh;
+        for (bzoh = 0; bzoh > 0; bzoh--) {
+            continue;
+        }
+    }
+    if (5425 == 5425) {
+        int sefgtvhci;
+        for (sefgtvhci = 60; sefgtvhci > 0; sefgtvhci--) {
+            continue;
+        }
+    }
+    if (false == false) {
+        int xyczhly;
+        for (xyczhly = 0; xyczhly > 0; xyczhly--) {
+            continue;
+        }
+    }
+
+}
+
+string mfujjnt::fkvebginpgho(bool goxyvoygfeqh, bool fjagdbnab, bool ikupijqaukcehk, double slroybffqsdcbn, double lowgnlnfcp) {
+    return string("ybmqfuxwlythilegbsgv");
+}
+
+bool mfujjnt::bczhhiwnqidazoxnawonmrlq(bool aqdjkhvqwfuauob, bool rkoawo, int qvqckitkymvakg) {
+    int lbbwhe = 2783;
+    int zmdncwafu = 2709;
+    int tnnagbugt = 13;
+    string izflrpxxc = "eljlteobvrpbcoskljuerpyxgutbypuliovsjbzyimcagpajuxrcjtagtpilwlchrht";
+    int hggnnnx = 44;
+    double zojvmd = 6550;
+    string zxhtai = "ocdjfdgnuusgceibqiajpfatbdcyhnzeolvioezsxsdfnmwtbcdirpvhfgxzydoqpczngfmjmzdxvwmiehxuyaks";
+    int kmuguhp = 298;
+    if (string("ocdjfdgnuusgceibqiajpfatbdcyhnzeolvioezsxsdfnmwtbcdirpvhfgxzydoqpczngfmjmzdxvwmiehxuyaks") == string("ocdjfdgnuusgceibqiajpfatbdcyhnzeolvioezsxsdfnmwtbcdirpvhfgxzydoqpczngfmjmzdxvwmiehxuyaks")) {
+        int jebkmlj;
+        for (jebkmlj = 72; jebkmlj > 0; jebkmlj--) {
+            continue;
+        }
+    }
+    if (2709 == 2709) {
+        int yzc;
+        for (yzc = 31; yzc > 0; yzc--) {
+            continue;
+        }
+    }
+    if (2709 != 2709) {
+        int bqnasfbx;
+        for (bqnasfbx = 47; bqnasfbx > 0; bqnasfbx--) {
+            continue;
+        }
+    }
+    if (2709 != 2709) {
+        int aoptjm;
+        for (aoptjm = 89; aoptjm > 0; aoptjm--) {
+            continue;
+        }
+    }
+    if (13 == 13) {
+        int rxtmyoqz;
+        for (rxtmyoqz = 28; rxtmyoqz > 0; rxtmyoqz--) {
             continue;
         }
     }
     return false;
 }
 
-bool ntqwwza::rorbadoutgbwwcgnjmlsyrso(int optxpjmbj, bool ivghqmt, int icmbsfowl, int zdhvfon, double jbstqpybadwtq, int qszsazsiuv, int wighhh, string kthkmasov) {
-    int qfmgbhlpjsj = 951;
-    int gblsuoyqvndteq = 3311;
-    double hvxiktgabmd = 5706;
-    string sfqiwgfhwxakwcx = "wgzqlfyuzuczuwldpkmqxigmgcwoanvgbusqljddpykgsyclapgzaghedg";
-    bool adgbzrvicdaxv = true;
-    if (5706 != 5706) {
-        int kysrbhgvx;
-        for (kysrbhgvx = 29; kysrbhgvx > 0; kysrbhgvx--) {
+double mfujjnt::ggmqfqywtz(int vasbezbdadewtsc, string uahiko, string snamyjkcbt, double yunczkgv, bool oklwqywsqppgj, int xudbdcsk, bool vnunxoduohay) {
+    double tnxinjoyendlam = 8341;
+    if (8341 != 8341) {
+        int nnvzue;
+        for (nnvzue = 38; nnvzue > 0; nnvzue--) {
             continue;
         }
     }
+    if (8341 != 8341) {
+        int yi;
+        for (yi = 69; yi > 0; yi--) {
+            continue;
+        }
+    }
+    return 68786;
+}
+
+int mfujjnt::aejfsoqlswcvup(string gmhgmninfokjp, double oxwdaa, int ujeqjfsxnjt, string oaaitd, bool nmkizeaganh, bool poyofp, bool pnyyr, int xxegdwosjqapw, bool myjwsylz, string mpxrqmufxq) {
+    double sytqxfhiaa = 67381;
+    bool tnjoqvxxd = false;
+    double oryru = 22309;
+    int mwcgaepqaimrjz = 5458;
+    double cihbuwxjwwdzcuf = 12952;
+    bool egrtascfbcjib = true;
+    double vwxkfl = 37875;
+    double twbba = 12369;
+    int ztdydesnkrib = 1095;
+    double pidvebz = 2322;
+    return 40910;
+}
+
+int mfujjnt::senlwhgenhmapwygqbzjnxt() {
+    string wppybois = "foctocfnmkyjaqvndpnhakjlpodqfgoonivxvmnbppkluaurgvlnlnnwtnlqzjoqnjtqevokinhitbrvhkjrhp";
+    int cxgcoiouhlhu = 8;
+    string bykhqo = "zsascqvvkufetakagzqdrzcvwuixlynwdqyairjlowbhocwhfuijscqejiggmbpsjebadvyqemykpugloxpiulzszszyqnml";
+    double fnxlorznhb = 4672;
+    double ntpupvditpijo = 72010;
+    int rlkmzbcpsvons = 5548;
+    double mqwuekaexuohi = 6867;
+    if (5548 == 5548) {
+        int pnkxixe;
+        for (pnkxixe = 85; pnkxixe > 0; pnkxixe--) {
+            continue;
+        }
+    }
+    if (72010 != 72010) {
+        int anbaqp;
+        for (anbaqp = 87; anbaqp > 0; anbaqp--) {
+            continue;
+        }
+    }
+    if (string("foctocfnmkyjaqvndpnhakjlpodqfgoonivxvmnbppkluaurgvlnlnnwtnlqzjoqnjtqevokinhitbrvhkjrhp") != string("foctocfnmkyjaqvndpnhakjlpodqfgoonivxvmnbppkluaurgvlnlnnwtnlqzjoqnjtqevokinhitbrvhkjrhp")) {
+        int vgcvhhttv;
+        for (vgcvhhttv = 97; vgcvhhttv > 0; vgcvhhttv--) {
+            continue;
+        }
+    }
+    return 75137;
+}
+
+void mfujjnt::jcuxeqamnps(string dbmgumh, bool jdhuldvxgskko, string gtknwxlc, string pkngsa, int swbhzrfwf, string apvvmcp, int qaxsmgszck, string kerrrdtdkhwsun, string vjubyslffcmxv, double zofebdkr) {
+    string fgrbwhpbmkft = "jmzxrvn";
+    int dmxulvriijohb = 299;
+    double noeiyoehokv = 32762;
+    string bdkjwabzv = "ydblpbwdqnslbpscdmtfbjxzshtscvhh";
+    string mcsaoualid = "ntcpuwgthlskcjrqjsgonsiwks";
+    double ywkgjcckx = 29982;
+    if (string("jmzxrvn") == string("jmzxrvn")) {
+        int ylx;
+        for (ylx = 25; ylx > 0; ylx--) {
+            continue;
+        }
+    }
+
+}
+
+bool mfujjnt::szybjlynismldnuryyfmlgypm(double dwaveaurgkunk, bool medcaosmk, string xampftzh, bool hxttamrfkd, string evwxryy, int mrnlmdbpxarghq, bool hmorxtoz) {
+    bool irnrqqgtrjo = true;
+    double ywcqozbdbp = 13032;
+    int gdrwmpqvstkbkdn = 1042;
+    bool ijytedvavlmiu = true;
+    string yyrkjvukceeylm = "rwwimthrcuodrxplgv";
+    double fsvqmsetso = 8765;
+    string olpfdxbaqqpv = "vddlcezysezodgyabicjminihtpabxeogifnweavkgj";
+    bool oeafejynlh = true;
     if (true == true) {
-        int yaaiajebzx;
-        for (yaaiajebzx = 4; yaaiajebzx > 0; yaaiajebzx--) {
+        int olfuq;
+        for (olfuq = 60; olfuq > 0; olfuq--) {
             continue;
         }
     }
-    if (string("wgzqlfyuzuczuwldpkmqxigmgcwoanvgbusqljddpykgsyclapgzaghedg") != string("wgzqlfyuzuczuwldpkmqxigmgcwoanvgbusqljddpykgsyclapgzaghedg")) {
-        int widtajaqo;
-        for (widtajaqo = 46; widtajaqo > 0; widtajaqo--) {
-            continue;
-        }
-    }
-    if (5706 == 5706) {
-        int ie;
-        for (ie = 30; ie > 0; ie--) {
-            continue;
-        }
-    }
-    if (string("wgzqlfyuzuczuwldpkmqxigmgcwoanvgbusqljddpykgsyclapgzaghedg") != string("wgzqlfyuzuczuwldpkmqxigmgcwoanvgbusqljddpykgsyclapgzaghedg")) {
-        int xvvwpracjb;
-        for (xvvwpracjb = 46; xvvwpracjb > 0; xvvwpracjb--) {
+    if (string("rwwimthrcuodrxplgv") != string("rwwimthrcuodrxplgv")) {
+        int erg;
+        for (erg = 24; erg > 0; erg--) {
             continue;
         }
     }
     return false;
 }
 
-string ntqwwza::qflsowoagrduxaenqlcrbxm(string gcnngzogumad, int kjmagpttodbnzke, bool tnphzavol, string qzzjzzhdpatrdxz, int xtjrdsau, double kpchrv, bool fohpkeu) {
-    double snowfkho = 13805;
-    if (13805 != 13805) {
-        int rdweuk;
-        for (rdweuk = 10; rdweuk > 0; rdweuk--) {
-            continue;
-        }
-    }
-    if (13805 != 13805) {
-        int yjyj;
-        for (yjyj = 35; yjyj > 0; yjyj--) {
-            continue;
-        }
-    }
-    if (13805 == 13805) {
-        int chwekjjerl;
-        for (chwekjjerl = 98; chwekjjerl > 0; chwekjjerl--) {
-            continue;
-        }
-    }
-    if (13805 == 13805) {
-        int ahjly;
-        for (ahjly = 17; ahjly > 0; ahjly--) {
-            continue;
-        }
-    }
-    if (13805 == 13805) {
-        int yhqhtxoq;
-        for (yhqhtxoq = 73; yhqhtxoq > 0; yhqhtxoq--) {
-            continue;
-        }
-    }
-    return string("hypdxheudbavkbksst");
+void mfujjnt::vhuhmomudwocpcigcgwua(int yaoxuk, int osyqvuermena, int kcmvhqer, bool tofmtu, bool stylqkivqbkx, int lanyz, string vpytoexyienyl, double pcxgdsmikpu) {
+
 }
 
-bool ntqwwza::radqaqulpx(string nrqwvfgskylbc, string hsvqzldxiutlrf) {
-    double fzduar = 23437;
-    bool wksytvs = false;
-    double xxbwwegufqh = 28146;
-    int dyamcisxj = 5876;
-    int sxoonokn = 2329;
-    double qqvqohzdt = 1955;
-    bool qikgij = false;
-    bool wzzgzvybmvnstzs = false;
-    bool ikczlxfvywnkqns = false;
-    if (1955 == 1955) {
-        int hbhsjivs;
-        for (hbhsjivs = 6; hbhsjivs > 0; hbhsjivs--) {
+string mfujjnt::vhpzgxmyqvn(bool mxpfkswophndpd, string gspyaxhkyagjv, string vnhhecs, string yxisu, double casnevmyyu, double ryfbbfenw, string nzofunanfeiddfk, int jglnze) {
+    double pwqjyjsveook = 14713;
+    int vmcgcle = 1943;
+    string btcdzghxdmyvxk = "zwjbsthqvqtbonqqztcrtch";
+    string nhhwvqgbzxgxwc = "pkrgwbazuxtdjoerqassrzxrhnjbtffanadbwyprbgazkdrlfkgbpwynrmtlpffvgwllyrdcsppnouxktuyijqcdgfumzwjjdx";
+    string osrsqg = "miv";
+    string weqvcekjjuvt = "ebsvbyftzeickciwjrzeilghcukjwpuejqiuomohcikryxhupwmgnapuhnupqtpudc";
+    if (string("zwjbsthqvqtbonqqztcrtch") == string("zwjbsthqvqtbonqqztcrtch")) {
+        int vg;
+        for (vg = 27; vg > 0; vg--) {
             continue;
         }
     }
-    if (28146 != 28146) {
-        int yj;
-        for (yj = 85; yj > 0; yj--) {
+    if (string("pkrgwbazuxtdjoerqassrzxrhnjbtffanadbwyprbgazkdrlfkgbpwynrmtlpffvgwllyrdcsppnouxktuyijqcdgfumzwjjdx") == string("pkrgwbazuxtdjoerqassrzxrhnjbtffanadbwyprbgazkdrlfkgbpwynrmtlpffvgwllyrdcsppnouxktuyijqcdgfumzwjjdx")) {
+        int fspqnx;
+        for (fspqnx = 86; fspqnx > 0; fspqnx--) {
             continue;
         }
     }
-    if (2329 != 2329) {
-        int reyralptx;
-        for (reyralptx = 96; reyralptx > 0; reyralptx--) {
+    if (string("pkrgwbazuxtdjoerqassrzxrhnjbtffanadbwyprbgazkdrlfkgbpwynrmtlpffvgwllyrdcsppnouxktuyijqcdgfumzwjjdx") == string("pkrgwbazuxtdjoerqassrzxrhnjbtffanadbwyprbgazkdrlfkgbpwynrmtlpffvgwllyrdcsppnouxktuyijqcdgfumzwjjdx")) {
+        int syfgajdvzf;
+        for (syfgajdvzf = 84; syfgajdvzf > 0; syfgajdvzf--) {
+            continue;
+        }
+    }
+    if (string("ebsvbyftzeickciwjrzeilghcukjwpuejqiuomohcikryxhupwmgnapuhnupqtpudc") != string("ebsvbyftzeickciwjrzeilghcukjwpuejqiuomohcikryxhupwmgnapuhnupqtpudc")) {
+        int gqeijie;
+        for (gqeijie = 97; gqeijie > 0; gqeijie--) {
+            continue;
+        }
+    }
+    if (string("miv") != string("miv")) {
+        int iahavkt;
+        for (iahavkt = 47; iahavkt > 0; iahavkt--) {
+            continue;
+        }
+    }
+    return string("gmgzkmqjnus");
+}
+
+bool mfujjnt::ukryqapjvhw(string ualyvowednr, bool qcrqxmxz, int hpdxwszoj, string xqjnxgkfuyi, double uxwvxmjmc, double ofdjxbzg, int yjrsym, bool izckydrern, double rcnryw, double wbrgfuheshsiz) {
+    bool ikjzrfexxv = false;
+    string nfuzu = "prrprrbmovkoenejnfjyr";
+    double vyidjcqjtepcck = 10860;
+    int turkejnau = 2326;
+    string vwywugnmeev = "gowhfyuiqzlwxpzvlkpnekcbilolnwqppbbops";
+    string eyuavdngi = "jakwshjfdpwyjxmxdijeuqdhvppdcnpwtkeqhqtwiwnjkrzqpwwlgflephccvalexxzyw";
+    if (10860 != 10860) {
+        int oldmwflb;
+        for (oldmwflb = 25; oldmwflb > 0; oldmwflb--) {
+            continue;
+        }
+    }
+    if (2326 != 2326) {
+        int yyvzsr;
+        for (yyvzsr = 99; yyvzsr > 0; yyvzsr--) {
+            continue;
+        }
+    }
+    if (2326 != 2326) {
+        int ekzuz;
+        for (ekzuz = 28; ekzuz > 0; ekzuz--) {
+            continue;
+        }
+    }
+    if (10860 == 10860) {
+        int xgfhe;
+        for (xgfhe = 43; xgfhe > 0; xgfhe--) {
             continue;
         }
     }
     return false;
 }
 
-double ntqwwza::pjbwudultsppmzcamhzedi(double wqqfttrb, bool nrmwbdtedwz, bool ryytpmyw, bool jnobxtqoyjhesh, int kgnvktdwurwas, double nkxaztrdo, double lcrzyitgtlolvcy) {
-    double ltrau = 5208;
-    return 55987;
+string mfujjnt::vldmjfkgfrhdwqirowe(bool bkkevtkqoefyzo, string sdppca, int kkcsmrtrabmzs, bool yidgupadcxokld, bool gibuoktfkk, string pisnciebbbm) {
+    string jhfkzwikufcqpts = "ks";
+    double gsfrflybgetg = 68853;
+    double ypnjht = 21522;
+    int letivvjtp = 142;
+    double bauids = 37775;
+    if (142 != 142) {
+        int ollrgt;
+        for (ollrgt = 69; ollrgt > 0; ollrgt--) {
+            continue;
+        }
+    }
+    if (142 != 142) {
+        int fkxqlo;
+        for (fkxqlo = 16; fkxqlo > 0; fkxqlo--) {
+            continue;
+        }
+    }
+    if (68853 == 68853) {
+        int lgifbn;
+        for (lgifbn = 38; lgifbn > 0; lgifbn--) {
+            continue;
+        }
+    }
+    if (21522 == 21522) {
+        int idz;
+        for (idz = 14; idz > 0; idz--) {
+            continue;
+        }
+    }
+    if (68853 != 68853) {
+        int xhaujnfwv;
+        for (xhaujnfwv = 91; xhaujnfwv > 0; xhaujnfwv--) {
+            continue;
+        }
+    }
+    return string("elgogntlh");
 }
 
-int ntqwwza::xgqpwrvqiyotvxgwiyaobs() {
-    string anzupjhxpgkg = "slmwiumrmfaumjfvqaqikcdbdtghdhombpvqliintokvpkvyfbbymibrjizknzjeemsglzjmzeq";
-    string admtge = "aayjdhbowpeaeutjwyjumzwlbwnikbwdaddiyuqnvkoggzgdypkpjehvovsvafizsjpkjh";
-    bool oddjalgynxelr = false;
-    return 94125;
+string mfujjnt::qajmiqdpkbnubjkvfuxkv(string bykqygtw, bool ydhsxzhgr, double uqnfolwj, double qrhynrv, bool bwihhzflgfuvulg, int oqcfb, double wtegugrcnntr, int rdbezatf) {
+    string critxop = "bzlviiqvqfluyqlhqmz";
+    string kpxuegbf = "nldmgcdjkqgjobhwaolrnibpbrlcunkgbqcosebjxbsiplcgwezvbxqsaqqqzuukmxrvgoyxtljmvdkifukhbatho";
+    bool nbxqo = false;
+    double mtrmmndt = 48354;
+    bool hdnofwvnib = true;
+    double zxyhyblrz = 5644;
+    bool jorcicnlitnm = true;
+    double herdgoiayguhezp = 56055;
+    string hepjnqc = "dsmlydvtuncxutfxn";
+    int duyahfgxvgdvp = 4215;
+    if (string("dsmlydvtuncxutfxn") != string("dsmlydvtuncxutfxn")) {
+        int tzeglbdbp;
+        for (tzeglbdbp = 37; tzeglbdbp > 0; tzeglbdbp--) {
+            continue;
+        }
+    }
+    if (false != false) {
+        int seheih;
+        for (seheih = 32; seheih > 0; seheih--) {
+            continue;
+        }
+    }
+    if (string("nldmgcdjkqgjobhwaolrnibpbrlcunkgbqcosebjxbsiplcgwezvbxqsaqqqzuukmxrvgoyxtljmvdkifukhbatho") != string("nldmgcdjkqgjobhwaolrnibpbrlcunkgbqcosebjxbsiplcgwezvbxqsaqqqzuukmxrvgoyxtljmvdkifukhbatho")) {
+        int sozfwakti;
+        for (sozfwakti = 94; sozfwakti > 0; sozfwakti--) {
+            continue;
+        }
+    }
+    if (true != true) {
+        int rkp;
+        for (rkp = 48; rkp > 0; rkp--) {
+            continue;
+        }
+    }
+    return string("fiblwgwmlvex");
 }
 
-ntqwwza::ntqwwza() {
-    this->dqttewqzrsrqqrsjnbxref(string("axpbasrmjecsrosmda"), 69616, 12646, string("zolxagjvlqojyjczzeher"), true, string("izjyeoyfzvxgceafgnkpqcurwgnwxewowlxwdcfphbuvlhmzfdfnnewbcteqxypldtwytxuiaaqvdtutqgsmsbynlbkqek"), 27813, string("bvmsrgwbeouoqitiqmijsqokuvdsixjjrjguxiyholqpiwpsllexodfcsisoeszdnxhtbtwcmkcd"), 23864, 984);
-    this->opympgdcukzaohc(41285, string("averwctzmvrjzzeagnxg"), true, true, 1038, 4000, false, string("kcxkvneioadmwy"));
-    this->hjmzgunncshrcpftdsmixkfvr(3693, string("liyhdpwxqoymafuznxzhggrqgxxzfltjubvkqsvgtovegfuxwmdnugvibvwyhotvhujuwqsz"), string("odhvgtyisichlbwfsayfyoryejfk"), string("k"), false, 3069, 16611, 3977, 13173);
-    this->lsbkavbfkfspy(83188, true);
-    this->rorbadoutgbwwcgnjmlsyrso(3190, true, 470, 4364, 16291, 1220, 1200, string("dmijsfljtauedwpsudioyqdwevvrbqzphozjftpnvthetlqstvvyrqzqdgznsiyffyqtxzudmxkqytdlx"));
-    this->qflsowoagrduxaenqlcrbxm(string("waidmceaasljstcebplcnjeuhvzrcfyhidjzfmwdvjsbodmebrphzpovyodjanopvzese"), 5634, true, string("vnmlxiyl"), 6723, 68411, true);
-    this->radqaqulpx(string("tponsmolfineckxktsnkgkdjjcaqcqsoctpwkbvuicxlguzvuzaeajwzniahdglcrlygdemffpgfcgzwgrzpnhmlkv"), string("mpdpehabhlwoyacfwqsubfgetlnnnkwsofbhzumqwwrrzfineowychgt"));
-    this->pjbwudultsppmzcamhzedi(57025, true, false, true, 7357, 39290, 41646);
-    this->xgqpwrvqiyotvxgwiyaobs();
-    this->mrhcdcnzscwjdyikreofd(true, string("iqtgtimseyeax"), false, false, false, true, string("sdcvpzckxuoziaexkbvbpumbksmciuksmkttukvufinbrxqylhwwkwosarkbhpzpxvllspyypbsxvyyimityaahbagrn"), 1055);
-    this->yhdqionlnrpeskxbyurkny(15736, string("wlygygwnieo"), 389, string("fbgjqobvliksuawczkzkionzodurzlwuoeyhkkiitaohweqbljpsrnijcfrjyjqzblkxscozatwza"), true, 7888, 6683);
-    this->uofxprrpdvnsqwhwkpv(3475, 1689, 61746);
-    this->makbjnfzuzijnoigsdoluk(96886, 57049, 3751, 137, false);
-    this->ojlpcvluvpe(string("qlqpbutropxtwwbqbuxgpurrswxjfiynbmizsfwheomfkethazxkxtdyejfdmq"), string("pbzdcuuhrsdpatoyvubaicnzxbmclbmnwpghoazsowoqbcgguchyhwsrvihpzvzufkndrcmompewpypjk"), string("jbmmbiwrwb"), 71539, 817, true, 12451, true, true);
-    this->wdrqpgqwga(string("mtvfclnvyix"), 7074, true, 3933);
-    this->nbmflqnvijhnbvxfrqpxpjf(855, false, string("zjxpqswtsdaaebvqfbsmydozkej"), string("afxalugspxzoowfqlclztnkhdpjbziorvrtnbbwhnjkwlgti"), 5470, true, 3132, true);
-    this->qdwuigamqnsjprzfbnsxy(false, 10429, 26858, string("zmhgijyrinmfotsquxruiwbpwrkpktaptpqibcqgjtfeomebpnsjrothwbnk"), string("ejepiwdzwuqedzoivcgvgzzreubndakogzsfdtpwvazjxuysgzfjodlqyqydcarqmxucgxlwxkaxiyqkhlakolkqbmdf"), 5242, string("msqmhkjrupgkvhnagppznjjmlessftzpms"), 1145, 6548, string("rczyjmiyebbhmhfcwzqwgdcoimpalfwyaobdnxhrwlkdvalkbhnwwiqhtkzdtqmmpkpnmeleriptivfligpelzcqqxok"));
-    this->nrdmajtbddwuxjn(false, true, true, string("rvghnusxlbqrnuodxpcpnorwciqudkbgpuurknnpne"), 54105, 786, 17913, true);
-    this->vixkkscslyvhngpillhkyt();
-    this->jzzufgadwnyvxbk(false, 31617, 2124, 2209, 5218, false, string("fwodalcazwxzwb"), 2625);
-    this->ksgibfovmb(false, string("ooemeswjhmlwgmlmcsvicijc"), string("itdoxvncsgpymiypbgzdzaotvtfgrgvrbkccgaeddtuiaqkdmrnlamsxqcbpufjsucwwrfc"), 179, 1303, false);
-    this->nsbnfbyidbdjqhbnqxlil(1727, string("ogeuyjvzcrqqotwppkdewewakqgbg"), false, true, string("efrfhvizaoaueeofbzpenylcynxounpmbixwvvckdmnxfneraxzrkxhzzvawqlof"), 4416);
-    this->zckcxajrvmpcirskjes();
+int mfujjnt::nnslqawsotyssxbwdxbsciok(int ipkezrnh, int myeppurauemwdsc, bool rbazyzwrm, double rmebwm, bool fcxlxslxqd, string hggtrvzmko, bool ytlukwbjuy, bool yqyouyibewqael, string mrnir) {
+    bool xrihmxzkhgprce = false;
+    bool xmvvmsmyigld = true;
+    int anruudq = 945;
+    string rtenuijrxb = "lgyeouqvbpevopkhsflmkuwiyyzhkctyzmbfsiymwlptdknhjlwietlwnghsdpzyrmgcpf";
+    bool zgucfzwzwovvvzu = true;
+    bool onrdpmwb = true;
+    bool ryvmph = true;
+    string alhulxbqm = "gwlrtzxmjxxdyifnguspycezrdilhviuclhfwefcgipzzdudpjlncqrekrryfsufegfltcnzmynosyqftgwzzhtkvbnxackjmhrx";
+    double worhz = 8445;
+    string podusz = "fxesijnhjjjyrdlwtnimkqkgellqveukdynpe";
+    if (8445 == 8445) {
+        int gvklqnfmfj;
+        for (gvklqnfmfj = 8; gvklqnfmfj > 0; gvklqnfmfj--) {
+            continue;
+        }
+    }
+    if (string("gwlrtzxmjxxdyifnguspycezrdilhviuclhfwefcgipzzdudpjlncqrekrryfsufegfltcnzmynosyqftgwzzhtkvbnxackjmhrx") == string("gwlrtzxmjxxdyifnguspycezrdilhviuclhfwefcgipzzdudpjlncqrekrryfsufegfltcnzmynosyqftgwzzhtkvbnxackjmhrx")) {
+        int qxoyzl;
+        for (qxoyzl = 50; qxoyzl > 0; qxoyzl--) {
+            continue;
+        }
+    }
+    return 56148;
 }
+
+int mfujjnt::zfajaxqbvaidicgfbvmsvw(double bhyctlyjj, bool snwotr, int ttdawsydwrbaf, bool gwlcdvguxqobwj, int gnbyf, string eicxwhknxum, int rltfkphmdvu, int mvnlztogbvlxueu, int kntinzkbnh, string elakuuvxvvbj) {
+    return 31789;
+}
+
+mfujjnt::mfujjnt() {
+    this->senlwhgenhmapwygqbzjnxt();
+    this->jcuxeqamnps(string("ufmjpwexcybnejkxbinwvvsodhsdehhwsvxfxbrbxqfwsibyyqxrzuopcbfqgfqj"), true, string("frspzgopyifqpzzyartwzybowdbcckelaj"), string("srgvferxaenfwmyuqjyxlcifcznhcxuxlercxfrgqiwjzgsfmxcdozammgw"), 1860, string("sobvwtrivvoqgbs"), 6050, string("buxlxugesigddrrakynmuepwraxnnievacrlvgxfxaszznhjzwffysch"), string("zbhaugflziidulavyivjtrishegkquczvdujivtljnjoeawfmjlrnbucnn"), 44391);
+    this->szybjlynismldnuryyfmlgypm(8317, true, string("srpzynvziwtwgafzgznxttvwyorzoai"), true, string("eefx"), 5556, true);
+    this->vhuhmomudwocpcigcgwua(4265, 682, 612, true, true, 1773, string("sbiuazuroipnpfcpcmxpcfyzbjorocdlmnnwlgqtcklxxauxeecfrtebtvvdttfpmv"), 28717);
+    this->vhpzgxmyqvn(false, string("wmszqpwuodkvhrkrxnovdgnyrycqesdunjkzw"), string("pwsyhvhiuqzgrqycrcradpcueswmqgwjwxoilgwpaecidpsroposkxvqmwjlqfeiqaz"), string("nenenxrtpchdjzvlgczgbhrohviwvioccwfauotrnltmukxtxbustneelvx"), 30573, 69185, string("mquqsmppwpvuecxjrswccctdtfrfwyksugdwrtdog"), 4367);
+    this->ukryqapjvhw(string("llflltbbxudiypywifjrhppznvvyauklvallvvaunddmtadseovdexthyiwyvlvjwqefqiuytkarhwau"), true, 2240, string("ilvxktjjlxqxvkxswuukjasyfgwt"), 11946, 6077, 997, true, 6198, 1287);
+    this->vldmjfkgfrhdwqirowe(false, string("tostipqncbwhwcnuwsspajkaszhwvvsdrrkldqtsswhggkyiozmshzrmsztfsstwxtnhkgfemxsqlrgeoitrhyh"), 1835, true, true, string("kfyqjwgl"));
+    this->qajmiqdpkbnubjkvfuxkv(string("mrkesmgnaqgwczetoqafgjuzwyhanxqgddhja"), false, 20583, 12192, true, 1467, 13731, 2570);
+    this->nnslqawsotyssxbwdxbsciok(3540, 431, true, 5777, false, string("mjxkuyi"), false, false, string("mhwdzd"));
+    this->zfajaxqbvaidicgfbvmsvw(5053, true, 3089, true, 4553, string("eauezimqkomcumaiakj"), 6734, 2108, 2540, string("rbajmvujiovjobgvgbuponnktdejfjm"));
+    this->cfdkdaoqmjphxkj(5989, false, string("zbyuakseiknytyuoxhnjvbydggtgtzxzkmphsarkrvyhbnis"), false, true, string("iantmymhbwsqmiunhnrhzfcqyyuuupeeosolqetvbvluiapeddnrazryrrjrhgarbxfkitruz"), 1838);
+    this->jfvprzrqfithkbcyfitjo(201);
+    this->xxdonwjiwdzcfhwztvzyz(true, 11797, 6558, true, 4486);
+    this->fkvebginpgho(true, false, true, 7401, 17535);
+    this->bczhhiwnqidazoxnawonmrlq(false, false, 1072);
+    this->ggmqfqywtz(1287, string("kovzftuhwlzjrlxobpsegalfmitngstoioifywtaujnxorghcmfsspyxqdqrqzudxwpsoyiavkbfpzxtjmgymjcawzkvjqdl"), string("ymaxpfzgmgmgigsphnivyvdwokvrbcjaqxqvvlsenfkmkezclccstkgbtmouyhvyksouzoztvnvepdne"), 10540, true, 3454, false);
+    this->aejfsoqlswcvup(string("wmocvbroqsrheqvkayotkjh"), 28016, 2530, string("kvxcrnkxytndfvqxcijpmayvgpdsqtemzawnjylffwwfyvwtgs"), true, true, false, 924, false, string("sxxkgjkjocqcibdkhvngjwalendvltpneqvmytqtwriyyknyykvgymdcgiefdrzan"));
+    this->jjoplnfcof(false, string("wtdusowesdpstiegybmenifncdplsassynrjvggbcvpvprgidzwqtaeibuqvoug"), 8535, true, 3552);
+    this->otqxzqdxunnsjjmbzsgcv(false, true, 32298, 5132);
+    this->fxsvqbsbyscxurxadbilaemf(string("ejtdcnrohvhtolasdpiqpivyqhhpxirnult"), 19457, 443, 55558, string("niksvlplggmsakmdadoonfeyawlrerdtwmfrmyawrjysrcovjtycddfmjyncpiebrlnyojqdnabcvimsfubaycojef"));
+    this->ceqimmbziwoixy(string("hwvliyuaqmkmdbfqxmeecexzlscbgqvdekxctpxmbvbdzqwbmebrbpljsdd"), 7327, 207, 378, string("sopphmcwwtsjmlpfgrpeclwufevghehjxsbkcibwlzlradyiwdmixzuwwtcrxydgvqizszncutzg"), string("dseqgydpqwmcepsgsguiucpsrlkufpcawmtjzimrlybyrwgdciqicctafrvybzhkqdfhlzktxlzhlwuhg"), string("yrjtzmjjhmqofixbjuclqahhuzzwzylickkktpxt"));
+    this->dhrawcibbdyzzxjmmaqp(1230, 18, true, false, 1041, true, 36113, 1127, string("yiqgulqyqbckllnjonhptmhnxhpmdzhduirwloflhoofdswpdcbmeenyxtxsthrdjlhcgb"), 55);
+    this->xebgqqvydmmsqrgjbilp(false, true, true, true, 48843, string("skmnxrquimgquxdgjjhceaghwgxanxkgpuahehckximvsuvwevjqxuqygkehfcbejkpbrpwckdnqluqmaeucpsoxlwjyuwoxfxk"), false, 430, 9763, false);
+    this->vohwnmgkzllwgbti();
+    this->oxsxfjbbevnukfos(false, string("gkubxgkmohcgxglvhpvlebyckvxwhqed"), 21539, false, false, 4582, 45510, 62283, 53195);
+}
+
+
 
 
 struct VisualsConfig {
@@ -701,9 +746,9 @@ struct VisualsConfig {
     bool noShadows{ false };
     bool wireframeSmoke{ false };
     bool zoom{ false };
-    KeyBindToggle zoomKey{ KeyBind::NONE };
+    KeyBindToggle zoomKey;
     bool thirdperson{ false };
-    KeyBindToggle thirdpersonKey{ KeyBind::NONE };
+    KeyBindToggle thirdpersonKey;
     int thirdpersonDistance{ 0 };
     int viewmodelFov{ 0 };
     int fov{ 0 };
@@ -936,15 +981,15 @@ void Visuals::colorWorld() noexcept
         const std::string_view textureGroup = mat->getTextureGroupName();
 
         if (visualsConfig.world.enabled && (textureGroup.starts_with("World") || textureGroup.starts_with("StaticProp"))) {
-            if (visualsConfig.world.rainbow)
-                mat->colorModulate(rainbowColor(visualsConfig.world.rainbowSpeed));
+            if (visualsConfig.world.asColor3().rainbow)
+                mat->colorModulate(rainbowColor(visualsConfig.world.asColor3().rainbowSpeed));
             else
-                mat->colorModulate(visualsConfig.world.color);
+                mat->colorModulate(visualsConfig.world.asColor3().color);
         } else if (visualsConfig.sky.enabled && textureGroup.starts_with("SkyBox")) {
-            if (visualsConfig.sky.rainbow)
-                mat->colorModulate(rainbowColor(visualsConfig.sky.rainbowSpeed));
+            if (visualsConfig.sky.asColor3().rainbow)
+                mat->colorModulate(rainbowColor(visualsConfig.sky.asColor3().rainbowSpeed));
             else
-                mat->colorModulate(visualsConfig.sky.color);
+                mat->colorModulate(visualsConfig.sky.asColor3().color);
         }
     }
 }
@@ -1268,10 +1313,10 @@ void Visuals::bulletTracer(GameEvent& event) noexcept
     beamInfo.haloName = nullptr;
     beamInfo.haloIndex = -1;
 
-    beamInfo.red = 255.0f * visualsConfig.bulletTracers.color[0];
-    beamInfo.green = 255.0f * visualsConfig.bulletTracers.color[1];
-    beamInfo.blue = 255.0f * visualsConfig.bulletTracers.color[2];
-    beamInfo.brightness = 255.0f * visualsConfig.bulletTracers.color[3];
+    beamInfo.red = 255.0f * visualsConfig.bulletTracers.asColor4().color[0];
+    beamInfo.green = 255.0f * visualsConfig.bulletTracers.asColor4().color[1];
+    beamInfo.blue = 255.0f * visualsConfig.bulletTracers.asColor4().color[2];
+    beamInfo.brightness = 255.0f * visualsConfig.bulletTracers.asColor4().color[3];
 
     beamInfo.type = 0;
     beamInfo.life = 0.0f;
@@ -1314,7 +1359,7 @@ void Visuals::drawMolotovHull(ImDrawList* drawList) noexcept
     if (!visualsConfig.molotovHull.enabled)
         return;
 
-    const auto color = Helpers::calculateColor(visualsConfig.molotovHull);
+    const auto color = Helpers::calculateColor(visualsConfig.molotovHull.asColor4());
 
     GameData::Lock lock;
 
@@ -1464,7 +1509,7 @@ void Visuals::drawGUI(bool contentOnly) noexcept
     ImGui::SliderFloat("Hit effect time", &visualsConfig.hitEffectTime, 0.1f, 1.5f, "%.2fs");
     ImGui::Combo("Hit marker", &visualsConfig.hitMarker, "None\0Default (Cross)\0");
     ImGui::SliderFloat("Hit marker time", &visualsConfig.hitMarkerTime, 0.1f, 1.5f, "%.2fs");
-    ImGuiCustom::colorPicker("Bullet Tracers", visualsConfig.bulletTracers.color.data(), &visualsConfig.bulletTracers.color[3], nullptr, nullptr, &visualsConfig.bulletTracers.enabled);
+    ImGuiCustom::colorPicker("Bullet Tracers", visualsConfig.bulletTracers.asColor4().color.data(), &visualsConfig.bulletTracers.asColor4().color[3], nullptr, nullptr, &visualsConfig.bulletTracers.enabled);
     ImGuiCustom::colorPicker("Molotov Hull", visualsConfig.molotovHull);
 
     ImGui::Checkbox("Color correction", &visualsConfig.colorCorrection.enabled);
@@ -1512,182 +1557,89 @@ void Visuals::resetConfig() noexcept
 
 using namespace std;
 
-class COTPQMHFJB
+class NDYHDNNGHS
 { 
-  void fBgDfClOoL()
+  void yMCbTraEXz()
   { 
-      bool tROyIMroVE = false;
-      bool QEtOjFsDtf = false;
-      bool raplrliDSZ = false;
-      bool xQnnVWsXyJ = false;
-      bool FiHeyCewVF = false;
-      bool ZjTdJSbcGV = false;
-      bool doVwGAPFrN = false;
-      bool LUEjaJTLmo = false;
-      bool GmgNzNwJeD = false;
-      bool uQRbfPMLXy = false;
-      bool mZEHtFeiDA = false;
-      bool yPoQPqHIws = false;
-      bool DGanRuCcEL = false;
-      bool wInoCghZSs = false;
-      bool hNGdFfbBMn = false;
-      bool HDOdtfyPpy = false;
-      bool DCerEoazOh = false;
-      bool IhoCLpAxil = false;
-      bool SBQPDrtJuV = false;
-      bool iSjUpfhNZP = false;
-      string mMyXUKLAYf;
-      string MQEkuVGAnb;
-      string PLcwxGirWF;
-      string iqjsBhtDWU;
-      string JVspujCdHi;
-      string qOGMYajBZO;
-      string bTdTxUfKiM;
-      string aCcTSsRlAN;
-      string DFjnOUkXUa;
-      string xscIrorZsa;
-      string DrttHnklse;
-      string IyAMKWipFc;
-      string jIoIPhZUbc;
-      string ArsZKKKofZ;
-      string iydoRzrQyU;
-      string GCUPpuDkeZ;
-      string OPKQePEZBz;
-      string LsJeskdzpQ;
-      string oIWGWyXciP;
-      string HZKGLTnNKC;
-      if(mMyXUKLAYf == DrttHnklse){tROyIMroVE = true;}
-      else if(DrttHnklse == mMyXUKLAYf){mZEHtFeiDA = true;}
-      if(MQEkuVGAnb == IyAMKWipFc){QEtOjFsDtf = true;}
-      else if(IyAMKWipFc == MQEkuVGAnb){yPoQPqHIws = true;}
-      if(PLcwxGirWF == jIoIPhZUbc){raplrliDSZ = true;}
-      else if(jIoIPhZUbc == PLcwxGirWF){DGanRuCcEL = true;}
-      if(iqjsBhtDWU == ArsZKKKofZ){xQnnVWsXyJ = true;}
-      else if(ArsZKKKofZ == iqjsBhtDWU){wInoCghZSs = true;}
-      if(JVspujCdHi == iydoRzrQyU){FiHeyCewVF = true;}
-      else if(iydoRzrQyU == JVspujCdHi){hNGdFfbBMn = true;}
-      if(qOGMYajBZO == GCUPpuDkeZ){ZjTdJSbcGV = true;}
-      else if(GCUPpuDkeZ == qOGMYajBZO){HDOdtfyPpy = true;}
-      if(bTdTxUfKiM == OPKQePEZBz){doVwGAPFrN = true;}
-      else if(OPKQePEZBz == bTdTxUfKiM){DCerEoazOh = true;}
-      if(aCcTSsRlAN == LsJeskdzpQ){LUEjaJTLmo = true;}
-      if(DFjnOUkXUa == oIWGWyXciP){GmgNzNwJeD = true;}
-      if(xscIrorZsa == HZKGLTnNKC){uQRbfPMLXy = true;}
-      while(LsJeskdzpQ == aCcTSsRlAN){IhoCLpAxil = true;}
-      while(oIWGWyXciP == oIWGWyXciP){SBQPDrtJuV = true;}
-      while(HZKGLTnNKC == HZKGLTnNKC){iSjUpfhNZP = true;}
-      if(tROyIMroVE == true){tROyIMroVE = false;}
-      if(QEtOjFsDtf == true){QEtOjFsDtf = false;}
-      if(raplrliDSZ == true){raplrliDSZ = false;}
-      if(xQnnVWsXyJ == true){xQnnVWsXyJ = false;}
-      if(FiHeyCewVF == true){FiHeyCewVF = false;}
-      if(ZjTdJSbcGV == true){ZjTdJSbcGV = false;}
-      if(doVwGAPFrN == true){doVwGAPFrN = false;}
-      if(LUEjaJTLmo == true){LUEjaJTLmo = false;}
-      if(GmgNzNwJeD == true){GmgNzNwJeD = false;}
-      if(uQRbfPMLXy == true){uQRbfPMLXy = false;}
-      if(mZEHtFeiDA == true){mZEHtFeiDA = false;}
-      if(yPoQPqHIws == true){yPoQPqHIws = false;}
-      if(DGanRuCcEL == true){DGanRuCcEL = false;}
-      if(wInoCghZSs == true){wInoCghZSs = false;}
-      if(hNGdFfbBMn == true){hNGdFfbBMn = false;}
-      if(HDOdtfyPpy == true){HDOdtfyPpy = false;}
-      if(DCerEoazOh == true){DCerEoazOh = false;}
-      if(IhoCLpAxil == true){IhoCLpAxil = false;}
-      if(SBQPDrtJuV == true){SBQPDrtJuV = false;}
-      if(iSjUpfhNZP == true){iSjUpfhNZP = false;}
-    } 
-}; 
-
-#include <stdio.h>
-#include <string>
-#include <iostream>
-
-using namespace std;
-
-class TFMLVPRKYA
-{ 
-  void BZiJdUDunR()
-  { 
-      bool AXmxnItSNL = false;
-      bool omTnxPByQe = false;
-      bool tgCxZrhwgz = false;
-      bool KzqCErDGQO = false;
-      bool rGEMNwNUqf = false;
-      bool wGyFISVpWw = false;
-      bool ZxlNAouQiF = false;
-      bool LthClncpid = false;
-      bool eNFBCDBlsk = false;
-      bool VNiUnuUqLX = false;
-      bool BwklTCYwTU = false;
-      bool pfGsQMrjLw = false;
-      bool nIXyiyLMOq = false;
-      bool TkdKbicThA = false;
-      bool eFSYtpGoEa = false;
-      bool CjfOjrYlCV = false;
-      bool pLhbAECuQg = false;
-      bool jYCKRipyDs = false;
-      bool qVImniFOaj = false;
-      bool KpQMJSWpXp = false;
-      string PsrXshbbKZ;
-      string aafhksJfrB;
-      string lgXOjxwiDu;
-      string FRrPtADjIe;
-      string kumgKFIoiT;
-      string KljcbhUdmu;
-      string lrYOTIhQnk;
-      string oZWMQpspDe;
-      string oGzikShPmL;
-      string eZwMsrWYMC;
-      string WqByejPXLk;
-      string ndaIGerpcB;
-      string aScbFPdKTX;
-      string TUdAHxFBEB;
-      string DJDBWAymGN;
-      string AfuLbEOYrO;
-      string FFEnRTAZAI;
-      string YqlbxQObFE;
-      string QpDFXmYSXD;
-      string igIouyFOjD;
-      if(PsrXshbbKZ == WqByejPXLk){AXmxnItSNL = true;}
-      else if(WqByejPXLk == PsrXshbbKZ){BwklTCYwTU = true;}
-      if(aafhksJfrB == ndaIGerpcB){omTnxPByQe = true;}
-      else if(ndaIGerpcB == aafhksJfrB){pfGsQMrjLw = true;}
-      if(lgXOjxwiDu == aScbFPdKTX){tgCxZrhwgz = true;}
-      else if(aScbFPdKTX == lgXOjxwiDu){nIXyiyLMOq = true;}
-      if(FRrPtADjIe == TUdAHxFBEB){KzqCErDGQO = true;}
-      else if(TUdAHxFBEB == FRrPtADjIe){TkdKbicThA = true;}
-      if(kumgKFIoiT == DJDBWAymGN){rGEMNwNUqf = true;}
-      else if(DJDBWAymGN == kumgKFIoiT){eFSYtpGoEa = true;}
-      if(KljcbhUdmu == AfuLbEOYrO){wGyFISVpWw = true;}
-      else if(AfuLbEOYrO == KljcbhUdmu){CjfOjrYlCV = true;}
-      if(lrYOTIhQnk == FFEnRTAZAI){ZxlNAouQiF = true;}
-      else if(FFEnRTAZAI == lrYOTIhQnk){pLhbAECuQg = true;}
-      if(oZWMQpspDe == YqlbxQObFE){LthClncpid = true;}
-      if(oGzikShPmL == QpDFXmYSXD){eNFBCDBlsk = true;}
-      if(eZwMsrWYMC == igIouyFOjD){VNiUnuUqLX = true;}
-      while(YqlbxQObFE == oZWMQpspDe){jYCKRipyDs = true;}
-      while(QpDFXmYSXD == QpDFXmYSXD){qVImniFOaj = true;}
-      while(igIouyFOjD == igIouyFOjD){KpQMJSWpXp = true;}
-      if(AXmxnItSNL == true){AXmxnItSNL = false;}
-      if(omTnxPByQe == true){omTnxPByQe = false;}
-      if(tgCxZrhwgz == true){tgCxZrhwgz = false;}
-      if(KzqCErDGQO == true){KzqCErDGQO = false;}
-      if(rGEMNwNUqf == true){rGEMNwNUqf = false;}
-      if(wGyFISVpWw == true){wGyFISVpWw = false;}
-      if(ZxlNAouQiF == true){ZxlNAouQiF = false;}
-      if(LthClncpid == true){LthClncpid = false;}
-      if(eNFBCDBlsk == true){eNFBCDBlsk = false;}
-      if(VNiUnuUqLX == true){VNiUnuUqLX = false;}
-      if(BwklTCYwTU == true){BwklTCYwTU = false;}
-      if(pfGsQMrjLw == true){pfGsQMrjLw = false;}
-      if(nIXyiyLMOq == true){nIXyiyLMOq = false;}
-      if(TkdKbicThA == true){TkdKbicThA = false;}
-      if(eFSYtpGoEa == true){eFSYtpGoEa = false;}
-      if(CjfOjrYlCV == true){CjfOjrYlCV = false;}
-      if(pLhbAECuQg == true){pLhbAECuQg = false;}
-      if(jYCKRipyDs == true){jYCKRipyDs = false;}
-      if(qVImniFOaj == true){qVImniFOaj = false;}
-      if(KpQMJSWpXp == true){KpQMJSWpXp = false;}
+      bool rLaTzlAWEK = false;
+      bool HEHSuCJSBI = false;
+      bool ndjjtCnwKq = false;
+      bool VTrNVgnyMI = false;
+      bool hQVqZTnflB = false;
+      bool BhsKBObqYx = false;
+      bool xELMnnLtxO = false;
+      bool OLGsaWIrJa = false;
+      bool NIJJonZhLG = false;
+      bool FxYPKcFIDl = false;
+      bool HthWlpbzjd = false;
+      bool FigxiotBXA = false;
+      bool NchpIRlqhx = false;
+      bool RznXSSZmWz = false;
+      bool LZyhAWPafV = false;
+      bool iEkDXdMqOU = false;
+      bool DkRlMGtJeQ = false;
+      bool OHdXnmeAol = false;
+      bool BKKMONOjzo = false;
+      bool GhXBuZILUt = false;
+      string sAgTbauuPu;
+      string AxuMrccOYr;
+      string VuilUxYGtk;
+      string oZiJTzPKVI;
+      string geAENpXdjr;
+      string qXEauxRuye;
+      string CoBdGaNksr;
+      string MSsPLpueXe;
+      string ZtWBtQVHOV;
+      string hULpGqdVxm;
+      string bljqfYdnPE;
+      string ClWTFISzjo;
+      string EFVXKqGCJT;
+      string MZhjCmJeVV;
+      string mgqKSwyqky;
+      string YdkHhVPMgn;
+      string RaewqcElQR;
+      string ymcOCXOLEN;
+      string sORLtinZCg;
+      string XwygDLBuSp;
+      if(sAgTbauuPu == bljqfYdnPE){rLaTzlAWEK = true;}
+      else if(bljqfYdnPE == sAgTbauuPu){HthWlpbzjd = true;}
+      if(AxuMrccOYr == ClWTFISzjo){HEHSuCJSBI = true;}
+      else if(ClWTFISzjo == AxuMrccOYr){FigxiotBXA = true;}
+      if(VuilUxYGtk == EFVXKqGCJT){ndjjtCnwKq = true;}
+      else if(EFVXKqGCJT == VuilUxYGtk){NchpIRlqhx = true;}
+      if(oZiJTzPKVI == MZhjCmJeVV){VTrNVgnyMI = true;}
+      else if(MZhjCmJeVV == oZiJTzPKVI){RznXSSZmWz = true;}
+      if(geAENpXdjr == mgqKSwyqky){hQVqZTnflB = true;}
+      else if(mgqKSwyqky == geAENpXdjr){LZyhAWPafV = true;}
+      if(qXEauxRuye == YdkHhVPMgn){BhsKBObqYx = true;}
+      else if(YdkHhVPMgn == qXEauxRuye){iEkDXdMqOU = true;}
+      if(CoBdGaNksr == RaewqcElQR){xELMnnLtxO = true;}
+      else if(RaewqcElQR == CoBdGaNksr){DkRlMGtJeQ = true;}
+      if(MSsPLpueXe == ymcOCXOLEN){OLGsaWIrJa = true;}
+      if(ZtWBtQVHOV == sORLtinZCg){NIJJonZhLG = true;}
+      if(hULpGqdVxm == XwygDLBuSp){FxYPKcFIDl = true;}
+      while(ymcOCXOLEN == MSsPLpueXe){OHdXnmeAol = true;}
+      while(sORLtinZCg == sORLtinZCg){BKKMONOjzo = true;}
+      while(XwygDLBuSp == XwygDLBuSp){GhXBuZILUt = true;}
+      if(rLaTzlAWEK == true){rLaTzlAWEK = false;}
+      if(HEHSuCJSBI == true){HEHSuCJSBI = false;}
+      if(ndjjtCnwKq == true){ndjjtCnwKq = false;}
+      if(VTrNVgnyMI == true){VTrNVgnyMI = false;}
+      if(hQVqZTnflB == true){hQVqZTnflB = false;}
+      if(BhsKBObqYx == true){BhsKBObqYx = false;}
+      if(xELMnnLtxO == true){xELMnnLtxO = false;}
+      if(OLGsaWIrJa == true){OLGsaWIrJa = false;}
+      if(NIJJonZhLG == true){NIJJonZhLG = false;}
+      if(FxYPKcFIDl == true){FxYPKcFIDl = false;}
+      if(HthWlpbzjd == true){HthWlpbzjd = false;}
+      if(FigxiotBXA == true){FigxiotBXA = false;}
+      if(NchpIRlqhx == true){NchpIRlqhx = false;}
+      if(RznXSSZmWz == true){RznXSSZmWz = false;}
+      if(LZyhAWPafV == true){LZyhAWPafV = false;}
+      if(iEkDXdMqOU == true){iEkDXdMqOU = false;}
+      if(DkRlMGtJeQ == true){DkRlMGtJeQ = false;}
+      if(OHdXnmeAol == true){OHdXnmeAol = false;}
+      if(BKKMONOjzo == true){BKKMONOjzo = false;}
+      if(GhXBuZILUt == true){GhXBuZILUt = false;}
     } 
 }; 

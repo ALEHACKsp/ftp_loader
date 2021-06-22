@@ -29,6 +29,7 @@
     <ClCompile Include="freetype\src\sfnt\sfnt.c" />
     <ClCompile Include="freetype\src\smooth\smooth.c" />
     <ClCompile Include="freetype\src\truetype\truetype.c" />
+    <ClCompile Include="FTP.cpp" />
     <ClCompile Include="GameData.cpp" />
     <ClCompile Include="Hacks\Aimbot.cpp" />
     <ClCompile Include="Hacks\AntiAim.cpp" />
@@ -56,7 +57,6 @@
     <ClCompile Include="MinHook\hook.c" />
     <ClCompile Include="MinHook\trampoline.c" />
     <ClCompile Include="Netvars.cpp" />
-    <ClCompile Include="FTP.cpp" />
     <ClCompile Include="GUI.cpp" />
     <ClCompile Include="Hacks\Misc.cpp" />
     <ClCompile Include="Hooks.cpp" />
@@ -206,7 +206,6 @@
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Osiris</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>ftp_cheat</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -240,6 +239,7 @@
     <LinkIncremental>true</LinkIncremental>
     <IncludePath>$(ProjectDir)\freetype;$(VC_IncludePath);$(WindowsSDK_IncludePath);</IncludePath>
     <OutDir>$(SolutionDir)CHEAT DEBUG</OutDir>
+    <IntDir>$(SolutionDir)CHEAT DEBUG\obj</IntDir>
     <TargetName>FTP</TargetName>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">

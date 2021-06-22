@@ -230,182 +230,89 @@ void KeyBindToggle::handleToggle() noexcept
 
 using namespace std;
 
-class PCUTHCXXAM
+class DLWAQWDQHD
 { 
-  void HFWSQtwLUy()
+  void UfHHDSmnxC()
   { 
-      bool WKuWKRjUWV = false;
-      bool oaExVSImQF = false;
-      bool PNluxPlHek = false;
-      bool RwzoljRfWe = false;
-      bool sDmlkwbyQG = false;
-      bool dXOqOIYAYu = false;
-      bool fcpkDsbOKk = false;
-      bool AbQkLMazJA = false;
-      bool mmqXGtgHZd = false;
-      bool LRHazQNBhq = false;
-      bool UMneFCGcfC = false;
-      bool gYpYHrlReJ = false;
-      bool LUogZiUolt = false;
-      bool zZQRfazLRE = false;
-      bool mDbXwlbhTH = false;
-      bool euVYfAWHFW = false;
-      bool gRqkDHHXrg = false;
-      bool rZAZWHrRjm = false;
-      bool GlVePEDrle = false;
-      bool DrFtWUMpUo = false;
-      string TCckGgxEKl;
-      string payVqVcWMR;
-      string XxHQsuSznh;
-      string MrzxcQQVTS;
-      string ipNnEOAElV;
-      string RJDtZWtLrL;
-      string NyPbYyaAsa;
-      string EHDshhjSMe;
-      string uONSQDoFXG;
-      string VEdIFkZkPG;
-      string mzKKQKFJLq;
-      string mbzMQzkwLU;
-      string IVcmEAdtnx;
-      string HyDFquDCCG;
-      string xfsfStEQrG;
-      string AdZtxRWXGQ;
-      string fKUNinXtVU;
-      string uhsEXbbwTJ;
-      string uNChxdXJHZ;
-      string XfulZlKfxe;
-      if(TCckGgxEKl == mzKKQKFJLq){WKuWKRjUWV = true;}
-      else if(mzKKQKFJLq == TCckGgxEKl){UMneFCGcfC = true;}
-      if(payVqVcWMR == mbzMQzkwLU){oaExVSImQF = true;}
-      else if(mbzMQzkwLU == payVqVcWMR){gYpYHrlReJ = true;}
-      if(XxHQsuSznh == IVcmEAdtnx){PNluxPlHek = true;}
-      else if(IVcmEAdtnx == XxHQsuSznh){LUogZiUolt = true;}
-      if(MrzxcQQVTS == HyDFquDCCG){RwzoljRfWe = true;}
-      else if(HyDFquDCCG == MrzxcQQVTS){zZQRfazLRE = true;}
-      if(ipNnEOAElV == xfsfStEQrG){sDmlkwbyQG = true;}
-      else if(xfsfStEQrG == ipNnEOAElV){mDbXwlbhTH = true;}
-      if(RJDtZWtLrL == AdZtxRWXGQ){dXOqOIYAYu = true;}
-      else if(AdZtxRWXGQ == RJDtZWtLrL){euVYfAWHFW = true;}
-      if(NyPbYyaAsa == fKUNinXtVU){fcpkDsbOKk = true;}
-      else if(fKUNinXtVU == NyPbYyaAsa){gRqkDHHXrg = true;}
-      if(EHDshhjSMe == uhsEXbbwTJ){AbQkLMazJA = true;}
-      if(uONSQDoFXG == uNChxdXJHZ){mmqXGtgHZd = true;}
-      if(VEdIFkZkPG == XfulZlKfxe){LRHazQNBhq = true;}
-      while(uhsEXbbwTJ == EHDshhjSMe){rZAZWHrRjm = true;}
-      while(uNChxdXJHZ == uNChxdXJHZ){GlVePEDrle = true;}
-      while(XfulZlKfxe == XfulZlKfxe){DrFtWUMpUo = true;}
-      if(WKuWKRjUWV == true){WKuWKRjUWV = false;}
-      if(oaExVSImQF == true){oaExVSImQF = false;}
-      if(PNluxPlHek == true){PNluxPlHek = false;}
-      if(RwzoljRfWe == true){RwzoljRfWe = false;}
-      if(sDmlkwbyQG == true){sDmlkwbyQG = false;}
-      if(dXOqOIYAYu == true){dXOqOIYAYu = false;}
-      if(fcpkDsbOKk == true){fcpkDsbOKk = false;}
-      if(AbQkLMazJA == true){AbQkLMazJA = false;}
-      if(mmqXGtgHZd == true){mmqXGtgHZd = false;}
-      if(LRHazQNBhq == true){LRHazQNBhq = false;}
-      if(UMneFCGcfC == true){UMneFCGcfC = false;}
-      if(gYpYHrlReJ == true){gYpYHrlReJ = false;}
-      if(LUogZiUolt == true){LUogZiUolt = false;}
-      if(zZQRfazLRE == true){zZQRfazLRE = false;}
-      if(mDbXwlbhTH == true){mDbXwlbhTH = false;}
-      if(euVYfAWHFW == true){euVYfAWHFW = false;}
-      if(gRqkDHHXrg == true){gRqkDHHXrg = false;}
-      if(rZAZWHrRjm == true){rZAZWHrRjm = false;}
-      if(GlVePEDrle == true){GlVePEDrle = false;}
-      if(DrFtWUMpUo == true){DrFtWUMpUo = false;}
-    } 
-}; 
-
-#include <stdio.h>
-#include <string>
-#include <iostream>
-
-using namespace std;
-
-class TOTPAFVKDO
-{ 
-  void doGujkuoHh()
-  { 
-      bool ubKwBhrMgC = false;
-      bool tYHaqnylnk = false;
-      bool nDFSggIcxj = false;
-      bool bIlNzYtotk = false;
-      bool jzMDuKkPIa = false;
-      bool dXuukqVqOU = false;
-      bool ZOOwZllsbR = false;
-      bool sIqCBnqBXV = false;
-      bool wrUWGDMqcH = false;
-      bool DDZYLUkPcI = false;
-      bool XqnpgUfstw = false;
-      bool ATTrYgtqpW = false;
-      bool YuQTOpiSqf = false;
-      bool DaYOxEDdpk = false;
-      bool XTxfHiihAd = false;
-      bool ZsZGjcZTbq = false;
-      bool lNBNrYuFtT = false;
-      bool cPBEyFykMf = false;
-      bool HBSMFKBReU = false;
-      bool ejCyyJRimi = false;
-      string deelWVeeGw;
-      string qmSyhrLgub;
-      string YOpLDyUukO;
-      string eNECaRLkdm;
-      string ekjjxETcYM;
-      string pkOFyPoTiX;
-      string BitqRdiPXP;
-      string fZDIwndFNy;
-      string eqVYXsyzDL;
-      string crCFkuprST;
-      string VDFJfQgFIK;
-      string ljFjrKNVTY;
-      string eiLLmnXyWB;
-      string xkmtbbkMrH;
-      string LsqsZrmSMa;
-      string hUYsnmqsVr;
-      string sihHMAxKIQ;
-      string YAcMMlrSlt;
-      string AEkwSbMsFo;
-      string jrqzObKjfY;
-      if(deelWVeeGw == VDFJfQgFIK){ubKwBhrMgC = true;}
-      else if(VDFJfQgFIK == deelWVeeGw){XqnpgUfstw = true;}
-      if(qmSyhrLgub == ljFjrKNVTY){tYHaqnylnk = true;}
-      else if(ljFjrKNVTY == qmSyhrLgub){ATTrYgtqpW = true;}
-      if(YOpLDyUukO == eiLLmnXyWB){nDFSggIcxj = true;}
-      else if(eiLLmnXyWB == YOpLDyUukO){YuQTOpiSqf = true;}
-      if(eNECaRLkdm == xkmtbbkMrH){bIlNzYtotk = true;}
-      else if(xkmtbbkMrH == eNECaRLkdm){DaYOxEDdpk = true;}
-      if(ekjjxETcYM == LsqsZrmSMa){jzMDuKkPIa = true;}
-      else if(LsqsZrmSMa == ekjjxETcYM){XTxfHiihAd = true;}
-      if(pkOFyPoTiX == hUYsnmqsVr){dXuukqVqOU = true;}
-      else if(hUYsnmqsVr == pkOFyPoTiX){ZsZGjcZTbq = true;}
-      if(BitqRdiPXP == sihHMAxKIQ){ZOOwZllsbR = true;}
-      else if(sihHMAxKIQ == BitqRdiPXP){lNBNrYuFtT = true;}
-      if(fZDIwndFNy == YAcMMlrSlt){sIqCBnqBXV = true;}
-      if(eqVYXsyzDL == AEkwSbMsFo){wrUWGDMqcH = true;}
-      if(crCFkuprST == jrqzObKjfY){DDZYLUkPcI = true;}
-      while(YAcMMlrSlt == fZDIwndFNy){cPBEyFykMf = true;}
-      while(AEkwSbMsFo == AEkwSbMsFo){HBSMFKBReU = true;}
-      while(jrqzObKjfY == jrqzObKjfY){ejCyyJRimi = true;}
-      if(ubKwBhrMgC == true){ubKwBhrMgC = false;}
-      if(tYHaqnylnk == true){tYHaqnylnk = false;}
-      if(nDFSggIcxj == true){nDFSggIcxj = false;}
-      if(bIlNzYtotk == true){bIlNzYtotk = false;}
-      if(jzMDuKkPIa == true){jzMDuKkPIa = false;}
-      if(dXuukqVqOU == true){dXuukqVqOU = false;}
-      if(ZOOwZllsbR == true){ZOOwZllsbR = false;}
-      if(sIqCBnqBXV == true){sIqCBnqBXV = false;}
-      if(wrUWGDMqcH == true){wrUWGDMqcH = false;}
-      if(DDZYLUkPcI == true){DDZYLUkPcI = false;}
-      if(XqnpgUfstw == true){XqnpgUfstw = false;}
-      if(ATTrYgtqpW == true){ATTrYgtqpW = false;}
-      if(YuQTOpiSqf == true){YuQTOpiSqf = false;}
-      if(DaYOxEDdpk == true){DaYOxEDdpk = false;}
-      if(XTxfHiihAd == true){XTxfHiihAd = false;}
-      if(ZsZGjcZTbq == true){ZsZGjcZTbq = false;}
-      if(lNBNrYuFtT == true){lNBNrYuFtT = false;}
-      if(cPBEyFykMf == true){cPBEyFykMf = false;}
-      if(HBSMFKBReU == true){HBSMFKBReU = false;}
-      if(ejCyyJRimi == true){ejCyyJRimi = false;}
+      bool UzEYkZzcaB = false;
+      bool nNSdWnWazG = false;
+      bool dHeMgIlmIe = false;
+      bool QOWrtLPcrc = false;
+      bool xmBFgloTJR = false;
+      bool qEDDAMUrqc = false;
+      bool mMUwjZqZiL = false;
+      bool YtiVIpFZeu = false;
+      bool SScpnLKSrg = false;
+      bool qXkPojSFUH = false;
+      bool tOjyswVhtJ = false;
+      bool GtMwJUjeIX = false;
+      bool OYhBTAJTgY = false;
+      bool XAEXAEhdwq = false;
+      bool pcXhawKoFT = false;
+      bool znxxrVfhes = false;
+      bool mBBVlGpouF = false;
+      bool mGhQglAAaW = false;
+      bool oUNMYiCHee = false;
+      bool XzyDEobCuU = false;
+      string yisnMBElIm;
+      string xcymgdMjPO;
+      string HNAQZAzZEy;
+      string nxkWNXEJtT;
+      string PlhAfUQMWG;
+      string SUdPojibNM;
+      string CdhKzArbZJ;
+      string ZCowzUfzkE;
+      string jlDxeSSVgc;
+      string obuhRkEWBf;
+      string comMgPfhPT;
+      string DipJbPakef;
+      string gWtwUxGHdN;
+      string QIyEbuzpQP;
+      string mjFNYFklFB;
+      string KTrUyFtpri;
+      string IYDCDtklhg;
+      string QjTOsxRgWO;
+      string LUBcDwQcGV;
+      string AIxgGOfCJd;
+      if(yisnMBElIm == comMgPfhPT){UzEYkZzcaB = true;}
+      else if(comMgPfhPT == yisnMBElIm){tOjyswVhtJ = true;}
+      if(xcymgdMjPO == DipJbPakef){nNSdWnWazG = true;}
+      else if(DipJbPakef == xcymgdMjPO){GtMwJUjeIX = true;}
+      if(HNAQZAzZEy == gWtwUxGHdN){dHeMgIlmIe = true;}
+      else if(gWtwUxGHdN == HNAQZAzZEy){OYhBTAJTgY = true;}
+      if(nxkWNXEJtT == QIyEbuzpQP){QOWrtLPcrc = true;}
+      else if(QIyEbuzpQP == nxkWNXEJtT){XAEXAEhdwq = true;}
+      if(PlhAfUQMWG == mjFNYFklFB){xmBFgloTJR = true;}
+      else if(mjFNYFklFB == PlhAfUQMWG){pcXhawKoFT = true;}
+      if(SUdPojibNM == KTrUyFtpri){qEDDAMUrqc = true;}
+      else if(KTrUyFtpri == SUdPojibNM){znxxrVfhes = true;}
+      if(CdhKzArbZJ == IYDCDtklhg){mMUwjZqZiL = true;}
+      else if(IYDCDtklhg == CdhKzArbZJ){mBBVlGpouF = true;}
+      if(ZCowzUfzkE == QjTOsxRgWO){YtiVIpFZeu = true;}
+      if(jlDxeSSVgc == LUBcDwQcGV){SScpnLKSrg = true;}
+      if(obuhRkEWBf == AIxgGOfCJd){qXkPojSFUH = true;}
+      while(QjTOsxRgWO == ZCowzUfzkE){mGhQglAAaW = true;}
+      while(LUBcDwQcGV == LUBcDwQcGV){oUNMYiCHee = true;}
+      while(AIxgGOfCJd == AIxgGOfCJd){XzyDEobCuU = true;}
+      if(UzEYkZzcaB == true){UzEYkZzcaB = false;}
+      if(nNSdWnWazG == true){nNSdWnWazG = false;}
+      if(dHeMgIlmIe == true){dHeMgIlmIe = false;}
+      if(QOWrtLPcrc == true){QOWrtLPcrc = false;}
+      if(xmBFgloTJR == true){xmBFgloTJR = false;}
+      if(qEDDAMUrqc == true){qEDDAMUrqc = false;}
+      if(mMUwjZqZiL == true){mMUwjZqZiL = false;}
+      if(YtiVIpFZeu == true){YtiVIpFZeu = false;}
+      if(SScpnLKSrg == true){SScpnLKSrg = false;}
+      if(qXkPojSFUH == true){qXkPojSFUH = false;}
+      if(tOjyswVhtJ == true){tOjyswVhtJ = false;}
+      if(GtMwJUjeIX == true){GtMwJUjeIX = false;}
+      if(OYhBTAJTgY == true){OYhBTAJTgY = false;}
+      if(XAEXAEhdwq == true){XAEXAEhdwq = false;}
+      if(pcXhawKoFT == true){pcXhawKoFT = false;}
+      if(znxxrVfhes == true){znxxrVfhes = false;}
+      if(mBBVlGpouF == true){mBBVlGpouF = false;}
+      if(mGhQglAAaW == true){mGhQglAAaW = false;}
+      if(oUNMYiCHee == true){oUNMYiCHee = false;}
+      if(XzyDEobCuU == true){XzyDEobCuU = false;}
     } 
 }; 

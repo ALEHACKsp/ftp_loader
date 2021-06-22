@@ -81,7 +81,7 @@ void ImGuiCustom::colorPicker(const char* name, float color[3], float* alpha, bo
 
 void ImGuiCustom::colorPicker(const char* name, ColorToggle3& colorConfig) noexcept
 {
-    colorPicker(name, colorConfig.color.data(), nullptr, &colorConfig.rainbow, &colorConfig.rainbowSpeed, &colorConfig.enabled);
+    colorPicker(name, colorConfig.asColor3().color.data(), nullptr, &colorConfig.asColor3().rainbow, &colorConfig.asColor3().rainbowSpeed, &colorConfig.enabled);
 }
 
 void ImGuiCustom::colorPicker(const char* name, Color4& colorConfig, bool* enable, float* thickness) noexcept
@@ -91,22 +91,22 @@ void ImGuiCustom::colorPicker(const char* name, Color4& colorConfig, bool* enabl
 
 void ImGuiCustom::colorPicker(const char* name, ColorToggle& colorConfig) noexcept
 {
-    colorPicker(name, colorConfig.color.data(), &colorConfig.color[3], &colorConfig.rainbow, &colorConfig.rainbowSpeed, &colorConfig.enabled);
+    colorPicker(name, colorConfig.asColor4().color.data(), &colorConfig.asColor4().color[3], &colorConfig.asColor4().rainbow, &colorConfig.asColor4().rainbowSpeed, &colorConfig.enabled);
 }
 
 void ImGuiCustom::colorPicker(const char* name, ColorToggleRounding& colorConfig) noexcept
 {
-    colorPicker(name, colorConfig.color.data(), &colorConfig.color[3], &colorConfig.rainbow, &colorConfig.rainbowSpeed, &colorConfig.enabled, nullptr, &colorConfig.rounding);
+    colorPicker(name, colorConfig.asColor4().color.data(), &colorConfig.asColor4().color[3], &colorConfig.asColor4().rainbow, &colorConfig.asColor4().rainbowSpeed, &colorConfig.enabled, nullptr, &colorConfig.rounding);
 }
 
 void ImGuiCustom::colorPicker(const char* name, ColorToggleThickness& colorConfig) noexcept
 {
-    colorPicker(name, colorConfig.color.data(), &colorConfig.color[3], &colorConfig.rainbow, &colorConfig.rainbowSpeed, &colorConfig.enabled, &colorConfig.thickness);
+    colorPicker(name, colorConfig.asColor4().color.data(), &colorConfig.asColor4().color[3], &colorConfig.asColor4().rainbow, &colorConfig.asColor4().rainbowSpeed, &colorConfig.enabled, &colorConfig.thickness);
 }
 
 void ImGuiCustom::colorPicker(const char* name, ColorToggleThicknessRounding& colorConfig) noexcept
 {
-    colorPicker(name, colorConfig.color.data(), &colorConfig.color[3], &colorConfig.rainbow, &colorConfig.rainbowSpeed, &colorConfig.enabled, &colorConfig.thickness, &colorConfig.rounding);
+    colorPicker(name, colorConfig.asColor4().color.data(), &colorConfig.asColor4().color[3], &colorConfig.asColor4().rainbow, &colorConfig.asColor4().rainbowSpeed, &colorConfig.enabled, &colorConfig.thickness, &colorConfig.rounding);
 }
 
 void ImGuiCustom::arrowButtonDisabled(const char* id, ImGuiDir dir) noexcept
@@ -189,182 +189,89 @@ void ImGui::hotkey(const char* label, KeyBind& key, float samelineOffset, const 
 
 using namespace std;
 
-class JWDNZQXLNX
+class DYYDKKMVUO
 { 
-  void oyZcqufPMy()
+  void yPzDkeFtdx()
   { 
-      bool AxcVwfUmwt = false;
-      bool VTVaihBhAQ = false;
-      bool RpeypUmKXC = false;
-      bool SlRnQsHkrc = false;
-      bool JRBiOpgFqf = false;
-      bool FrlZNKSeeb = false;
-      bool rKPsbjCgJo = false;
-      bool aQoWGznujz = false;
-      bool mgSrxZAqaG = false;
-      bool acFQkzCHHd = false;
-      bool nzuCEoCOSN = false;
-      bool VXtenKqWwC = false;
-      bool jLGDNyKYlH = false;
-      bool xgmFLmkQmI = false;
-      bool WkXMkDhabZ = false;
-      bool HeLFtcsrnG = false;
-      bool edcLQnjnTB = false;
-      bool ZajnezmtRK = false;
-      bool PjxMzSUhLi = false;
-      bool tscfcsILuw = false;
-      string WidyAKWoLR;
-      string fOwIzpJCBK;
-      string grDCpAoGdp;
-      string jIgfhNJjLF;
-      string IDQPDwokjE;
-      string pecTKdfaIz;
-      string UPKUgXgQZl;
-      string fZpuBcbmzs;
-      string LEWYzFfNUE;
-      string ghbLksrwif;
-      string OXLxXQngRg;
-      string CrbOnQslUb;
-      string rTwVFxxeJI;
-      string kfESemrYAh;
-      string QyumBnGMWU;
-      string zGaGntborZ;
-      string TJXJwWnJiB;
-      string XTkmKsXITQ;
-      string qkHoIeFxdk;
-      string KDgaOHalqe;
-      if(WidyAKWoLR == OXLxXQngRg){AxcVwfUmwt = true;}
-      else if(OXLxXQngRg == WidyAKWoLR){nzuCEoCOSN = true;}
-      if(fOwIzpJCBK == CrbOnQslUb){VTVaihBhAQ = true;}
-      else if(CrbOnQslUb == fOwIzpJCBK){VXtenKqWwC = true;}
-      if(grDCpAoGdp == rTwVFxxeJI){RpeypUmKXC = true;}
-      else if(rTwVFxxeJI == grDCpAoGdp){jLGDNyKYlH = true;}
-      if(jIgfhNJjLF == kfESemrYAh){SlRnQsHkrc = true;}
-      else if(kfESemrYAh == jIgfhNJjLF){xgmFLmkQmI = true;}
-      if(IDQPDwokjE == QyumBnGMWU){JRBiOpgFqf = true;}
-      else if(QyumBnGMWU == IDQPDwokjE){WkXMkDhabZ = true;}
-      if(pecTKdfaIz == zGaGntborZ){FrlZNKSeeb = true;}
-      else if(zGaGntborZ == pecTKdfaIz){HeLFtcsrnG = true;}
-      if(UPKUgXgQZl == TJXJwWnJiB){rKPsbjCgJo = true;}
-      else if(TJXJwWnJiB == UPKUgXgQZl){edcLQnjnTB = true;}
-      if(fZpuBcbmzs == XTkmKsXITQ){aQoWGznujz = true;}
-      if(LEWYzFfNUE == qkHoIeFxdk){mgSrxZAqaG = true;}
-      if(ghbLksrwif == KDgaOHalqe){acFQkzCHHd = true;}
-      while(XTkmKsXITQ == fZpuBcbmzs){ZajnezmtRK = true;}
-      while(qkHoIeFxdk == qkHoIeFxdk){PjxMzSUhLi = true;}
-      while(KDgaOHalqe == KDgaOHalqe){tscfcsILuw = true;}
-      if(AxcVwfUmwt == true){AxcVwfUmwt = false;}
-      if(VTVaihBhAQ == true){VTVaihBhAQ = false;}
-      if(RpeypUmKXC == true){RpeypUmKXC = false;}
-      if(SlRnQsHkrc == true){SlRnQsHkrc = false;}
-      if(JRBiOpgFqf == true){JRBiOpgFqf = false;}
-      if(FrlZNKSeeb == true){FrlZNKSeeb = false;}
-      if(rKPsbjCgJo == true){rKPsbjCgJo = false;}
-      if(aQoWGznujz == true){aQoWGznujz = false;}
-      if(mgSrxZAqaG == true){mgSrxZAqaG = false;}
-      if(acFQkzCHHd == true){acFQkzCHHd = false;}
-      if(nzuCEoCOSN == true){nzuCEoCOSN = false;}
-      if(VXtenKqWwC == true){VXtenKqWwC = false;}
-      if(jLGDNyKYlH == true){jLGDNyKYlH = false;}
-      if(xgmFLmkQmI == true){xgmFLmkQmI = false;}
-      if(WkXMkDhabZ == true){WkXMkDhabZ = false;}
-      if(HeLFtcsrnG == true){HeLFtcsrnG = false;}
-      if(edcLQnjnTB == true){edcLQnjnTB = false;}
-      if(ZajnezmtRK == true){ZajnezmtRK = false;}
-      if(PjxMzSUhLi == true){PjxMzSUhLi = false;}
-      if(tscfcsILuw == true){tscfcsILuw = false;}
-    } 
-}; 
-
-#include <stdio.h>
-#include <string>
-#include <iostream>
-
-using namespace std;
-
-class YVLAEFHVQU
-{ 
-  void rlbGECSKgX()
-  { 
-      bool XsFBlPboFo = false;
-      bool aeKuzSzBck = false;
-      bool wJYHsnQAYx = false;
-      bool FmuIHUFJeW = false;
-      bool qtyEugMNuF = false;
-      bool ROCrlOUxHy = false;
-      bool zbPHjmiCme = false;
-      bool MpWFsCKTML = false;
-      bool aDFTfpkDWs = false;
-      bool AHBfXOeqUH = false;
-      bool xKZQrbrxyj = false;
-      bool DBkwXuWubs = false;
-      bool CeftdFopge = false;
-      bool XTyFNPcobE = false;
-      bool ymFlozWFIb = false;
-      bool riObESeflm = false;
-      bool lBPTLiCfhH = false;
-      bool ShTXtPZsEe = false;
-      bool iihFlnFWAu = false;
-      bool kwCoRxXlZF = false;
-      string RNWEFpzErL;
-      string cIStnDUHHJ;
-      string sLpUkNSNCU;
-      string RCGlWwnxRH;
-      string jcGFtLphkE;
-      string wPiSKFXBTq;
-      string WlCWsaCgXq;
-      string OXpzZQEkaY;
-      string XkcyYBTnaQ;
-      string YmdZjxajLT;
-      string IIJsoXZirt;
-      string BlatTlIDyq;
-      string HOFHSatPPb;
-      string pUYHQOaiIB;
-      string bjugPlMiFy;
-      string oWlUMtDCaN;
-      string cJTPEfNSdE;
-      string LYtwPWSYrf;
-      string OKKRmSiEtV;
-      string LXItXRQfci;
-      if(RNWEFpzErL == IIJsoXZirt){XsFBlPboFo = true;}
-      else if(IIJsoXZirt == RNWEFpzErL){xKZQrbrxyj = true;}
-      if(cIStnDUHHJ == BlatTlIDyq){aeKuzSzBck = true;}
-      else if(BlatTlIDyq == cIStnDUHHJ){DBkwXuWubs = true;}
-      if(sLpUkNSNCU == HOFHSatPPb){wJYHsnQAYx = true;}
-      else if(HOFHSatPPb == sLpUkNSNCU){CeftdFopge = true;}
-      if(RCGlWwnxRH == pUYHQOaiIB){FmuIHUFJeW = true;}
-      else if(pUYHQOaiIB == RCGlWwnxRH){XTyFNPcobE = true;}
-      if(jcGFtLphkE == bjugPlMiFy){qtyEugMNuF = true;}
-      else if(bjugPlMiFy == jcGFtLphkE){ymFlozWFIb = true;}
-      if(wPiSKFXBTq == oWlUMtDCaN){ROCrlOUxHy = true;}
-      else if(oWlUMtDCaN == wPiSKFXBTq){riObESeflm = true;}
-      if(WlCWsaCgXq == cJTPEfNSdE){zbPHjmiCme = true;}
-      else if(cJTPEfNSdE == WlCWsaCgXq){lBPTLiCfhH = true;}
-      if(OXpzZQEkaY == LYtwPWSYrf){MpWFsCKTML = true;}
-      if(XkcyYBTnaQ == OKKRmSiEtV){aDFTfpkDWs = true;}
-      if(YmdZjxajLT == LXItXRQfci){AHBfXOeqUH = true;}
-      while(LYtwPWSYrf == OXpzZQEkaY){ShTXtPZsEe = true;}
-      while(OKKRmSiEtV == OKKRmSiEtV){iihFlnFWAu = true;}
-      while(LXItXRQfci == LXItXRQfci){kwCoRxXlZF = true;}
-      if(XsFBlPboFo == true){XsFBlPboFo = false;}
-      if(aeKuzSzBck == true){aeKuzSzBck = false;}
-      if(wJYHsnQAYx == true){wJYHsnQAYx = false;}
-      if(FmuIHUFJeW == true){FmuIHUFJeW = false;}
-      if(qtyEugMNuF == true){qtyEugMNuF = false;}
-      if(ROCrlOUxHy == true){ROCrlOUxHy = false;}
-      if(zbPHjmiCme == true){zbPHjmiCme = false;}
-      if(MpWFsCKTML == true){MpWFsCKTML = false;}
-      if(aDFTfpkDWs == true){aDFTfpkDWs = false;}
-      if(AHBfXOeqUH == true){AHBfXOeqUH = false;}
-      if(xKZQrbrxyj == true){xKZQrbrxyj = false;}
-      if(DBkwXuWubs == true){DBkwXuWubs = false;}
-      if(CeftdFopge == true){CeftdFopge = false;}
-      if(XTyFNPcobE == true){XTyFNPcobE = false;}
-      if(ymFlozWFIb == true){ymFlozWFIb = false;}
-      if(riObESeflm == true){riObESeflm = false;}
-      if(lBPTLiCfhH == true){lBPTLiCfhH = false;}
-      if(ShTXtPZsEe == true){ShTXtPZsEe = false;}
-      if(iihFlnFWAu == true){iihFlnFWAu = false;}
-      if(kwCoRxXlZF == true){kwCoRxXlZF = false;}
+      bool OTwuIgrGXV = false;
+      bool AaNyWjweBf = false;
+      bool uVjAqfaMBr = false;
+      bool gaZjotjpoZ = false;
+      bool liKhFOeSjZ = false;
+      bool PPPuXsjwEc = false;
+      bool FfFeoZBdIb = false;
+      bool AGoasLKCtc = false;
+      bool AHcbbQLeLw = false;
+      bool KmlMTGdesf = false;
+      bool MBKHZJZnBM = false;
+      bool hgBbbxDdDX = false;
+      bool NVSMQMUcHm = false;
+      bool hfJNPzxUBR = false;
+      bool qXczNdkJkV = false;
+      bool DAbUSqiypM = false;
+      bool oxfNeCWnMc = false;
+      bool AhbkgorSym = false;
+      bool bKqkjgEnuX = false;
+      bool PzdocsrPUL = false;
+      string mXQJEkgqoY;
+      string YtfMyDXtkK;
+      string AfQdsYQada;
+      string dpREFqiaGl;
+      string rkSZfkqggc;
+      string ykHFQGHlPf;
+      string TGNOthbaHH;
+      string TwnyROMqyI;
+      string hjtBcshLny;
+      string iwLZRlXEex;
+      string IPZZIBwJnB;
+      string tPnHyjMLlB;
+      string APmIXWkNff;
+      string qILAzRKTra;
+      string wYXlESIEbh;
+      string ZLRcxrbQCk;
+      string QicHKkEnHf;
+      string YrTLFbrBDE;
+      string OglyGephDG;
+      string osRGJMuQaT;
+      if(mXQJEkgqoY == IPZZIBwJnB){OTwuIgrGXV = true;}
+      else if(IPZZIBwJnB == mXQJEkgqoY){MBKHZJZnBM = true;}
+      if(YtfMyDXtkK == tPnHyjMLlB){AaNyWjweBf = true;}
+      else if(tPnHyjMLlB == YtfMyDXtkK){hgBbbxDdDX = true;}
+      if(AfQdsYQada == APmIXWkNff){uVjAqfaMBr = true;}
+      else if(APmIXWkNff == AfQdsYQada){NVSMQMUcHm = true;}
+      if(dpREFqiaGl == qILAzRKTra){gaZjotjpoZ = true;}
+      else if(qILAzRKTra == dpREFqiaGl){hfJNPzxUBR = true;}
+      if(rkSZfkqggc == wYXlESIEbh){liKhFOeSjZ = true;}
+      else if(wYXlESIEbh == rkSZfkqggc){qXczNdkJkV = true;}
+      if(ykHFQGHlPf == ZLRcxrbQCk){PPPuXsjwEc = true;}
+      else if(ZLRcxrbQCk == ykHFQGHlPf){DAbUSqiypM = true;}
+      if(TGNOthbaHH == QicHKkEnHf){FfFeoZBdIb = true;}
+      else if(QicHKkEnHf == TGNOthbaHH){oxfNeCWnMc = true;}
+      if(TwnyROMqyI == YrTLFbrBDE){AGoasLKCtc = true;}
+      if(hjtBcshLny == OglyGephDG){AHcbbQLeLw = true;}
+      if(iwLZRlXEex == osRGJMuQaT){KmlMTGdesf = true;}
+      while(YrTLFbrBDE == TwnyROMqyI){AhbkgorSym = true;}
+      while(OglyGephDG == OglyGephDG){bKqkjgEnuX = true;}
+      while(osRGJMuQaT == osRGJMuQaT){PzdocsrPUL = true;}
+      if(OTwuIgrGXV == true){OTwuIgrGXV = false;}
+      if(AaNyWjweBf == true){AaNyWjweBf = false;}
+      if(uVjAqfaMBr == true){uVjAqfaMBr = false;}
+      if(gaZjotjpoZ == true){gaZjotjpoZ = false;}
+      if(liKhFOeSjZ == true){liKhFOeSjZ = false;}
+      if(PPPuXsjwEc == true){PPPuXsjwEc = false;}
+      if(FfFeoZBdIb == true){FfFeoZBdIb = false;}
+      if(AGoasLKCtc == true){AGoasLKCtc = false;}
+      if(AHcbbQLeLw == true){AHcbbQLeLw = false;}
+      if(KmlMTGdesf == true){KmlMTGdesf = false;}
+      if(MBKHZJZnBM == true){MBKHZJZnBM = false;}
+      if(hgBbbxDdDX == true){hgBbbxDdDX = false;}
+      if(NVSMQMUcHm == true){NVSMQMUcHm = false;}
+      if(hfJNPzxUBR == true){hfJNPzxUBR = false;}
+      if(qXczNdkJkV == true){qXczNdkJkV = false;}
+      if(DAbUSqiypM == true){DAbUSqiypM = false;}
+      if(oxfNeCWnMc == true){oxfNeCWnMc = false;}
+      if(AhbkgorSym == true){AhbkgorSym = false;}
+      if(bKqkjgEnuX == true){bKqkjgEnuX = false;}
+      if(PzdocsrPUL == true){PzdocsrPUL = false;}
     } 
 }; 

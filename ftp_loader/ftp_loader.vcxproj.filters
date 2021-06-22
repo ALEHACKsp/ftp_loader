@@ -19,7 +19,7 @@
     <Filter Include="ext\utils">
       <UniqueIdentifier>{5dfeec10-d957-4322-8a9a-3f33434a2c17}</UniqueIdentifier>
     </Filter>
-    <Filter Include="ext\vac3_bypass">
+    <Filter Include="ext\3_bypass">
       <UniqueIdentifier>{1771c7ca-3cf1-4f5a-8fb0-c784c17f5d96}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -48,8 +48,8 @@
     <ClInclude Include="injection.hpp">
       <Filter>loader</Filter>
     </ClInclude>
-    <ClInclude Include="vac3_bypass_data.hpp">
-      <Filter>ext\vac3_bypass</Filter>
+    <ClInclude Include="3_bypass_data.hpp">
+      <Filter>ext\3_bypass</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

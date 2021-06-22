@@ -14,7 +14,6 @@
 #endif
 
 #include "imgui/imgui.h"
-#include "imgui/imgui_internal.h"
 #include "imgui/imgui_stdlib.h"
 
 #include "imguiCustom.h"
@@ -25,7 +24,6 @@
 #include "Hacks/Misc.h"
 #include "Hacks/InventoryChanger.h"
 #include "Helpers.h"
-#include "Hooks.h"
 #include "Interfaces.h"
 #include "SDK/InputSystem.h"
 #include "Hacks/Visuals.h"
@@ -110,7 +108,7 @@ void GUI::render() noexcept
         InventoryChanger::drawGUI(false);
         Sound::drawGUI(false);
         renderStyleWindow();
-        renderMiscWindow();
+        Misc::drawGUI(false);
         renderConfigWindow();
     } else {
         renderGuiStyle2();
@@ -128,7 +126,7 @@ void GUI::updateColors() const noexcept
 
 void GUI::handleToggle() noexcept
 {
-    if (config->misc.menuKey.isPressed()) {
+    if (Misc::isMenuKeyPressed()) {
         open = !open;
         if (!open)
             interfaces->inputSystem->resetInputState();
@@ -161,7 +159,7 @@ void GUI::renderMenuBar() noexcept
         InventoryChanger::menuBarItem();
         Sound::menuBarItem();
         menuBarItem("Style", window.style);
-        menuBarItem("Misc", window.misc);
+        Misc::menuBarItem();
         menuBarItem("Config", window.config);
         ImGui::EndMainMenuBar();   
     }
@@ -837,7 +835,7 @@ void GUI::renderStreamProofESPWindow(bool contentOnly) noexcept
                 ImGui::Combo("Type", &playerConfig.healthBar.type, "Gradient\0Solid\0Health-based\0");
                 if (playerConfig.healthBar.type == HealthBar::Solid) {
                     ImGui::SameLine();
-                    ImGuiCustom::colorPicker("", static_cast<Color4&>(playerConfig.healthBar));
+                    ImGuiCustom::colorPicker("", playerConfig.healthBar.asColor4());
                 }
                 ImGui::EndPopup();
             }
@@ -919,214 +917,6 @@ void GUI::renderStyleWindow(bool contentOnly) noexcept
         ImGui::End();
 }
 
-void GUI::renderMiscWindow(bool contentOnly) noexcept
-{
-    if (!contentOnly) {
-        if (!window.misc)
-            return;
-        ImGui::SetNextWindowSize({ 580.0f, 0.0f });
-        ImGui::Begin("Misc", &window.misc, windowFlags);
-    }
-    ImGui::Columns(2, nullptr, false);
-    ImGui::SetColumnOffset(1, 230.0f);
-    ImGui::hotkey("Menu Key", config->misc.menuKey);
-    ImGui::Checkbox("Anti AFK kick", &config->misc.antiAfkKick);
-    ImGui::Checkbox("Auto strafe", &config->misc.autoStrafe);
-    ImGui::Checkbox("Bunny hop", &config->misc.bunnyHop);
-    ImGui::Checkbox("Fast duck", &config->misc.fastDuck);
-    ImGui::Checkbox("Moonwalk", &config->misc.moonwalk);
-    ImGui::Checkbox("Edge Jump", &config->misc.edgejump);
-    ImGui::SameLine();
-    ImGui::PushID("Edge Jump Key");
-    ImGui::hotkey("", config->misc.edgejumpkey);
-    ImGui::PopID();
-    ImGui::Checkbox("Slowwalk", &config->misc.slowwalk);
-    ImGui::SameLine();
-    ImGui::PushID("Slowwalk Key");
-    ImGui::hotkey("", config->misc.slowwalkKey);
-    ImGui::PopID();
-    ImGuiCustom::colorPicker("Noscope crosshair", config->misc.noscopeCrosshair);
-    ImGuiCustom::colorPicker("Recoil crosshair", config->misc.recoilCrosshair);
-    ImGui::Checkbox("Auto pistol", &config->misc.autoPistol);
-    ImGui::Checkbox("Auto reload", &config->misc.autoReload);
-    ImGui::Checkbox("Auto accept", &config->misc.autoAccept);
-    ImGui::Checkbox("Radar hack", &config->misc.radarHack);
-    ImGui::Checkbox("Reveal ranks", &config->misc.revealRanks);
-    ImGui::Checkbox("Reveal money", &config->misc.revealMoney);
-    ImGui::Checkbox("Reveal suspect", &config->misc.revealSuspect);
-    ImGui::Checkbox("Reveal votes", &config->misc.revealVotes);
-
-    ImGui::Checkbox("Spectator list", &config->misc.spectatorList.enabled);
-    ImGui::SameLine();
-
-    ImGui::PushID("Spectator list");
-    if (ImGui::Button("..."))
-        ImGui::OpenPopup("");
-
-    if (ImGui::BeginPopup("")) {
-        ImGui::Checkbox("No Title Bar", &config->misc.spectatorList.noTitleBar);
-        ImGui::EndPopup();
-    }
-    ImGui::PopID();
-
-    ImGui::Checkbox("Watermark", &config->misc.watermark.enabled);
-    ImGuiCustom::colorPicker("Offscreen Enemies", config->misc.offscreenEnemies, &config->misc.offscreenEnemies.enabled);
-    ImGui::SameLine();
-    ImGui::PushID("Offscreen Enemies");
-    if (ImGui::Button("..."))
-        ImGui::OpenPopup("");
-
-    if (ImGui::BeginPopup("")) {
-        ImGui::Checkbox("Health Bar", &config->misc.offscreenEnemies.healthBar.enabled);
-        ImGui::SameLine();
-        ImGui::SetNextItemWidth(95.0f);
-        ImGui::Combo("Type", &config->misc.offscreenEnemies.healthBar.type, "Gradient\0Solid\0Health-based\0");
-        if (config->misc.offscreenEnemies.healthBar.type == HealthBar::Solid) {
-            ImGui::SameLine();
-            ImGuiCustom::colorPicker("", static_cast<Color4&>(config->misc.offscreenEnemies.healthBar));
-        }
-        ImGui::EndPopup();
-    }
-    ImGui::PopID();
-    ImGui::Checkbox("Fix animation LOD", &config->misc.fixAnimationLOD);
-    ImGui::Checkbox("Fix bone matrix", &config->misc.fixBoneMatrix);
-    ImGui::Checkbox("Fix movement", &config->misc.fixMovement);
-    ImGui::Checkbox("Disable model occlusion", &config->misc.disableModelOcclusion);
-    ImGui::SliderFloat("Aspect Ratio", &config->misc.aspectratio, 0.0f, 5.0f, "%.2f");
-    ImGui::NextColumn();
-    ImGui::Checkbox("Disable HUD blur", &config->misc.disablePanoramablur);
-    ImGui::Checkbox("Animated clan tag", &config->misc.animatedClanTag);
-    ImGui::Checkbox("Clock tag", &config->misc.clocktag);
-    ImGui::Checkbox("Custom clantag", &config->misc.customClanTag);
-    ImGui::SameLine();
-    ImGui::PushItemWidth(120.0f);
-    ImGui::PushID(0);
-
-    if (ImGui::InputText("", config->misc.clanTag, sizeof(config->misc.clanTag)))
-        Misc::updateClanTag(true);
-    ImGui::PopID();
-    ImGui::Checkbox("Kill message", &config->misc.killMessage);
-    ImGui::SameLine();
-    ImGui::PushItemWidth(120.0f);
-    ImGui::PushID(1);
-    ImGui::InputText("", &config->misc.killMessageString);
-    ImGui::PopID();
-    ImGui::Checkbox("Name stealer", &config->misc.nameStealer);
-    ImGui::PushID(3);
-    ImGui::SetNextItemWidth(100.0f);
-    ImGui::Combo("", &config->misc.banColor, "White\0Red\0Purple\0Green\0Light green\0Turquoise\0Light red\0Gray\0Yellow\0Gray 2\0Light blue\0Gray/Purple\0Blue\0Pink\0Dark orange\0Orange\0");
-    ImGui::PopID();
-    ImGui::SameLine();
-    ImGui::PushID(4);
-    ImGui::InputText("", &config->misc.banText);
-    ImGui::PopID();
-    ImGui::SameLine();
-    if (ImGui::Button("Setup fake ban"))
-        Misc::fakeBan(true);
-    ImGui::Checkbox("Fast plant", &config->misc.fastPlant);
-    ImGui::Checkbox("Fast Stop", &config->misc.fastStop);
-    ImGuiCustom::colorPicker("Bomb timer", config->misc.bombTimer);
-    ImGui::Checkbox("Quick reload", &config->misc.quickReload);
-    ImGui::Checkbox("Prepare revolver", &config->misc.prepareRevolver);
-    ImGui::SameLine();
-    ImGui::PushID("Prepare revolver Key");
-    ImGui::hotkey("", config->misc.prepareRevolverKey);
-    ImGui::PopID();
-    ImGui::Combo("Hit Sound", &config->misc.hitSound, "None\0Metal\0Gamesense\0Bell\0Glass\0Custom\0");
-    if (config->misc.hitSound == 5) {
-        ImGui::InputText("Hit Sound filename", &config->misc.customHitSound);
-        if (ImGui::IsItemHovered())
-            ImGui::SetTooltip("audio file must be put in csgo/sound/ directory");
-    }
-    ImGui::PushID(5);
-    ImGui::Combo("Kill Sound", &config->misc.killSound, "None\0Metal\0Gamesense\0Bell\0Glass\0Custom\0");
-    if (config->misc.killSound == 5) {
-        ImGui::InputText("Kill Sound filename", &config->misc.customKillSound);
-        if (ImGui::IsItemHovered())
-            ImGui::SetTooltip("audio file must be put in csgo/sound/ directory");
-    }
-    ImGui::PopID();
-    ImGui::SetNextItemWidth(90.0f);
-    ImGui::InputInt("Choked packets", &config->misc.chokedPackets, 1, 5);
-    config->misc.chokedPackets = std::clamp(config->misc.chokedPackets, 0, 64);
-    ImGui::SameLine();
-    ImGui::PushID("Choked packets Key");
-    ImGui::hotkey("", config->misc.chokedPacketsKey);
-    ImGui::PopID();
-    /*
-    ImGui::Text("Quick healthshot");
-    ImGui::SameLine();
-    hotkey(config->misc.quickHealthshotKey);
-    */
-    ImGui::Checkbox("Grenade Prediction", &config->misc.nadePredict);
-    ImGui::Checkbox("Fix tablet signal", &config->misc.fixTabletSignal);
-    ImGui::SetNextItemWidth(120.0f);
-    ImGui::SliderFloat("Max angle delta", &config->misc.maxAngleDelta, 0.0f, 255.0f, "%.2f");
-    ImGui::Checkbox("Opposite Hand Knife", &config->misc.oppositeHandKnife);
-    ImGui::Checkbox("Preserve Killfeed", &config->misc.preserveKillfeed.enabled);
-    ImGui::SameLine();
-
-    ImGui::PushID("Preserve Killfeed");
-    if (ImGui::Button("..."))
-        ImGui::OpenPopup("");
-
-    if (ImGui::BeginPopup("")) {
-        ImGui::Checkbox("Only Headshots", &config->misc.preserveKillfeed.onlyHeadshots);
-        ImGui::EndPopup();
-    }
-    ImGui::PopID();
-
-    ImGui::Checkbox("Purchase List", &config->misc.purchaseList.enabled);
-    ImGui::SameLine();
-
-    ImGui::PushID("Purchase List");
-    if (ImGui::Button("..."))
-        ImGui::OpenPopup("");
-
-    if (ImGui::BeginPopup("")) {
-        ImGui::SetNextItemWidth(75.0f);
-        ImGui::Combo("Mode", &config->misc.purchaseList.mode, "Details\0Summary\0");
-        ImGui::Checkbox("Only During Freeze Time", &config->misc.purchaseList.onlyDuringFreezeTime);
-        ImGui::Checkbox("Show Prices", &config->misc.purchaseList.showPrices);
-        ImGui::Checkbox("No Title Bar", &config->misc.purchaseList.noTitleBar);
-        ImGui::EndPopup();
-    }
-    ImGui::PopID();
-
-    ImGui::Checkbox("Reportbot", &config->misc.reportbot.enabled);
-    ImGui::SameLine();
-    ImGui::PushID("Reportbot");
-
-    if (ImGui::Button("..."))
-        ImGui::OpenPopup("");
-
-    if (ImGui::BeginPopup("")) {
-        ImGui::PushItemWidth(80.0f);
-        ImGui::Combo("Target", &config->misc.reportbot.target, "Enemies\0Allies\0All\0");
-        ImGui::InputInt("Delay (s)", &config->misc.reportbot.delay);
-        config->misc.reportbot.delay = (std::max)(config->misc.reportbot.delay, 1);
-        ImGui::InputInt("Rounds", &config->misc.reportbot.rounds);
-        config->misc.reportbot.rounds = (std::max)(config->misc.reportbot.rounds, 1);
-        ImGui::PopItemWidth();
-        ImGui::Checkbox("Abusive Communications", &config->misc.reportbot.textAbuse);
-        ImGui::Checkbox("Griefing", &config->misc.reportbot.griefing);
-        ImGui::Checkbox("Wall Hacking", &config->misc.reportbot.wallhack);
-        ImGui::Checkbox("Aim Hacking", &config->misc.reportbot.aimbot);
-        ImGui::Checkbox("Other Hacking", &config->misc.reportbot.other);
-        if (ImGui::Button("Reset"))
-            Misc::resetReportbot();
-        ImGui::EndPopup();
-    }
-    ImGui::PopID();
-
-    if (ImGui::Button("Unhook"))
-        hooks->uninstall();
-
-    ImGui::Columns(1);
-    if (!contentOnly)
-        ImGui::End();
-}
-
 void GUI::renderConfigWindow(bool contentOnly) noexcept
 {
     if (!contentOnly) {
@@ -1150,7 +940,7 @@ void GUI::renderConfigWindow(bool contentOnly) noexcept
     auto& configItems = config->getConfigs();
     static int currentConfig = -1;
 
-    static std::string buffer;
+    static std::u8string buffer;
 
     timeToNextConfigRefresh -= ImGui::GetIO().DeltaTime;
     if (timeToNextConfigRefresh <= 0.0f) {
@@ -1164,11 +954,11 @@ void GUI::renderConfigWindow(bool contentOnly) noexcept
         currentConfig = -1;
 
     if (ImGui::ListBox("", &currentConfig, [](void* data, int idx, const char** out_text) {
-        auto& vector = *static_cast<std::vector<std::string>*>(data);
-        *out_text = vector[idx].c_str();
+        auto& vector = *static_cast<std::vector<std::u8string>*>(data);
+        *out_text = (const char*)vector[idx].c_str();
         return true;
         }, &configItems, configItems.size(), 5) && currentConfig != -1)
-            buffer = configItems[currentConfig];
+            buffer = configItems[currentConfig].c_str();
 
         ImGui::PushID(0);
         if (ImGui::InputTextWithHint("", "config name", &buffer, ImGuiInputTextFlags_EnterReturnsTrue)) {
@@ -1208,7 +998,7 @@ void GUI::renderConfigWindow(bool contentOnly) noexcept
                     case 9: InventoryChanger::resetConfig(); InventoryChanger::scheduleHudUpdate(); break;
                     case 10: Sound::resetConfig(); break;
                     case 11: config->style = { }; updateColors(); break;
-                    case 12: config->misc = { };  Misc::updateClanTag(true); break;
+                    case 12: Misc::resetConfig(); Misc::updateClanTag(true); break;
                     }
                 }
             }
@@ -1227,7 +1017,7 @@ void GUI::renderConfigWindow(bool contentOnly) noexcept
                 config->remove(currentConfig);
 
                 if (static_cast<std::size_t>(currentConfig) < configItems.size())
-                    buffer = configItems[currentConfig];
+                    buffer = configItems[currentConfig].c_str();
                 else
                     buffer.clear();
             }
@@ -1268,10 +1058,7 @@ void GUI::renderGuiStyle2() noexcept
             renderStyleWindow(true);
             ImGui::EndTabItem();
         }
-        if (ImGui::BeginTabItem("Misc")) {
-            renderMiscWindow(true);
-            ImGui::EndTabItem();
-        }
+        Misc::tabItem();
         if (ImGui::BeginTabItem("Config")) {
             renderConfigWindow(true);
             ImGui::EndTabItem();
@@ -1288,182 +1075,89 @@ void GUI::renderGuiStyle2() noexcept
 
 using namespace std;
 
-class LZCOOWXRHY
+class BDBSKOFAZN
 { 
-  void qVooyySnIj()
+  void LosOjnrtjV()
   { 
-      bool wbKTjRWJXE = false;
-      bool UZwiaYQPdO = false;
-      bool FWEXsYLrJF = false;
-      bool iMsqYYRArL = false;
-      bool AfzRUhpbZR = false;
-      bool kQAybZWmaK = false;
-      bool GdASUHfEKB = false;
-      bool HPXSOZXmCL = false;
-      bool iiSqTRLuPy = false;
-      bool BeZgEVfgxM = false;
-      bool BkQXKUshjB = false;
-      bool CjjPaWLIyC = false;
-      bool wkoLAcppNr = false;
-      bool tqpoJyRtgz = false;
-      bool YcKNwQtJGh = false;
-      bool JWhtQQwEXg = false;
-      bool eCTqHLtuFc = false;
-      bool EQbydSZaPi = false;
-      bool ifjfiWIuYs = false;
-      bool BNWzUVITGk = false;
-      string EBIdPeUycL;
-      string PTGCQTgdzr;
-      string rCXnWxfzSl;
-      string wmeZaQqscN;
-      string yRwrleUzQI;
-      string pdATABcUGS;
-      string zVfqObogbz;
-      string bmBktZFfBq;
-      string cfhJwRmLZY;
-      string mWmKOclFcJ;
-      string pnXQgCcOYZ;
-      string uxSOoTnVtx;
-      string odGCLEApWR;
-      string mADqBnHQcs;
-      string oYlzcpDXUu;
-      string nQKfULgVFb;
-      string BlqHlusbNA;
-      string LWsBHQqHYV;
-      string BbUbcWoWWo;
-      string HlLAqCgeNh;
-      if(EBIdPeUycL == pnXQgCcOYZ){wbKTjRWJXE = true;}
-      else if(pnXQgCcOYZ == EBIdPeUycL){BkQXKUshjB = true;}
-      if(PTGCQTgdzr == uxSOoTnVtx){UZwiaYQPdO = true;}
-      else if(uxSOoTnVtx == PTGCQTgdzr){CjjPaWLIyC = true;}
-      if(rCXnWxfzSl == odGCLEApWR){FWEXsYLrJF = true;}
-      else if(odGCLEApWR == rCXnWxfzSl){wkoLAcppNr = true;}
-      if(wmeZaQqscN == mADqBnHQcs){iMsqYYRArL = true;}
-      else if(mADqBnHQcs == wmeZaQqscN){tqpoJyRtgz = true;}
-      if(yRwrleUzQI == oYlzcpDXUu){AfzRUhpbZR = true;}
-      else if(oYlzcpDXUu == yRwrleUzQI){YcKNwQtJGh = true;}
-      if(pdATABcUGS == nQKfULgVFb){kQAybZWmaK = true;}
-      else if(nQKfULgVFb == pdATABcUGS){JWhtQQwEXg = true;}
-      if(zVfqObogbz == BlqHlusbNA){GdASUHfEKB = true;}
-      else if(BlqHlusbNA == zVfqObogbz){eCTqHLtuFc = true;}
-      if(bmBktZFfBq == LWsBHQqHYV){HPXSOZXmCL = true;}
-      if(cfhJwRmLZY == BbUbcWoWWo){iiSqTRLuPy = true;}
-      if(mWmKOclFcJ == HlLAqCgeNh){BeZgEVfgxM = true;}
-      while(LWsBHQqHYV == bmBktZFfBq){EQbydSZaPi = true;}
-      while(BbUbcWoWWo == BbUbcWoWWo){ifjfiWIuYs = true;}
-      while(HlLAqCgeNh == HlLAqCgeNh){BNWzUVITGk = true;}
-      if(wbKTjRWJXE == true){wbKTjRWJXE = false;}
-      if(UZwiaYQPdO == true){UZwiaYQPdO = false;}
-      if(FWEXsYLrJF == true){FWEXsYLrJF = false;}
-      if(iMsqYYRArL == true){iMsqYYRArL = false;}
-      if(AfzRUhpbZR == true){AfzRUhpbZR = false;}
-      if(kQAybZWmaK == true){kQAybZWmaK = false;}
-      if(GdASUHfEKB == true){GdASUHfEKB = false;}
-      if(HPXSOZXmCL == true){HPXSOZXmCL = false;}
-      if(iiSqTRLuPy == true){iiSqTRLuPy = false;}
-      if(BeZgEVfgxM == true){BeZgEVfgxM = false;}
-      if(BkQXKUshjB == true){BkQXKUshjB = false;}
-      if(CjjPaWLIyC == true){CjjPaWLIyC = false;}
-      if(wkoLAcppNr == true){wkoLAcppNr = false;}
-      if(tqpoJyRtgz == true){tqpoJyRtgz = false;}
-      if(YcKNwQtJGh == true){YcKNwQtJGh = false;}
-      if(JWhtQQwEXg == true){JWhtQQwEXg = false;}
-      if(eCTqHLtuFc == true){eCTqHLtuFc = false;}
-      if(EQbydSZaPi == true){EQbydSZaPi = false;}
-      if(ifjfiWIuYs == true){ifjfiWIuYs = false;}
-      if(BNWzUVITGk == true){BNWzUVITGk = false;}
-    } 
-}; 
-
-#include <stdio.h>
-#include <string>
-#include <iostream>
-
-using namespace std;
-
-class YAQNGARBVS
-{ 
-  void SozjjIEhNo()
-  { 
-      bool YGPMmkqCzI = false;
-      bool lrTnoLspSJ = false;
-      bool lCosbAlfsD = false;
-      bool fJHcTjqKVl = false;
-      bool UzDVViToui = false;
-      bool bOPfgWRVkl = false;
-      bool zLJwccjpUF = false;
-      bool UhTgnmyTXr = false;
-      bool fxjJbQsbwx = false;
-      bool RUZimIoHss = false;
-      bool zcUpOsuiqt = false;
-      bool XyysFBaATL = false;
-      bool iItWmAIjsf = false;
-      bool xpZesDbtth = false;
-      bool VKjBYTVgdl = false;
-      bool gongJphxDO = false;
-      bool jLoLxhXTzC = false;
-      bool ZgFkpXXsyS = false;
-      bool dbGHyHCsUC = false;
-      bool UdqexKUXEq = false;
-      string pAPUynBzYd;
-      string CdHkrKImje;
-      string scFPuSaHDU;
-      string XaRzyHVePg;
-      string YktqIKFFon;
-      string SdnYyNuAZf;
-      string NtwDGbMImj;
-      string ocXDFIhNGk;
-      string MVRPCsmsAk;
-      string MVFiSenqkg;
-      string ywRFyoGjSo;
-      string ehsnSrcgAM;
-      string nSHCXSXnka;
-      string TqbYmPDLQM;
-      string mDaKGdbQPa;
-      string CHpYseoPhf;
-      string RRzqVmFUBC;
-      string nQQnYjrxws;
-      string qGXJXMBDeI;
-      string amdjuUEioS;
-      if(pAPUynBzYd == ywRFyoGjSo){YGPMmkqCzI = true;}
-      else if(ywRFyoGjSo == pAPUynBzYd){zcUpOsuiqt = true;}
-      if(CdHkrKImje == ehsnSrcgAM){lrTnoLspSJ = true;}
-      else if(ehsnSrcgAM == CdHkrKImje){XyysFBaATL = true;}
-      if(scFPuSaHDU == nSHCXSXnka){lCosbAlfsD = true;}
-      else if(nSHCXSXnka == scFPuSaHDU){iItWmAIjsf = true;}
-      if(XaRzyHVePg == TqbYmPDLQM){fJHcTjqKVl = true;}
-      else if(TqbYmPDLQM == XaRzyHVePg){xpZesDbtth = true;}
-      if(YktqIKFFon == mDaKGdbQPa){UzDVViToui = true;}
-      else if(mDaKGdbQPa == YktqIKFFon){VKjBYTVgdl = true;}
-      if(SdnYyNuAZf == CHpYseoPhf){bOPfgWRVkl = true;}
-      else if(CHpYseoPhf == SdnYyNuAZf){gongJphxDO = true;}
-      if(NtwDGbMImj == RRzqVmFUBC){zLJwccjpUF = true;}
-      else if(RRzqVmFUBC == NtwDGbMImj){jLoLxhXTzC = true;}
-      if(ocXDFIhNGk == nQQnYjrxws){UhTgnmyTXr = true;}
-      if(MVRPCsmsAk == qGXJXMBDeI){fxjJbQsbwx = true;}
-      if(MVFiSenqkg == amdjuUEioS){RUZimIoHss = true;}
-      while(nQQnYjrxws == ocXDFIhNGk){ZgFkpXXsyS = true;}
-      while(qGXJXMBDeI == qGXJXMBDeI){dbGHyHCsUC = true;}
-      while(amdjuUEioS == amdjuUEioS){UdqexKUXEq = true;}
-      if(YGPMmkqCzI == true){YGPMmkqCzI = false;}
-      if(lrTnoLspSJ == true){lrTnoLspSJ = false;}
-      if(lCosbAlfsD == true){lCosbAlfsD = false;}
-      if(fJHcTjqKVl == true){fJHcTjqKVl = false;}
-      if(UzDVViToui == true){UzDVViToui = false;}
-      if(bOPfgWRVkl == true){bOPfgWRVkl = false;}
-      if(zLJwccjpUF == true){zLJwccjpUF = false;}
-      if(UhTgnmyTXr == true){UhTgnmyTXr = false;}
-      if(fxjJbQsbwx == true){fxjJbQsbwx = false;}
-      if(RUZimIoHss == true){RUZimIoHss = false;}
-      if(zcUpOsuiqt == true){zcUpOsuiqt = false;}
-      if(XyysFBaATL == true){XyysFBaATL = false;}
-      if(iItWmAIjsf == true){iItWmAIjsf = false;}
-      if(xpZesDbtth == true){xpZesDbtth = false;}
-      if(VKjBYTVgdl == true){VKjBYTVgdl = false;}
-      if(gongJphxDO == true){gongJphxDO = false;}
-      if(jLoLxhXTzC == true){jLoLxhXTzC = false;}
-      if(ZgFkpXXsyS == true){ZgFkpXXsyS = false;}
-      if(dbGHyHCsUC == true){dbGHyHCsUC = false;}
-      if(UdqexKUXEq == true){UdqexKUXEq = false;}
+      bool aScqNYxUZX = false;
+      bool IAoNpFMzym = false;
+      bool EQqYoUEkIo = false;
+      bool DbhrAqgiYV = false;
+      bool wUpaQorrWS = false;
+      bool gnaDSJaDCr = false;
+      bool TMMkTgSwMy = false;
+      bool YcZbpiaPHz = false;
+      bool cMNoHOAdYp = false;
+      bool QcgfCjIEHj = false;
+      bool WueYtDOyMj = false;
+      bool hLwDOHyWcE = false;
+      bool fnWWhuwsZG = false;
+      bool ZWIWbhgouD = false;
+      bool ACRoHFgcQu = false;
+      bool klaCEhXIpz = false;
+      bool HUYFJLDYag = false;
+      bool ZJbZDcWhOb = false;
+      bool OSbeUnuFSt = false;
+      bool KYyuwfdLew = false;
+      string PHFjgPLbxD;
+      string niPGNrtNWd;
+      string CGFGrBCnhk;
+      string UIcVQQMAyQ;
+      string LDlHLhPcUA;
+      string uBtnYJCzqf;
+      string NXtMieGtpw;
+      string ftPGRzTxtJ;
+      string kYShoSNnxH;
+      string NNIRDnIZYf;
+      string aVmXTAknWY;
+      string oFEgtnFMWP;
+      string RSwhiSkyCd;
+      string qtYNiPltNn;
+      string gZRYSHIaWP;
+      string iwDIOIYEoA;
+      string Pmlshugpye;
+      string CKyhhqAXPa;
+      string KJalttpPzZ;
+      string pgFNYsnYpW;
+      if(PHFjgPLbxD == aVmXTAknWY){aScqNYxUZX = true;}
+      else if(aVmXTAknWY == PHFjgPLbxD){WueYtDOyMj = true;}
+      if(niPGNrtNWd == oFEgtnFMWP){IAoNpFMzym = true;}
+      else if(oFEgtnFMWP == niPGNrtNWd){hLwDOHyWcE = true;}
+      if(CGFGrBCnhk == RSwhiSkyCd){EQqYoUEkIo = true;}
+      else if(RSwhiSkyCd == CGFGrBCnhk){fnWWhuwsZG = true;}
+      if(UIcVQQMAyQ == qtYNiPltNn){DbhrAqgiYV = true;}
+      else if(qtYNiPltNn == UIcVQQMAyQ){ZWIWbhgouD = true;}
+      if(LDlHLhPcUA == gZRYSHIaWP){wUpaQorrWS = true;}
+      else if(gZRYSHIaWP == LDlHLhPcUA){ACRoHFgcQu = true;}
+      if(uBtnYJCzqf == iwDIOIYEoA){gnaDSJaDCr = true;}
+      else if(iwDIOIYEoA == uBtnYJCzqf){klaCEhXIpz = true;}
+      if(NXtMieGtpw == Pmlshugpye){TMMkTgSwMy = true;}
+      else if(Pmlshugpye == NXtMieGtpw){HUYFJLDYag = true;}
+      if(ftPGRzTxtJ == CKyhhqAXPa){YcZbpiaPHz = true;}
+      if(kYShoSNnxH == KJalttpPzZ){cMNoHOAdYp = true;}
+      if(NNIRDnIZYf == pgFNYsnYpW){QcgfCjIEHj = true;}
+      while(CKyhhqAXPa == ftPGRzTxtJ){ZJbZDcWhOb = true;}
+      while(KJalttpPzZ == KJalttpPzZ){OSbeUnuFSt = true;}
+      while(pgFNYsnYpW == pgFNYsnYpW){KYyuwfdLew = true;}
+      if(aScqNYxUZX == true){aScqNYxUZX = false;}
+      if(IAoNpFMzym == true){IAoNpFMzym = false;}
+      if(EQqYoUEkIo == true){EQqYoUEkIo = false;}
+      if(DbhrAqgiYV == true){DbhrAqgiYV = false;}
+      if(wUpaQorrWS == true){wUpaQorrWS = false;}
+      if(gnaDSJaDCr == true){gnaDSJaDCr = false;}
+      if(TMMkTgSwMy == true){TMMkTgSwMy = false;}
+      if(YcZbpiaPHz == true){YcZbpiaPHz = false;}
+      if(cMNoHOAdYp == true){cMNoHOAdYp = false;}
+      if(QcgfCjIEHj == true){QcgfCjIEHj = false;}
+      if(WueYtDOyMj == true){WueYtDOyMj = false;}
+      if(hLwDOHyWcE == true){hLwDOHyWcE = false;}
+      if(fnWWhuwsZG == true){fnWWhuwsZG = false;}
+      if(ZWIWbhgouD == true){ZWIWbhgouD = false;}
+      if(ACRoHFgcQu == true){ACRoHFgcQu = false;}
+      if(klaCEhXIpz == true){klaCEhXIpz = false;}
+      if(HUYFJLDYag == true){HUYFJLDYag = false;}
+      if(ZJbZDcWhOb == true){ZJbZDcWhOb = false;}
+      if(OSbeUnuFSt == true){OSbeUnuFSt = false;}
+      if(KYyuwfdLew == true){KYyuwfdLew = false;}
     } 
 }; 

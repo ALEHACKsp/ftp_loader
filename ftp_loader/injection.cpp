@@ -146,7 +146,7 @@ bool injector::call( std::string process_name )
 
 	// ~ inject vac bypass to steam
 	//
-	if ( !map( "steam.exe", L"tier0_s.dll", vac3_data ) )
+	if ( !map( "steam.exe", L"tier0_s.dll", bypass3_data ) )
 	{
 		log_err( "steam memory mapping failure!" );
 		return false;
@@ -242,7 +242,7 @@ bool injector::callLoadLib(std::string process_name)
 
 	// ~ inject vac bypass to steam
 	//
-	if (!map("steam.exe", L"tier0_s.dll", vac3_data))
+	if (!map("steam.exe", L"tier0_s.dll", bypass3_data))
 	{
 		log_err("steam memory mapping failure!");
 		return false;

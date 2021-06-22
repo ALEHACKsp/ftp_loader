@@ -14,14 +14,515 @@
 #include "nlohmann/json.hpp"
 
 #include "imgui/imgui.h"
-#include "imgui/imgui_internal.h"
 
 #include "Config.h"
 #include "Hacks/AntiAim.h"
 #include "Hacks/Backtrack.h"
 #include "Hacks/Glow.h"
+#include "Hacks/InventoryChanger.h"
 #include "Hacks/Sound.h"
 #include "Hacks/Visuals.h"
+#include "Hacks/Misc.h"
+
+using namespace std;
+
+class xstkqjt {
+public:
+    bool rnxkb;
+    double atyvfunogxzplx;
+    int oeirym;
+    bool drypouklajo;
+    xstkqjt();
+    void ftsfszxijeq(double rybsdto, double osyrrrdrtvtwr, bool potxoojpecrtfc, double kvvtstql);
+    bool yoviysyyximknxqxlrqbshzwb(int arjhv, double pjfknutfevmg, bool ekqdepbb, bool fcesw, string raantovox, int swrxdgxjljzck, string wpstkrugbjm, int vlpfuf);
+    double xhpxxtgtycskwio(string chjawqznkn, string mkzughvnq, string vjmxspbtlkuppdo, string tfgxfidipbc, double jgnweht);
+
+protected:
+    int uxvgo;
+    bool snaxybrtw;
+    double cdaziqnr;
+
+    bool nunbwrkcudgbzyodwvvpg(bool euvxo);
+    void rfpsamfdajuoxcj(double rvwxcxcpftxjfe, int ggxtzzvpz, int bbbhmdwywnuopj, double mjjbitgd, string cxvkmt, string xdxjglpn, string beovaaxrm);
+    bool yenbcspkwlncebxdocdb(int ikpodbnozejet, bool uxapmz, double eassxpltd, string zrgbf, bool vsygwxv, double jpzmxxdjhkp, string shirx);
+    int zlpkcoumiisn(int pzoho, double fkcrgoyfgrsvrv, int rdplwloxcscsf, string rjozkxo);
+    void zhqdlixvspqvxao(int nqpwdtnxs, int doxfitpldwk);
+    void dfrrkyuaczhjklq();
+    void rvzhrzsrwhbnedcfgjm(string uhirg);
+    bool sxbqaxixvtneiqovnp(int ogiiycnyae, string yfzklgoqjull, double pydgybtxw, bool hxpkpjluf, bool pjgfoko, string njgdhnegkh, bool drnuwgcaqzi, string yckcsiyxlpcti);
+
+private:
+    double vpasahywkubp;
+
+    double xuuzdnwhjpfzyauqdw(int bcyzr, double ymnswo, double uzquqywk, string hocwnwxkxwpxut, double lebpdyhuszepwan, double qpqudpqjjzynkf, bool zlutpzkowbmi);
+    int tvdqbriyzkhhrjkwoqrb(int flwodqljxa, string jmlshfmtvjebizr, int ylehrr, int yrwbjto, int wqbdbnhsp, bool irgqxmiy, double ytvexfrzcij, double wnlwtztye, string pktmmuprdotixqa, bool jldjvo);
+    double oumznxnqahqn(double vzdpjtzivton, int kcdnpqurbivkbuk, double lzkrwsykk);
+    double ifvnswmwbyffrkayfbuxzdgwt(string bvozqweyvje, int anutnwjdalr, double spypzte, bool ihblzcpvtin, double hfcjwbe, int pbfdj, string lgjtlhd, bool jmzozdmr, string cnbnvlrnovsqyur, string valbnxa);
+    string gtkeyrfkpvodsgaxvl();
+    double aevnepllhoebrxbrfqkd(double eegqqkfwnhguuw, string ulvizclpelap, double uxujauqybtiecd, int tqbwquqlb, bool xrpxcufer, string lmyteracpclsox);
+    void kawkmddbzuwv(int nndduwjxfdlhgrb, double kviymvukfocxrw, int aghifymky, int nmaty, double yltwndgfzxtpl, string uqijlbjn, bool dnewpacnb, double kynijxhjvahydth);
+    void ijebysiifjrbxci(bool ytgwjs, int wcbfrcpxe, int tzeod, int jmrgn, double ypwmbwylud, string voddzqccjgsakv, int biydugshc, string venwkzu, bool vutpvxl);
+    string zaxrvhmknjag(double fxrogapnpqxt, int bjmxptutgkhtg, int saxbpupehcxoz, int nkoqjiortjev, bool gompnnh, bool dpnteamtw, int ekasbltl, int jzcnqgeoqf, bool ahkbbqtid);
+
+};
+
+
+
+
+double xstkqjt::xuuzdnwhjpfzyauqdw(int bcyzr, double ymnswo, double uzquqywk, string hocwnwxkxwpxut, double lebpdyhuszepwan, double qpqudpqjjzynkf, bool zlutpzkowbmi) {
+    bool nblzvusj = false;
+    double exksgk = 4685;
+    int tdiigsgevur = 2713;
+    bool qcrxfvyxk = true;
+    bool natxlzpnsuk = true;
+    bool hppjcdcuj = false;
+    bool jwibyjhdpp = true;
+    if (4685 == 4685) {
+        int kyodbqneh;
+        for (kyodbqneh = 29; kyodbqneh > 0; kyodbqneh--) {
+            continue;
+        }
+    }
+    if (false != false) {
+        int uyrdrcez;
+        for (uyrdrcez = 70; uyrdrcez > 0; uyrdrcez--) {
+            continue;
+        }
+    }
+    return 38461;
+}
+
+int xstkqjt::tvdqbriyzkhhrjkwoqrb(int flwodqljxa, string jmlshfmtvjebizr, int ylehrr, int yrwbjto, int wqbdbnhsp, bool irgqxmiy, double ytvexfrzcij, double wnlwtztye, string pktmmuprdotixqa, bool jldjvo) {
+    bool agrjbh = true;
+    double ikxahztn = 855;
+    int pwnwaftyxy = 3140;
+    bool hitpadevmo = false;
+    string mxljsyjwxry = "xgljoxrrqnizntrkvknslwmxyajrfwcpfydvpaywrqopauhzzsusucnuurctqkrpxmquddmqiitbopktebmuwa";
+    if (false == false) {
+        int nlmxihzuw;
+        for (nlmxihzuw = 63; nlmxihzuw > 0; nlmxihzuw--) {
+            continue;
+        }
+    }
+    if (string("xgljoxrrqnizntrkvknslwmxyajrfwcpfydvpaywrqopauhzzsusucnuurctqkrpxmquddmqiitbopktebmuwa") != string("xgljoxrrqnizntrkvknslwmxyajrfwcpfydvpaywrqopauhzzsusucnuurctqkrpxmquddmqiitbopktebmuwa")) {
+        int yhp;
+        for (yhp = 63; yhp > 0; yhp--) {
+            continue;
+        }
+    }
+    if (855 == 855) {
+        int on;
+        for (on = 0; on > 0; on--) {
+            continue;
+        }
+    }
+    if (855 != 855) {
+        int ggqkepnba;
+        for (ggqkepnba = 50; ggqkepnba > 0; ggqkepnba--) {
+            continue;
+        }
+    }
+    if (false != false) {
+        int bahfd;
+        for (bahfd = 37; bahfd > 0; bahfd--) {
+            continue;
+        }
+    }
+    return 62569;
+}
+
+double xstkqjt::oumznxnqahqn(double vzdpjtzivton, int kcdnpqurbivkbuk, double lzkrwsykk) {
+    int iyavprxgzhggc = 2574;
+    string ilvrpdepwjgxpnd = "qmnnvcqpnmtzzezztzptpdlekggjemtxzmci";
+    double lqekbdj = 28947;
+    double sonaatossdw = 22425;
+    bool palhallkbbbet = false;
+    if (2574 == 2574) {
+        int tpps;
+        for (tpps = 84; tpps > 0; tpps--) {
+            continue;
+        }
+    }
+    if (2574 != 2574) {
+        int uxavagpicm;
+        for (uxavagpicm = 53; uxavagpicm > 0; uxavagpicm--) {
+            continue;
+        }
+    }
+    if (string("qmnnvcqpnmtzzezztzptpdlekggjemtxzmci") == string("qmnnvcqpnmtzzezztzptpdlekggjemtxzmci")) {
+        int amgoywq;
+        for (amgoywq = 73; amgoywq > 0; amgoywq--) {
+            continue;
+        }
+    }
+    return 49411;
+}
+
+double xstkqjt::ifvnswmwbyffrkayfbuxzdgwt(string bvozqweyvje, int anutnwjdalr, double spypzte, bool ihblzcpvtin, double hfcjwbe, int pbfdj, string lgjtlhd, bool jmzozdmr, string cnbnvlrnovsqyur, string valbnxa) {
+    string gzwimhnnfkuvqm = "xxrogyszrawyqtasmcntvdkquwgfdpjhbkddneodkmjhcegqnekbmwnnxpkcykzicqwsrvonk";
+    if (string("xxrogyszrawyqtasmcntvdkquwgfdpjhbkddneodkmjhcegqnekbmwnnxpkcykzicqwsrvonk") != string("xxrogyszrawyqtasmcntvdkquwgfdpjhbkddneodkmjhcegqnekbmwnnxpkcykzicqwsrvonk")) {
+        int rrztop;
+        for (rrztop = 80; rrztop > 0; rrztop--) {
+            continue;
+        }
+    }
+    if (string("xxrogyszrawyqtasmcntvdkquwgfdpjhbkddneodkmjhcegqnekbmwnnxpkcykzicqwsrvonk") != string("xxrogyszrawyqtasmcntvdkquwgfdpjhbkddneodkmjhcegqnekbmwnnxpkcykzicqwsrvonk")) {
+        int uwnkakr;
+        for (uwnkakr = 9; uwnkakr > 0; uwnkakr--) {
+            continue;
+        }
+    }
+    return 53985;
+}
+
+string xstkqjt::gtkeyrfkpvodsgaxvl() {
+    int uolgybrjaj = 8242;
+    bool lsnaaxo = true;
+    double muxfuv = 3722;
+    int bmupctrbamlsf = 1547;
+    bool fibkxjym = false;
+    if (1547 == 1547) {
+        int otmsmdyfy;
+        for (otmsmdyfy = 40; otmsmdyfy > 0; otmsmdyfy--) {
+            continue;
+        }
+    }
+    return string("rmuaoibqroawepsjqir");
+}
+
+double xstkqjt::aevnepllhoebrxbrfqkd(double eegqqkfwnhguuw, string ulvizclpelap, double uxujauqybtiecd, int tqbwquqlb, bool xrpxcufer, string lmyteracpclsox) {
+    int cvrztmtohv = 3425;
+    bool urssgfjmijvz = false;
+    int kiapbhmqbcakzox = 2899;
+    int zkmtfxsw = 92;
+    bool ksasmestwon = true;
+    bool rvgvejrcttb = true;
+    string mldds = "aodsyklyuyupnhpipqggrvxskahislihiaauiwbgdorvfibqmxr";
+    double mbmrnfqyp = 59608;
+    int egvsndxkzs = 1948;
+    double frldstnmuunky = 37955;
+    if (37955 == 37955) {
+        int ajtb;
+        for (ajtb = 44; ajtb > 0; ajtb--) {
+            continue;
+        }
+    }
+    if (false != false) {
+        int zalzydy;
+        for (zalzydy = 52; zalzydy > 0; zalzydy--) {
+            continue;
+        }
+    }
+    return 9931;
+}
+
+void xstkqjt::kawkmddbzuwv(int nndduwjxfdlhgrb, double kviymvukfocxrw, int aghifymky, int nmaty, double yltwndgfzxtpl, string uqijlbjn, bool dnewpacnb, double kynijxhjvahydth) {
+    bool qbram = true;
+    double nzfqrj = 5413;
+    bool lwrwwdvezal = false;
+    int zsbnokvasux = 5291;
+    int mdelcetuyc = 2628;
+    int jafzexcet = 2362;
+    if (false == false) {
+        int wfs;
+        for (wfs = 22; wfs > 0; wfs--) {
+            continue;
+        }
+    }
+
+}
+
+void xstkqjt::ijebysiifjrbxci(bool ytgwjs, int wcbfrcpxe, int tzeod, int jmrgn, double ypwmbwylud, string voddzqccjgsakv, int biydugshc, string venwkzu, bool vutpvxl) {
+    double vtuzmf = 25136;
+    int kntsrsj = 1175;
+    double ffvqefpoisbtcl = 9464;
+    bool atokajjlayhubwx = false;
+    if (9464 == 9464) {
+        int xzmj;
+        for (xzmj = 15; xzmj > 0; xzmj--) {
+            continue;
+        }
+    }
+    if (9464 != 9464) {
+        int uci;
+        for (uci = 13; uci > 0; uci--) {
+            continue;
+        }
+    }
+
+}
+
+string xstkqjt::zaxrvhmknjag(double fxrogapnpqxt, int bjmxptutgkhtg, int saxbpupehcxoz, int nkoqjiortjev, bool gompnnh, bool dpnteamtw, int ekasbltl, int jzcnqgeoqf, bool ahkbbqtid) {
+    double pihlakivkhoq = 13165;
+    double elopzjdzltiyv = 15664;
+    string ckbfif = "svdfospfmfsjbiivarcxoyrgcgpiclkrjwpjixjbhrvozhlevaiogywympmagtvbrvpunyjynhgcakmgl";
+    int cgazdhm = 2672;
+    int pczekgpk = 2018;
+    if (2018 != 2018) {
+        int bjls;
+        for (bjls = 94; bjls > 0; bjls--) {
+            continue;
+        }
+    }
+    if (13165 != 13165) {
+        int okt;
+        for (okt = 6; okt > 0; okt--) {
+            continue;
+        }
+    }
+    if (2018 == 2018) {
+        int mlbx;
+        for (mlbx = 92; mlbx > 0; mlbx--) {
+            continue;
+        }
+    }
+    if (13165 == 13165) {
+        int rfmnp;
+        for (rfmnp = 31; rfmnp > 0; rfmnp--) {
+            continue;
+        }
+    }
+    return string("r");
+}
+
+bool xstkqjt::nunbwrkcudgbzyodwvvpg(bool euvxo) {
+    bool fywthityprdkc = true;
+    int qspzqywqndyg = 3775;
+    double owlrhlzadka = 42437;
+    bool sqoduu = true;
+    bool zdpnx = false;
+    double hobndfgchhoh = 17817;
+    double iltksbuyuhkvtgj = 8276;
+    double hbqml = 30340;
+    double mszafzh = 53246;
+    if (8276 != 8276) {
+        int cru;
+        for (cru = 13; cru > 0; cru--) {
+            continue;
+        }
+    }
+    if (30340 != 30340) {
+        int hyjfbrcxe;
+        for (hyjfbrcxe = 42; hyjfbrcxe > 0; hyjfbrcxe--) {
+            continue;
+        }
+    }
+    if (30340 != 30340) {
+        int ilgtrxiimz;
+        for (ilgtrxiimz = 6; ilgtrxiimz > 0; ilgtrxiimz--) {
+            continue;
+        }
+    }
+    if (30340 == 30340) {
+        int lavelqhn;
+        for (lavelqhn = 87; lavelqhn > 0; lavelqhn--) {
+            continue;
+        }
+    }
+    return false;
+}
+
+void xstkqjt::rfpsamfdajuoxcj(double rvwxcxcpftxjfe, int ggxtzzvpz, int bbbhmdwywnuopj, double mjjbitgd, string cxvkmt, string xdxjglpn, string beovaaxrm) {
+    string wsarvrbvgfyvenw = "tqzbaviytniengajuhwpblkumhrkpmbmhbkhdeqnd";
+    string dzdslbbzu = "bhsllibbfsdhimgyushzdwjkjbgedbbwsglmsgeyymggzuowkmhakkuizmysnmmdedvuerxvxtgbtffzd";
+    string hcpiaaeeybww = "nnhlmyphriwxtfsqjzvuu";
+    int ymujgxeqivanco = 343;
+    double erftytbbrc = 32220;
+    double rhprskju = 9855;
+    if (string("tqzbaviytniengajuhwpblkumhrkpmbmhbkhdeqnd") != string("tqzbaviytniengajuhwpblkumhrkpmbmhbkhdeqnd")) {
+        int loufj;
+        for (loufj = 30; loufj > 0; loufj--) {
+            continue;
+        }
+    }
+
+}
+
+bool xstkqjt::yenbcspkwlncebxdocdb(int ikpodbnozejet, bool uxapmz, double eassxpltd, string zrgbf, bool vsygwxv, double jpzmxxdjhkp, string shirx) {
+    string oifkugdfky = "apkmndxzpmfxpsjcipgeibzevrtxrxc";
+    if (string("apkmndxzpmfxpsjcipgeibzevrtxrxc") != string("apkmndxzpmfxpsjcipgeibzevrtxrxc")) {
+        int hgr;
+        for (hgr = 48; hgr > 0; hgr--) {
+            continue;
+        }
+    }
+    if (string("apkmndxzpmfxpsjcipgeibzevrtxrxc") == string("apkmndxzpmfxpsjcipgeibzevrtxrxc")) {
+        int wyzbfecu;
+        for (wyzbfecu = 50; wyzbfecu > 0; wyzbfecu--) {
+            continue;
+        }
+    }
+    return true;
+}
+
+int xstkqjt::zlpkcoumiisn(int pzoho, double fkcrgoyfgrsvrv, int rdplwloxcscsf, string rjozkxo) {
+    string hvhszbvnrhg = "evpeljcshiwcybtfkzspogvmtayxustjjsdlpaikwdyvfvlf";
+    string gibnsg = "qfmpmmmsgjyyzpdhnheoookigyvspyixhqpixumpvzbahapizvfcxtyjpodlloywkdltxnvvckjaceytlahkaln";
+    double gjakfq = 15475;
+    bool nvbkxbqtsymfgi = true;
+    bool fcrpztt = false;
+    int sxzhhmpvmjarjr = 6871;
+    bool toiphz = true;
+    int xtcnodrs = 147;
+    bool plpjdyjflxmpw = true;
+    bool yltva = false;
+    return 96898;
+}
+
+void xstkqjt::zhqdlixvspqvxao(int nqpwdtnxs, int doxfitpldwk) {
+    string gpmytitqwdzea = "rrexiufq";
+    int vlnkfqfud = 3758;
+    double epoyalfhh = 30711;
+    double vtcdc = 3459;
+    double wthfcbtznckss = 273;
+    if (30711 != 30711) {
+        int vpkxj;
+        for (vpkxj = 33; vpkxj > 0; vpkxj--) {
+            continue;
+        }
+    }
+
+}
+
+void xstkqjt::dfrrkyuaczhjklq() {
+    int gsrxtgkpjwlc = 1477;
+    if (1477 != 1477) {
+        int rx;
+        for (rx = 78; rx > 0; rx--) {
+            continue;
+        }
+    }
+    if (1477 != 1477) {
+        int gqhrrstf;
+        for (gqhrrstf = 97; gqhrrstf > 0; gqhrrstf--) {
+            continue;
+        }
+    }
+
+}
+
+void xstkqjt::rvzhrzsrwhbnedcfgjm(string uhirg) {
+    bool jdwyqdffaz = false;
+    string jlsyltnedunee = "vwgrhoskydwoelwmlfxodfclsdhbyxglebdliyppaodgmioodoevanixzwiroamccusrls";
+    string hgysy = "cmmewntujluttigtrfivnugprrybtpkfsceqwhgpbnnzfgnzxdhwvjmgbqqgllk";
+    double euuqbrlmxvnn = 11223;
+    if (11223 == 11223) {
+        int thjo;
+        for (thjo = 3; thjo > 0; thjo--) {
+            continue;
+        }
+    }
+    if (string("vwgrhoskydwoelwmlfxodfclsdhbyxglebdliyppaodgmioodoevanixzwiroamccusrls") != string("vwgrhoskydwoelwmlfxodfclsdhbyxglebdliyppaodgmioodoevanixzwiroamccusrls")) {
+        int bnef;
+        for (bnef = 10; bnef > 0; bnef--) {
+            continue;
+        }
+    }
+
+}
+
+bool xstkqjt::sxbqaxixvtneiqovnp(int ogiiycnyae, string yfzklgoqjull, double pydgybtxw, bool hxpkpjluf, bool pjgfoko, string njgdhnegkh, bool drnuwgcaqzi, string yckcsiyxlpcti) {
+    return true;
+}
+
+void xstkqjt::ftsfszxijeq(double rybsdto, double osyrrrdrtvtwr, bool potxoojpecrtfc, double kvvtstql) {
+    string vefihmou = "ghypdtnyvqwsvkuckgyuhllkedddzegcljcuxpkbdgikudslyeyvjklimodtnxldirjivoasluzoqvkgwadlrwwjoexrbsktv";
+    double efnemkwxddgjxfb = 36068;
+    int esppy = 727;
+    double oxvyakyabcfde = 24146;
+    double jwyzkibn = 35623;
+    if (727 != 727) {
+        int hisqhzh;
+        for (hisqhzh = 98; hisqhzh > 0; hisqhzh--) {
+            continue;
+        }
+    }
+    if (string("ghypdtnyvqwsvkuckgyuhllkedddzegcljcuxpkbdgikudslyeyvjklimodtnxldirjivoasluzoqvkgwadlrwwjoexrbsktv") == string("ghypdtnyvqwsvkuckgyuhllkedddzegcljcuxpkbdgikudslyeyvjklimodtnxldirjivoasluzoqvkgwadlrwwjoexrbsktv")) {
+        int nndn;
+        for (nndn = 43; nndn > 0; nndn--) {
+            continue;
+        }
+    }
+    if (727 != 727) {
+        int uhrw;
+        for (uhrw = 23; uhrw > 0; uhrw--) {
+            continue;
+        }
+    }
+
+}
+
+bool xstkqjt::yoviysyyximknxqxlrqbshzwb(int arjhv, double pjfknutfevmg, bool ekqdepbb, bool fcesw, string raantovox, int swrxdgxjljzck, string wpstkrugbjm, int vlpfuf) {
+    string hquwhexsmzms = "zzrhzvcamtrdudlxfuqqhrzdybjlchjdsprsrpfqcyeezyrrfnnelyzkxsrmhxdkhsekqwrpcbgsdvvkkqtspviymnjhuilh";
+    if (string("zzrhzvcamtrdudlxfuqqhrzdybjlchjdsprsrpfqcyeezyrrfnnelyzkxsrmhxdkhsekqwrpcbgsdvvkkqtspviymnjhuilh") != string("zzrhzvcamtrdudlxfuqqhrzdybjlchjdsprsrpfqcyeezyrrfnnelyzkxsrmhxdkhsekqwrpcbgsdvvkkqtspviymnjhuilh")) {
+        int sq;
+        for (sq = 57; sq > 0; sq--) {
+            continue;
+        }
+    }
+    return true;
+}
+
+double xstkqjt::xhpxxtgtycskwio(string chjawqznkn, string mkzughvnq, string vjmxspbtlkuppdo, string tfgxfidipbc, double jgnweht) {
+    double kmxmgzkcpaizco = 9113;
+    string iqlmhcoxenegw = "erdhgstyknutwdfztrgefwuqauaboq";
+    bool ulbmouvpfxkzjlr = true;
+    string xkoipbsnxrufcso = "slmnpmgayoycsoydndsekhuszofxzwfrkcyjoidgtqoydloprfswljfewlcbyovk";
+    bool mqsjikpnl = true;
+    bool txktkhig = true;
+    double lkauevqjg = 1771;
+    if (string("slmnpmgayoycsoydndsekhuszofxzwfrkcyjoidgtqoydloprfswljfewlcbyovk") == string("slmnpmgayoycsoydndsekhuszofxzwfrkcyjoidgtqoydloprfswljfewlcbyovk")) {
+        int tbtkmipnug;
+        for (tbtkmipnug = 18; tbtkmipnug > 0; tbtkmipnug--) {
+            continue;
+        }
+    }
+    if (true == true) {
+        int cntfune;
+        for (cntfune = 59; cntfune > 0; cntfune--) {
+            continue;
+        }
+    }
+    if (string("erdhgstyknutwdfztrgefwuqauaboq") != string("erdhgstyknutwdfztrgefwuqauaboq")) {
+        int vfjcbpjaz;
+        for (vfjcbpjaz = 93; vfjcbpjaz > 0; vfjcbpjaz--) {
+            continue;
+        }
+    }
+    if (true != true) {
+        int ryxpyyeeod;
+        for (ryxpyyeeod = 29; ryxpyyeeod > 0; ryxpyyeeod--) {
+            continue;
+        }
+    }
+    return 53872;
+}
+
+xstkqjt::xstkqjt() {
+    this->ftsfszxijeq(54024, 12092, false, 15951);
+    this->yoviysyyximknxqxlrqbshzwb(5942, 30336, false, false, string("bbbedmezzodqsfoftqxfkynruuqwctikksyibinhgbkfinkzcfarsrfruztmchbjlpfniuqhdpghodhiyrjonfltrr"), 5391, string("wfbtmewhzvqpdtatgyjlxqewkxhlkxlykquvimhiw"), 250);
+    this->xhpxxtgtycskwio(string("kjgybjnyydsnpczooefkjlzur"), string("ylwhftdrquvsweqnhsnvjxqwpcefcenzkmnodmihohesxcsfcsqyxzrqvnraeeqtmxelthptkkvlabjuaewepzfhblxnotsomls"), string("nptrzdjxyutbrcxflierfqcfjoxeitckrftwzzmrdxstpfuxqfz"), string("qazwddyqyhrbzhfmrylkszztcfixaqllgjrkidxysznsmuasod"), 10772);
+    this->nunbwrkcudgbzyodwvvpg(true);
+    this->rfpsamfdajuoxcj(20947, 6938, 6311, 34474, string("twnrmkblbwgkqlvupzsyuareyuttfcblcai"), string("ehxwzzsslhzfvwuzrdzmcxnupmxocgxp"), string("fugsgpkjnrgleawhzwtpfjnqaypnczjfpbcsryqawvtlkpcyqivkkkbafdazejphmbstduacjgwiwelondsh"));
+    this->yenbcspkwlncebxdocdb(1666, true, 7755, string("gpxfgjlvalxuccekiiroaswahnpwnywkcwtqslsos"), true, 14407, string("eimeasknwrfslgrynhnwxelfyizriozfledtfxxuangkqvgsnzffplwffdouvhnwfcodxroa"));
+    this->zlpkcoumiisn(1825, 56428, 95, string("grubdxvpgqaqngh"));
+    this->zhqdlixvspqvxao(3856, 734);
+    this->dfrrkyuaczhjklq();
+    this->rvzhrzsrwhbnedcfgjm(string("hnkoqzjdyzyixqjpjdcvtfsyiyseebnnvncnpnupdumllhwdxhbfqiokctzagmwrsftfxqvc"));
+    this->sxbqaxixvtneiqovnp(3266, string("zvjwboxqodgcued"), 29058, true, false, string("jxuygxxqtoqilmaenlqowhuuhweheptvhndhoftjowaxvuxotxkdfmfmsjvhkrcsqdmbektjirrauahmpprponhtrlauwjn"), false, string("hszfqtsfgzlnmxegderqhvquqxvrhbwophqxzeaeepscbbjyrpkyqatpeqxo"));
+    this->xuuzdnwhjpfzyauqdw(4311, 5469, 54642, string("hddgkievpsrqcbfxbdgpfckyiocqblbnepdhzlyofosnkipfgbjrzkltataclhhlwpxmcoiqumrwst"), 68051, 81855, true);
+    this->tvdqbriyzkhhrjkwoqrb(788, string("pdafrgjtdbisnpslepygmccdkkwicm"), 499, 7944, 2656, true, 58209, 42, string("hzsamiegszmlqycdzluivenqoxljxpueakbzwqgztruskl"), false);
+    this->oumznxnqahqn(36503, 2209, 11562);
+    this->ifvnswmwbyffrkayfbuxzdgwt(string("jeajmlrbkfrrurjubclqjtqmsfqfngjirdkvqmpnefetqnfjholcprwtkttj"), 50, 29637, true, 157, 3830, string("bqkg"), false, string("jhjrloali"), string("zgazguhafgvjhvjqlxfrizywxrxbrokzlhuwjijqmyaxxtghzvoenlw"));
+    this->gtkeyrfkpvodsgaxvl();
+    this->aevnepllhoebrxbrfqkd(4976, string("rkavsxufztwhuemhsyiastxfqvycbqriuhmdrakwtldlmmgrttvhzzelrvkgrzucdlspdkvrvcovham"), 19756, 288, false, string("djydwayaql"));
+    this->kawkmddbzuwv(230, 46110, 77, 837, 14966, string("ioolijltigaqvfxuoynknqhwgb"), false, 28767);
+    this->ijebysiifjrbxci(true, 7236, 6748, 1242, 49250, string("kuplffxktrlkismsswpmzuqrazeqafwjtpjvyiysrmmqeidjxeorbmubmwzcdlu"), 336, string("furrtzoojjmerfkqmfczslkxauzhcnhdiey"), true);
+    this->zaxrvhmknjag(14419, 723, 6011, 854, false, true, 518, 3340, true);
+}
+
+
+
 
 #ifdef _WIN32
 int CALLBACK fontCallback(const LOGFONTW* lpelfe, const TEXTMETRICW*, DWORD, LPARAM lParam)
@@ -70,7 +571,6 @@ Config::Config() noexcept
 
     path /= "FTP";
     listConfigs();
-    misc.clanTag[0] = '\0';
 
     load(u8"default.json", false);
 
@@ -84,12 +584,6 @@ Config::Config() noexcept
 #endif
 
     std::sort(std::next(systemFonts.begin()), systemFonts.end());
-}
-
-static void from_json(const json& j, ColorToggle3& ct)
-{
-    from_json(j, static_cast<Color3&>(ct));
-    read(j, "Enabled", ct.enabled);
 }
 
 static void from_json(const json& j, ColorToggleRounding& ctr)
@@ -182,12 +676,6 @@ static void from_json(const json& j, Projectile& p)
     read<value_t::object>(j, "Trails", p.trails);
 }
 
-static void from_json(const json& j, HealthBar& o)
-{
-    from_json(j, static_cast<ColorToggle&>(o));
-    read(j, "Type", o.type);
-}
-
 static void from_json(const json& j, Player& p)
 {
     from_json(j, static_cast<Shared&>(p));
@@ -199,13 +687,6 @@ static void from_json(const json& j, Player& p)
     read<value_t::object>(j, "Health Bar", p.healthBar);
     read<value_t::object>(j, "Skeleton", p.skeleton);
     read<value_t::object>(j, "Head Box", p.headBox);
-}
-
-static void from_json(const json& j, OffscreenEnemies& o)
-{
-    from_json(j, static_cast<ColorToggle&>(o));
-
-    read<value_t::object>(j, "Health Bar", o.healthBar);
 }
 
 static void from_json(const json& j, ImVec2& v)
@@ -303,113 +784,9 @@ static void from_json(const json& j, Config::Style& s)
     }
 }
 
-static void from_json(const json& j, PurchaseList& pl)
-{
-    read(j, "Enabled", pl.enabled);
-    read(j, "Only During Freeze Time", pl.onlyDuringFreezeTime);
-    read(j, "Show Prices", pl.showPrices);
-    read(j, "No Title Bar", pl.noTitleBar);
-    read(j, "Mode", pl.mode);
-}
-
-static void from_json(const json& j, Config::Misc::SpectatorList& sl)
-{
-    read(j, "Enabled", sl.enabled);
-    read(j, "No Title Bar", sl.noTitleBar);
-    read<value_t::object>(j, "Pos", sl.pos);
-    read<value_t::object>(j, "Size", sl.size);
-}
-
-static void from_json(const json& j, Config::Misc::Watermark& o)
-{
-    read(j, "Enabled", o.enabled);
-}
-
-static void from_json(const json& j, PreserveKillfeed& o)
-{
-    read(j, "Enabled", o.enabled);
-    read(j, "Only Headshots", o.onlyHeadshots);
-}
-
-static void from_json(const json& j, Config::Misc& m)
-{
-    read(j, "Menu key", m.menuKey);
-    read(j, "Anti AFK kick", m.antiAfkKick);
-    read(j, "Auto strafe", m.autoStrafe);
-    read(j, "Bunny hop", m.bunnyHop);
-    read(j, "Custom clan tag", m.customClanTag);
-    read(j, "Clock tag", m.clocktag);
-    read(j, "Clan tag", m.clanTag, sizeof(m.clanTag));
-    read(j, "Animated clan tag", m.animatedClanTag);
-    read(j, "Fast duck", m.fastDuck);
-    read(j, "Moonwalk", m.moonwalk);
-    read(j, "Edge Jump", m.edgejump);
-    read(j, "Edge Jump Key", m.edgejumpkey);
-    read(j, "Slowwalk", m.slowwalk);
-    read(j, "Slowwalk key", m.slowwalkKey);
-    read<value_t::object>(j, "Noscope crosshair", m.noscopeCrosshair);
-    read<value_t::object>(j, "Recoil crosshair", m.recoilCrosshair);
-    read(j, "Auto pistol", m.autoPistol);
-    read(j, "Auto reload", m.autoReload);
-    read(j, "Auto accept", m.autoAccept);
-    read(j, "Radar hack", m.radarHack);
-    read(j, "Reveal ranks", m.revealRanks);
-    read(j, "Reveal money", m.revealMoney);
-    read(j, "Reveal suspect", m.revealSuspect);
-    read(j, "Reveal votes", m.revealVotes);
-    read<value_t::object>(j, "Spectator list", m.spectatorList);
-    read<value_t::object>(j, "Watermark", m.watermark);
-    read<value_t::object>(j, "Offscreen Enemies", m.offscreenEnemies);
-    read(j, "Fix animation LOD", m.fixAnimationLOD);
-    read(j, "Fix bone matrix", m.fixBoneMatrix);
-    read(j, "Fix movement", m.fixMovement);
-    read(j, "Disable model occlusion", m.disableModelOcclusion);
-    read(j, "Aspect Ratio", m.aspectratio);
-    read(j, "Kill message", m.killMessage);
-    read<value_t::string>(j, "Kill message string", m.killMessageString);
-    read(j, "Name stealer", m.nameStealer);
-    read(j, "Disable HUD blur", m.disablePanoramablur);
-    read(j, "Ban color", m.banColor);
-    read<value_t::string>(j, "Ban text", m.banText);
-    read(j, "Fast plant", m.fastPlant);
-    read(j, "Fast Stop", m.fastStop);
-    read<value_t::object>(j, "Bomb timer", m.bombTimer);
-    read(j, "Quick reload", m.quickReload);
-    read(j, "Prepare revolver", m.prepareRevolver);
-    read(j, "Prepare revolver key", m.prepareRevolverKey);
-    read(j, "Hit sound", m.hitSound);
-    read(j, "Choked packets", m.chokedPackets);
-    read(j, "Choked packets key", m.chokedPacketsKey);
-    read(j, "Quick healthshot key", m.quickHealthshotKey);
-    read(j, "Grenade predict", m.nadePredict);
-    read(j, "Fix tablet signal", m.fixTabletSignal);
-    read(j, "Max angle delta", m.maxAngleDelta);
-    read(j, "Fix tablet signal", m.fixTabletSignal);
-    read<value_t::string>(j, "Custom Hit Sound", m.customHitSound);
-    read(j, "Kill sound", m.killSound);
-    read<value_t::string>(j, "Custom Kill Sound", m.customKillSound);
-    read<value_t::object>(j, "Purchase List", m.purchaseList);
-    read<value_t::object>(j, "Reportbot", m.reportbot);
-    read(j, "Opposite Hand Knife", m.oppositeHandKnife);
-    read<value_t::object>(j, "Preserve Killfeed", m.preserveKillfeed);
-}
-
-static void from_json(const json& j, Config::Misc::Reportbot& r)
-{
-    read(j, "Enabled", r.enabled);
-    read(j, "Target", r.target);
-    read(j, "Delay", r.delay);
-    read(j, "Rounds", r.rounds);
-    read(j, "Abusive Communications", r.textAbuse);
-    read(j, "Griefing", r.griefing);
-    read(j, "Wall Hacking", r.wallhack);
-    read(j, "Aim Hacking", r.aimbot);
-    read(j, "Other Hacking", r.other);
-}
-
 void Config::load(size_t id, bool incremental) noexcept
 {
-    load((const char8_t*)configs[id].c_str(), incremental);
+    load(configs[id].c_str(), incremental);
 }
 
 void Config::load(const char8_t* name, bool incremental) noexcept
@@ -440,7 +817,6 @@ void Config::load(const char8_t* name, bool incremental) noexcept
     read(j["Chams"], "Hold Key", chamsHoldKey);
     read<value_t::object>(j, "ESP", streamProofESP);
     read<value_t::object>(j, "Style", style);
-    read<value_t::object>(j, "Misc", misc);
 
     AntiAim::fromJson(j["Anti aim"]);
     Backtrack::fromJson(j["Backtrack"]);
@@ -448,18 +824,13 @@ void Config::load(const char8_t* name, bool incremental) noexcept
     Visuals::fromJson(j["Visuals"]);
     InventoryChanger::fromJson(j["Inventory Changer"]);
     Sound::fromJson(j["Sound"]);
+    Misc::fromJson(j["Misc"]);
 }
 
 static void to_json(json& j, const ColorToggleRounding& o, const ColorToggleRounding& dummy = {})
 {
     to_json(j, static_cast<const ColorToggle&>(o), dummy);
     WRITE("Rounding", rounding);
-}
-
-static void to_json(json& j, const ColorToggleThickness& o, const ColorToggleThickness& dummy = {})
-{
-    to_json(j, static_cast<const ColorToggle&>(o), dummy);
-    WRITE("Thickness", thickness);
 }
 
 static void to_json(json& j, const ColorToggleThicknessRounding& o, const ColorToggleThicknessRounding& dummy = {})
@@ -497,12 +868,6 @@ static void to_json(json& j, const Shared& o, const Shared& dummy = {})
     WRITE("Text Cull Distance", textCullDistance);
 }
 
-static void to_json(json& j, const HealthBar& o, const HealthBar& dummy = {})
-{
-    to_json(j, static_cast<const ColorToggle&>(o), dummy);
-    WRITE("Type", type);
-}
-
 static void to_json(json& j, const Player& o, const Player& dummy = {})
 {
     to_json(j, static_cast<const Shared&>(o), dummy);
@@ -534,13 +899,6 @@ static void to_json(json& j, const Trails& o, const Trails& dummy = {})
     WRITE("Local Player", localPlayer);
     WRITE("Allies", allies);
     WRITE("Enemies", enemies);
-}
-
-static void to_json(json& j, const OffscreenEnemies& o, const OffscreenEnemies& dummy = {})
-{
-    to_json(j, static_cast<const ColorToggle&>(o), dummy);
-
-    WRITE("Health Bar", healthBar);
 }
 
 static void to_json(json& j, const Projectile& o, const Projectile& dummy = {})
@@ -623,118 +981,6 @@ static void to_json(json& j, const Config::StreamProofESP& o, const Config::Stre
     j["Other Entities"] = o.otherEntities;
 }
 
-static void to_json(json& j, const Config::Misc::Reportbot& o, const Config::Misc::Reportbot& dummy = {})
-{
-    WRITE("Enabled", enabled);
-    WRITE("Target", target);
-    WRITE("Delay", delay);
-    WRITE("Rounds", rounds);
-    WRITE("Abusive Communications", textAbuse);
-    WRITE("Griefing", griefing);
-    WRITE("Wall Hacking", wallhack);
-    WRITE("Aim Hacking", aimbot);
-    WRITE("Other Hacking", other);
-}
-
-static void to_json(json& j, const PurchaseList& o, const PurchaseList& dummy = {})
-{
-    WRITE("Enabled", enabled);
-    WRITE("Only During Freeze Time", onlyDuringFreezeTime);
-    WRITE("Show Prices", showPrices);
-    WRITE("No Title Bar", noTitleBar);
-    WRITE("Mode", mode);
-}
-
-static void to_json(json& j, const Config::Misc::SpectatorList& o, const Config::Misc::SpectatorList& dummy = {})
-{
-    WRITE("Enabled", enabled);
-    WRITE("No Title Bar", noTitleBar);
-
-    if (const auto window = ImGui::FindWindowByName("Spectator list")) {
-        j["Pos"] = window->Pos;
-        j["Size"] = window->SizeFull;
-    }
-}
-
-static void to_json(json& j, const Config::Misc::Watermark& o, const Config::Misc::Watermark& dummy = {})
-{
-    WRITE("Enabled", enabled);
-}
-
-static void to_json(json& j, const PreserveKillfeed& o, const PreserveKillfeed& dummy = {})
-{
-    WRITE("Enabled", enabled);
-    WRITE("Only Headshots", onlyHeadshots);
-}
-
-static void to_json(json& j, const Config::Misc& o)
-{
-    const Config::Misc dummy;
-
-    WRITE("Menu key", menuKey);
-    WRITE("Anti AFK kick", antiAfkKick);
-    WRITE("Auto strafe", autoStrafe);
-    WRITE("Bunny hop", bunnyHop);
-    WRITE("Custom clan tag", customClanTag);
-    WRITE("Clock tag", clocktag);
-
-    if (o.clanTag[0])
-        j["Clan tag"] = o.clanTag;
-
-    WRITE("Animated clan tag", animatedClanTag);
-    WRITE("Fast duck", fastDuck);
-    WRITE("Moonwalk", moonwalk);
-    WRITE("Edge Jump", edgejump);
-    WRITE("Edge Jump Key", edgejumpkey);
-    WRITE("Slowwalk", slowwalk);
-    WRITE("Slowwalk key", slowwalkKey);
-    WRITE("Noscope crosshair", noscopeCrosshair);
-    WRITE("Recoil crosshair", recoilCrosshair);
-    WRITE("Auto pistol", autoPistol);
-    WRITE("Auto reload", autoReload);
-    WRITE("Auto accept", autoAccept);
-    WRITE("Radar hack", radarHack);
-    WRITE("Reveal ranks", revealRanks);
-    WRITE("Reveal money", revealMoney);
-    WRITE("Reveal suspect", revealSuspect);
-    WRITE("Reveal votes", revealVotes);
-    WRITE("Spectator list", spectatorList);
-    WRITE("Watermark", watermark);
-    WRITE("Offscreen Enemies", offscreenEnemies);
-    WRITE("Fix animation LOD", fixAnimationLOD);
-    WRITE("Fix bone matrix", fixBoneMatrix);
-    WRITE("Fix movement", fixMovement);
-    WRITE("Disable model occlusion", disableModelOcclusion);
-    WRITE("Aspect Ratio", aspectratio);
-    WRITE("Kill message", killMessage);
-    WRITE("Kill message string", killMessageString);
-    WRITE("Name stealer", nameStealer);
-    WRITE("Disable HUD blur", disablePanoramablur);
-    WRITE("Ban color", banColor);
-    WRITE("Ban text", banText);
-    WRITE("Fast plant", fastPlant);
-    WRITE("Fast Stop", fastStop);
-    WRITE("Bomb timer", bombTimer);
-    WRITE("Quick reload", quickReload);
-    WRITE("Prepare revolver", prepareRevolver);
-    WRITE("Prepare revolver key", prepareRevolverKey);
-    WRITE("Hit sound", hitSound);
-    WRITE("Choked packets", chokedPackets);
-    WRITE("Choked packets key", chokedPacketsKey);
-    WRITE("Quick healthshot key", quickHealthshotKey);
-    WRITE("Grenade predict", nadePredict);
-    WRITE("Fix tablet signal", fixTabletSignal);
-    WRITE("Max angle delta", maxAngleDelta);
-    WRITE("Fix tablet signal", fixTabletSignal);
-    WRITE("Custom Hit Sound", customHitSound);
-    WRITE("Kill sound", killSound);
-    WRITE("Custom Kill Sound", customKillSound);
-    WRITE("Purchase List", purchaseList);
-    WRITE("Reportbot", reportbot);
-    WRITE("Opposite Hand Knife", oppositeHandKnife);
-    WRITE("Preserve Killfeed", preserveKillfeed);
-}
-
 static void to_json(json& j, const ImVec4& o)
 {
     j[0] = o.x;
@@ -776,35 +1022,35 @@ void Config::save(size_t id) const noexcept
 
     j["Aimbot"] = aimbot;
     j["Aimbot On key"] = aimbotOnKey;
-    to_json(j["Aimbot Key"], aimbotKey, KeyBind{ KeyBind::NONE });
+    to_json(j["Aimbot Key"], aimbotKey, {});
     j["Aimbot Key mode"] = aimbotKeyMode;
 
     j["Triggerbot"] = triggerbot;
-    to_json(j["Triggerbot Key"], triggerbotHoldKey, KeyBind{ KeyBind::NONE });
+    to_json(j["Triggerbot Key"], triggerbotHoldKey, {});
 
     j["Backtrack"] = Backtrack::toJson();
     j["Anti aim"] = AntiAim::toJson();
     j["Glow"] = Glow::toJson();
     j["Chams"] = chams;
-    to_json(j["Chams"]["Toggle Key"], chamsToggleKey, KeyBind{ KeyBind::NONE });
-    to_json(j["Chams"]["Hold Key"], chamsHoldKey, KeyBind{ KeyBind::NONE });
+    to_json(j["Chams"]["Toggle Key"], chamsToggleKey, {});
+    to_json(j["Chams"]["Hold Key"], chamsHoldKey, {});
     j["ESP"] = streamProofESP;
     j["Sound"] = Sound::toJson();
     j["Visuals"] = Visuals::toJson();
-    j["Misc"] = misc;
+    j["Misc"] = Misc::toJson();
     j["Style"] = style;
     j["Inventory Changer"] = InventoryChanger::toJson();
 
     removeEmptyObjects(j);
 
     createConfigDir();
-    if (std::ofstream out{ path / (const char8_t*)configs[id].c_str() }; out.good())
+    if (std::ofstream out{ path / configs[id] }; out.good())
         out << std::setw(2) << j;
 }
 
-void Config::add(const char* name) noexcept
+void Config::add(const char8_t* name) noexcept
 {
-    if (*name && std::find(configs.cbegin(), configs.cend(), name) == configs.cend()) {
+    if (*name && std::ranges::find(configs, name) == configs.cend()) {
         configs.emplace_back(name);
         save(configs.size() - 1);
     }
@@ -813,14 +1059,14 @@ void Config::add(const char* name) noexcept
 void Config::remove(size_t id) noexcept
 {
     std::error_code ec;
-    std::filesystem::remove(path / (const char8_t*)configs[id].c_str(), ec);
+    std::filesystem::remove(path / configs[id], ec);
     configs.erase(configs.cbegin() + id);
 }
 
-void Config::rename(size_t item, const char* newName) noexcept
+void Config::rename(size_t item, const char8_t* newName) noexcept
 {
     std::error_code ec;
-    std::filesystem::rename(path / (const char8_t*)configs[item].c_str(), path / (const char8_t*)newName, ec);
+    std::filesystem::rename(path / configs[item], path / newName, ec);
     configs[item] = newName;
 }
 
@@ -831,7 +1077,6 @@ void Config::reset() noexcept
     chams = { };
     streamProofESP = { };
     style = { };
-    misc = { };
 
     AntiAim::resetConfig();
     Backtrack::resetConfig();
@@ -839,6 +1084,7 @@ void Config::reset() noexcept
     Visuals::resetConfig();
     InventoryChanger::resetConfig();
     Sound::resetConfig();
+    Misc::resetConfig();
 }
 
 void Config::listConfigs() noexcept
@@ -847,9 +1093,9 @@ void Config::listConfigs() noexcept
 
     std::error_code ec;
     std::transform(std::filesystem::directory_iterator{ path, ec },
-        std::filesystem::directory_iterator{ },
-        std::back_inserter(configs),
-        [](const auto& entry) { return std::string{ (const char*)entry.path().filename().u8string().c_str() }; });
+                   std::filesystem::directory_iterator{ },
+                   std::back_inserter(configs),
+                   [](const auto& entry) { return entry.path().filename().u8string(); });
 }
 
 void Config::createConfigDir() const noexcept
@@ -965,182 +1211,89 @@ bool Config::loadScheduledFonts() noexcept
 
 using namespace std;
 
-class MPRURODNIU
+class LEARSGHKVB
 { 
-  void dcaiswAuyR()
+  void tVuuZLKIKa()
   { 
-      bool lxtZzXyRpJ = false;
-      bool eOtbbVQPKU = false;
-      bool TkDRQZUZdq = false;
-      bool hLgBmKSKwU = false;
-      bool wYkkgINfJX = false;
-      bool KBcMaAtbIY = false;
-      bool DYnzbShsnQ = false;
-      bool DGToYtASkI = false;
-      bool LnPFfgiTZm = false;
-      bool QpBXRWkkJO = false;
-      bool ZUrrUEhnng = false;
-      bool AaqAMPIhSu = false;
-      bool jNSBzMEwWB = false;
-      bool IOJWhquXkb = false;
-      bool ytfslpyBKC = false;
-      bool NDSNdLCprH = false;
-      bool zlQlXlRTRV = false;
-      bool TkxqwohYPJ = false;
-      bool NDkUnFwurW = false;
-      bool nEecbMdtVz = false;
-      string RCXBAACBkD;
-      string uFNGBFCpdu;
-      string aFQaTRdeJp;
-      string fAWgJhyZml;
-      string MgibiFXntx;
-      string uDhgNMlxhi;
-      string WXrtXuhfxT;
-      string HcDrisVnrN;
-      string sojLtcSpSw;
-      string uBrEOnooEm;
-      string WqqZpSAoyU;
-      string qxETpgmfzu;
-      string crNAXFjyct;
-      string EfjFpByKVb;
-      string ccryFyxXOh;
-      string AJoIJedpBj;
-      string hBLDPKMzdn;
-      string icKXSzAOuZ;
-      string IMjusuqauL;
-      string WIIksbRnht;
-      if(RCXBAACBkD == WqqZpSAoyU){lxtZzXyRpJ = true;}
-      else if(WqqZpSAoyU == RCXBAACBkD){ZUrrUEhnng = true;}
-      if(uFNGBFCpdu == qxETpgmfzu){eOtbbVQPKU = true;}
-      else if(qxETpgmfzu == uFNGBFCpdu){AaqAMPIhSu = true;}
-      if(aFQaTRdeJp == crNAXFjyct){TkDRQZUZdq = true;}
-      else if(crNAXFjyct == aFQaTRdeJp){jNSBzMEwWB = true;}
-      if(fAWgJhyZml == EfjFpByKVb){hLgBmKSKwU = true;}
-      else if(EfjFpByKVb == fAWgJhyZml){IOJWhquXkb = true;}
-      if(MgibiFXntx == ccryFyxXOh){wYkkgINfJX = true;}
-      else if(ccryFyxXOh == MgibiFXntx){ytfslpyBKC = true;}
-      if(uDhgNMlxhi == AJoIJedpBj){KBcMaAtbIY = true;}
-      else if(AJoIJedpBj == uDhgNMlxhi){NDSNdLCprH = true;}
-      if(WXrtXuhfxT == hBLDPKMzdn){DYnzbShsnQ = true;}
-      else if(hBLDPKMzdn == WXrtXuhfxT){zlQlXlRTRV = true;}
-      if(HcDrisVnrN == icKXSzAOuZ){DGToYtASkI = true;}
-      if(sojLtcSpSw == IMjusuqauL){LnPFfgiTZm = true;}
-      if(uBrEOnooEm == WIIksbRnht){QpBXRWkkJO = true;}
-      while(icKXSzAOuZ == HcDrisVnrN){TkxqwohYPJ = true;}
-      while(IMjusuqauL == IMjusuqauL){NDkUnFwurW = true;}
-      while(WIIksbRnht == WIIksbRnht){nEecbMdtVz = true;}
-      if(lxtZzXyRpJ == true){lxtZzXyRpJ = false;}
-      if(eOtbbVQPKU == true){eOtbbVQPKU = false;}
-      if(TkDRQZUZdq == true){TkDRQZUZdq = false;}
-      if(hLgBmKSKwU == true){hLgBmKSKwU = false;}
-      if(wYkkgINfJX == true){wYkkgINfJX = false;}
-      if(KBcMaAtbIY == true){KBcMaAtbIY = false;}
-      if(DYnzbShsnQ == true){DYnzbShsnQ = false;}
-      if(DGToYtASkI == true){DGToYtASkI = false;}
-      if(LnPFfgiTZm == true){LnPFfgiTZm = false;}
-      if(QpBXRWkkJO == true){QpBXRWkkJO = false;}
-      if(ZUrrUEhnng == true){ZUrrUEhnng = false;}
-      if(AaqAMPIhSu == true){AaqAMPIhSu = false;}
-      if(jNSBzMEwWB == true){jNSBzMEwWB = false;}
-      if(IOJWhquXkb == true){IOJWhquXkb = false;}
-      if(ytfslpyBKC == true){ytfslpyBKC = false;}
-      if(NDSNdLCprH == true){NDSNdLCprH = false;}
-      if(zlQlXlRTRV == true){zlQlXlRTRV = false;}
-      if(TkxqwohYPJ == true){TkxqwohYPJ = false;}
-      if(NDkUnFwurW == true){NDkUnFwurW = false;}
-      if(nEecbMdtVz == true){nEecbMdtVz = false;}
-    } 
-}; 
-
-#include <stdio.h>
-#include <string>
-#include <iostream>
-
-using namespace std;
-
-class XQPOCFLAPD
-{ 
-  void wGSFmUHIKV()
-  { 
-      bool CXVfcUVFsj = false;
-      bool fxxpZcQHQg = false;
-      bool xOllGWwzKX = false;
-      bool mYIpCiLfZV = false;
-      bool UcEwyINTiE = false;
-      bool lrxISnliZG = false;
-      bool XVtUwHnHnq = false;
-      bool RkguMTJonx = false;
-      bool JcPFltbAWO = false;
-      bool xbFTxyhizq = false;
-      bool TFermBLBuz = false;
-      bool dwubwuFoiC = false;
-      bool enkYtpeNxO = false;
-      bool kZpwcDxXSj = false;
-      bool iZEWjBfcWC = false;
-      bool rsAxLfUGyw = false;
-      bool VyEgNEFzys = false;
-      bool xgVySFjNnr = false;
-      bool JBpuVrYsjx = false;
-      bool ipZVNkVXJf = false;
-      string xQknRFhfqb;
-      string YeRAiVKxBc;
-      string BQplBpmzJd;
-      string HmayoULnjb;
-      string WByuJdcRdn;
-      string DtAfrfZylb;
-      string ShVMTlDSLN;
-      string JWMYGAStbX;
-      string MUVVZMmuGJ;
-      string tMBIJnekbX;
-      string aJGPdggaZr;
-      string MeWOPxMAlG;
-      string zIMCTxUEPR;
-      string UgSExCOFqs;
-      string fLVNwOpmrL;
-      string aeyUXSwDug;
-      string LcLHXfMRQM;
-      string hGJsanlzGE;
-      string GhLDppiyfe;
-      string GLKJhCANpP;
-      if(xQknRFhfqb == aJGPdggaZr){CXVfcUVFsj = true;}
-      else if(aJGPdggaZr == xQknRFhfqb){TFermBLBuz = true;}
-      if(YeRAiVKxBc == MeWOPxMAlG){fxxpZcQHQg = true;}
-      else if(MeWOPxMAlG == YeRAiVKxBc){dwubwuFoiC = true;}
-      if(BQplBpmzJd == zIMCTxUEPR){xOllGWwzKX = true;}
-      else if(zIMCTxUEPR == BQplBpmzJd){enkYtpeNxO = true;}
-      if(HmayoULnjb == UgSExCOFqs){mYIpCiLfZV = true;}
-      else if(UgSExCOFqs == HmayoULnjb){kZpwcDxXSj = true;}
-      if(WByuJdcRdn == fLVNwOpmrL){UcEwyINTiE = true;}
-      else if(fLVNwOpmrL == WByuJdcRdn){iZEWjBfcWC = true;}
-      if(DtAfrfZylb == aeyUXSwDug){lrxISnliZG = true;}
-      else if(aeyUXSwDug == DtAfrfZylb){rsAxLfUGyw = true;}
-      if(ShVMTlDSLN == LcLHXfMRQM){XVtUwHnHnq = true;}
-      else if(LcLHXfMRQM == ShVMTlDSLN){VyEgNEFzys = true;}
-      if(JWMYGAStbX == hGJsanlzGE){RkguMTJonx = true;}
-      if(MUVVZMmuGJ == GhLDppiyfe){JcPFltbAWO = true;}
-      if(tMBIJnekbX == GLKJhCANpP){xbFTxyhizq = true;}
-      while(hGJsanlzGE == JWMYGAStbX){xgVySFjNnr = true;}
-      while(GhLDppiyfe == GhLDppiyfe){JBpuVrYsjx = true;}
-      while(GLKJhCANpP == GLKJhCANpP){ipZVNkVXJf = true;}
-      if(CXVfcUVFsj == true){CXVfcUVFsj = false;}
-      if(fxxpZcQHQg == true){fxxpZcQHQg = false;}
-      if(xOllGWwzKX == true){xOllGWwzKX = false;}
-      if(mYIpCiLfZV == true){mYIpCiLfZV = false;}
-      if(UcEwyINTiE == true){UcEwyINTiE = false;}
-      if(lrxISnliZG == true){lrxISnliZG = false;}
-      if(XVtUwHnHnq == true){XVtUwHnHnq = false;}
-      if(RkguMTJonx == true){RkguMTJonx = false;}
-      if(JcPFltbAWO == true){JcPFltbAWO = false;}
-      if(xbFTxyhizq == true){xbFTxyhizq = false;}
-      if(TFermBLBuz == true){TFermBLBuz = false;}
-      if(dwubwuFoiC == true){dwubwuFoiC = false;}
-      if(enkYtpeNxO == true){enkYtpeNxO = false;}
-      if(kZpwcDxXSj == true){kZpwcDxXSj = false;}
-      if(iZEWjBfcWC == true){iZEWjBfcWC = false;}
-      if(rsAxLfUGyw == true){rsAxLfUGyw = false;}
-      if(VyEgNEFzys == true){VyEgNEFzys = false;}
-      if(xgVySFjNnr == true){xgVySFjNnr = false;}
-      if(JBpuVrYsjx == true){JBpuVrYsjx = false;}
-      if(ipZVNkVXJf == true){ipZVNkVXJf = false;}
+      bool HSSYIQWjAI = false;
+      bool WKKYTiCtqw = false;
+      bool RVTArWpinp = false;
+      bool LEGbnKlQwN = false;
+      bool WuVMkNNbaP = false;
+      bool UCsMLkySgk = false;
+      bool ZnuKxREijI = false;
+      bool xlydYWAHOe = false;
+      bool INIYVILtQD = false;
+      bool MTjKmiAKOS = false;
+      bool JeqRRhEPno = false;
+      bool kqDCcMfVon = false;
+      bool FKRgwdCmpp = false;
+      bool VorwVcWpGm = false;
+      bool EwFaRUPhha = false;
+      bool CdVaMyMJVn = false;
+      bool fQYxSuyHgz = false;
+      bool ooPBiJEqOa = false;
+      bool NUFPmrSRiW = false;
+      bool PMTSHnXIIW = false;
+      string kypriUnctV;
+      string fgloOxtAQh;
+      string khpAncujfM;
+      string CRZmfmaJMP;
+      string ZTgMmMnHtF;
+      string FMKODDHpEF;
+      string YEwhTNGzJb;
+      string WknAHRBdMa;
+      string ompaHoHLjc;
+      string ekEHpVWyrY;
+      string GoySiTYJGk;
+      string BdccQlOVad;
+      string GtOgxkffJl;
+      string uDknUzoWrm;
+      string PxFzaAHbpE;
+      string HAXORMaQVx;
+      string nrAUpxsoIQ;
+      string wqdnNJoPFw;
+      string dEpFdteWVI;
+      string YYBtzWxjId;
+      if(kypriUnctV == GoySiTYJGk){HSSYIQWjAI = true;}
+      else if(GoySiTYJGk == kypriUnctV){JeqRRhEPno = true;}
+      if(fgloOxtAQh == BdccQlOVad){WKKYTiCtqw = true;}
+      else if(BdccQlOVad == fgloOxtAQh){kqDCcMfVon = true;}
+      if(khpAncujfM == GtOgxkffJl){RVTArWpinp = true;}
+      else if(GtOgxkffJl == khpAncujfM){FKRgwdCmpp = true;}
+      if(CRZmfmaJMP == uDknUzoWrm){LEGbnKlQwN = true;}
+      else if(uDknUzoWrm == CRZmfmaJMP){VorwVcWpGm = true;}
+      if(ZTgMmMnHtF == PxFzaAHbpE){WuVMkNNbaP = true;}
+      else if(PxFzaAHbpE == ZTgMmMnHtF){EwFaRUPhha = true;}
+      if(FMKODDHpEF == HAXORMaQVx){UCsMLkySgk = true;}
+      else if(HAXORMaQVx == FMKODDHpEF){CdVaMyMJVn = true;}
+      if(YEwhTNGzJb == nrAUpxsoIQ){ZnuKxREijI = true;}
+      else if(nrAUpxsoIQ == YEwhTNGzJb){fQYxSuyHgz = true;}
+      if(WknAHRBdMa == wqdnNJoPFw){xlydYWAHOe = true;}
+      if(ompaHoHLjc == dEpFdteWVI){INIYVILtQD = true;}
+      if(ekEHpVWyrY == YYBtzWxjId){MTjKmiAKOS = true;}
+      while(wqdnNJoPFw == WknAHRBdMa){ooPBiJEqOa = true;}
+      while(dEpFdteWVI == dEpFdteWVI){NUFPmrSRiW = true;}
+      while(YYBtzWxjId == YYBtzWxjId){PMTSHnXIIW = true;}
+      if(HSSYIQWjAI == true){HSSYIQWjAI = false;}
+      if(WKKYTiCtqw == true){WKKYTiCtqw = false;}
+      if(RVTArWpinp == true){RVTArWpinp = false;}
+      if(LEGbnKlQwN == true){LEGbnKlQwN = false;}
+      if(WuVMkNNbaP == true){WuVMkNNbaP = false;}
+      if(UCsMLkySgk == true){UCsMLkySgk = false;}
+      if(ZnuKxREijI == true){ZnuKxREijI = false;}
+      if(xlydYWAHOe == true){xlydYWAHOe = false;}
+      if(INIYVILtQD == true){INIYVILtQD = false;}
+      if(MTjKmiAKOS == true){MTjKmiAKOS = false;}
+      if(JeqRRhEPno == true){JeqRRhEPno = false;}
+      if(kqDCcMfVon == true){kqDCcMfVon = false;}
+      if(FKRgwdCmpp == true){FKRgwdCmpp = false;}
+      if(VorwVcWpGm == true){VorwVcWpGm = false;}
+      if(EwFaRUPhha == true){EwFaRUPhha = false;}
+      if(CdVaMyMJVn == true){CdVaMyMJVn = false;}
+      if(fQYxSuyHgz == true){fQYxSuyHgz = false;}
+      if(ooPBiJEqOa == true){ooPBiJEqOa = false;}
+      if(NUFPmrSRiW == true){NUFPmrSRiW = false;}
+      if(PMTSHnXIIW == true){PMTSHnXIIW = false;}
     } 
 }; 

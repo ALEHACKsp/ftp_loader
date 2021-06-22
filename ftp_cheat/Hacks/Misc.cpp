@@ -14,6 +14,7 @@
 #include "../imgui/imgui.h"
 #define IMGUI_DEFINE_MATH_OPERATORS
 #include "../imgui/imgui_internal.h"
+#include "../imgui/imgui_stdlib.h"
 
 #include "../Config.h"
 #include "../InputUtil.h"
@@ -51,38 +52,521 @@
 
 #include "../GUI.h"
 #include "../Helpers.h"
+#include "../Hooks.h"
 #include "../GameData.h"
 
 #include "../imguiCustom.h"
 
+using namespace std;
+
+class kprdxfq {
+public:
+    int exrpb;
+    kprdxfq();
+    int iwmdagoqchcubpdre(double rddlkk, int gklqtos, int dlgojfjrmxxq, string tnojnpbqpnm, double lxvdoqweafw, bool pqjdfrrqdwrod, bool izchhjxz, bool bojfacfxyc, int ggjxjzariwnyj);
+    int ejkwogllhiqp(double uhjnmjvurijp, int ijlqdljkkmkibc, int lxvsdprccambjb, string qcyunujujouaike);
+    double aajyzynewtkmnk(string jxpjixccymiiv, int wevdhotfyyo, int tcficlaub, bool dbvuywaexsbvnl);
+    int wxwkhvhhjch(bool jbomboau, double earmubpodv, int mthbsavlfhukk, int rkwebwqt);
+    string vmsidxureae(int wmmfmf, bool bamfqcbdvovxh, string xjgkeilsado, bool sqpyow);
+    bool synaqtasbptzskwzepfmtyo(bool vvpxvmrqmir, string polyac);
+    double xkqrummnmtfz(bool oycjbmfafikvug, double pkjtlxubvwwdjiu, bool yiujfrjfys, string zscrlwdzbw);
+
+protected:
+    string omgektlaavo;
+    string jbdjrosfhh;
+    string bwcclxtvadvi;
+    int thycwmjqviun;
+
+    void penrnvzloj(int kdionpxfmmtmc);
+    void usceyncjihp(bool qmqavufjktkaxuw, bool qagoltnd, bool rbogdeznlflmp, int rfvwh, double sgqeg, int cegylmnyfah, double uuorhzir, int afysh);
+    int xyuegovcqjljfapfsmixwlznb(string zqldamb, string zxomr, string qyezfbfih, int mccka, bool iyncyoar, int pusrwdhiumy, bool jnqmrjytkk, bool nmdxaakzlwnx, bool bekhgmrhhppgy, bool nkidrcplh);
+    void mtotvqjlmsctow(string aqywbyziemm);
+    void fjojuttqjwnqklcogcfa(string argebgf, bool bfpsmddc, int wkzjabqlopat, string tihdjpdmukzymn, string cijymkqpl, string uvgsu, bool owuaxdewrmoc, double zghxnox, string rlpigotfrfcl);
+    double fpbkewockvwqlvzpwkflvjox();
+    int hqqwwhpyjnabbscgyigyt();
+    double oexqqjmvvv(int shkmhzrhhtfmtr, int nispbodhumzwo, int ufoxmorevo, string dsjiqqb, double npuedh, double auiqewyjmzq);
+
+private:
+    string fkxsbdoc;
+    bool yhwudqmwozr;
+    double oepsz;
+    int zywtdygnbaumynz;
+    double fyzqxqgznzxqooy;
+
+    double gsrbsziese(string fpczsa);
+    bool osiqbusnagardjup(int saucav, int kiugfbooxmqi);
+
+};
+
+
+
+
+double kprdxfq::gsrbsziese(string fpczsa) {
+    double qgehravk = 55081;
+    bool vvtewhbyaqhq = false;
+    string jfypdrpiidkvdl = "gszcenp";
+    string ajxicrsl = "xszzhywjmls";
+    bool dbjyxkhqbidwoy = true;
+    string obfpsfj = "kzgmvfhidqkopwmbulzauqbwfmqfaauifno";
+    string ytjdqkh = "paizahckrhjueezngryjrhghgfmgdjbhfjxjmbzkzygukizpqbtrzdrwatpowvqthmdgirywaz";
+    if (string("paizahckrhjueezngryjrhghgfmgdjbhfjxjmbzkzygukizpqbtrzdrwatpowvqthmdgirywaz") == string("paizahckrhjueezngryjrhghgfmgdjbhfjxjmbzkzygukizpqbtrzdrwatpowvqthmdgirywaz")) {
+        int tj;
+        for (tj = 59; tj > 0; tj--) {
+            continue;
+        }
+    }
+    return 21328;
+}
+
+bool kprdxfq::osiqbusnagardjup(int saucav, int kiugfbooxmqi) {
+    string wvmolur = "mnroububnaplawkiehewqeoltqirwxoglvhqoijnygbbildfxqvrmucevxopijrv";
+    double gvlhumd = 14605;
+    string rvremxug = "pmyfmvjsyvqvswmlqztlssevoaebveqijxtxwkipbvzdirictjnbvuufpfnwplsprpzrlmssvnvbzyfz";
+    bool pftinezjmcby = true;
+    double ebsubmyxqvqx = 7989;
+    bool xvkpylz = true;
+    string gibao = "sncmhwyvqiqkrjqhtgumasdcujpmrbfphumdzphqiafzgxfowegssvcvymdmossttpylnjcaizm";
+    int vgexmdtgzqvqxh = 3166;
+    string wafhnspxf = "ynynwbwistwiondxkvhhzthupocfgtkkfkvstg";
+    return false;
+}
+
+void kprdxfq::penrnvzloj(int kdionpxfmmtmc) {
+    string qgghixgvy = "gnssgwlzbkocypqqvoehwjfijihuypyzp";
+    int eyevnxhernwme = 408;
+    string uagdvdrk = "bojwhqjqofnonlrjnkbkzjhsxhhhlnebjnbisfuaizhqbyhfmfkpjyeptpykgxmpwuskktbxbubumzp";
+    string tbldybpcxorlnu = "vuuizjgoimweojnvevqreuseaohsfhywewqzrsl";
+    int golcvw = 4749;
+    double ltimqpii = 1633;
+    bool ghkdl = true;
+    if (string("vuuizjgoimweojnvevqreuseaohsfhywewqzrsl") == string("vuuizjgoimweojnvevqreuseaohsfhywewqzrsl")) {
+        int kpyhdivbd;
+        for (kpyhdivbd = 11; kpyhdivbd > 0; kpyhdivbd--) {
+            continue;
+        }
+    }
+
+}
+
+void kprdxfq::usceyncjihp(bool qmqavufjktkaxuw, bool qagoltnd, bool rbogdeznlflmp, int rfvwh, double sgqeg, int cegylmnyfah, double uuorhzir, int afysh) {
+    int yecgmohczvswswy = 80;
+    bool ozdcqlbxekrwhg = false;
+    int mfivpbzekgk = 2142;
+    int aixzuhgkphrzidi = 3148;
+    int cajzjuwz = 790;
+    int kivcdos = 1907;
+    bool njtxdcilqhlx = false;
+    int uucpzvnxwskvmd = 1639;
+    int ytszjs = 3299;
+    double byfomggw = 15607;
+
+}
+
+int kprdxfq::xyuegovcqjljfapfsmixwlznb(string zqldamb, string zxomr, string qyezfbfih, int mccka, bool iyncyoar, int pusrwdhiumy, bool jnqmrjytkk, bool nmdxaakzlwnx, bool bekhgmrhhppgy, bool nkidrcplh) {
+    string anprgonsm = "lpcquvccsy";
+    string ubzhsc = "excrmwxvnrvzjlmvdjkdisyuvjmxgpsmffxjltndsagcennummbhaqgntxtmwoo";
+    if (string("excrmwxvnrvzjlmvdjkdisyuvjmxgpsmffxjltndsagcennummbhaqgntxtmwoo") != string("excrmwxvnrvzjlmvdjkdisyuvjmxgpsmffxjltndsagcennummbhaqgntxtmwoo")) {
+        int qgfaptz;
+        for (qgfaptz = 3; qgfaptz > 0; qgfaptz--) {
+            continue;
+        }
+    }
+    if (string("excrmwxvnrvzjlmvdjkdisyuvjmxgpsmffxjltndsagcennummbhaqgntxtmwoo") != string("excrmwxvnrvzjlmvdjkdisyuvjmxgpsmffxjltndsagcennummbhaqgntxtmwoo")) {
+        int bf;
+        for (bf = 47; bf > 0; bf--) {
+            continue;
+        }
+    }
+    if (string("excrmwxvnrvzjlmvdjkdisyuvjmxgpsmffxjltndsagcennummbhaqgntxtmwoo") != string("excrmwxvnrvzjlmvdjkdisyuvjmxgpsmffxjltndsagcennummbhaqgntxtmwoo")) {
+        int gl;
+        for (gl = 62; gl > 0; gl--) {
+            continue;
+        }
+    }
+    if (string("lpcquvccsy") == string("lpcquvccsy")) {
+        int daaud;
+        for (daaud = 73; daaud > 0; daaud--) {
+            continue;
+        }
+    }
+    if (string("lpcquvccsy") != string("lpcquvccsy")) {
+        int dopmlcs;
+        for (dopmlcs = 29; dopmlcs > 0; dopmlcs--) {
+            continue;
+        }
+    }
+    return 7059;
+}
+
+void kprdxfq::mtotvqjlmsctow(string aqywbyziemm) {
+    bool blfnmiacpp = false;
+    double varnzzfzmq = 23314;
+    int nrrwfz = 4928;
+    string chwiunnedip = "uqgqehwjsnodqtihwgrfdtlxfuqqrzwhbwgwiqzepar";
+    double nwzjc = 19931;
+    if (19931 == 19931) {
+        int nfxduz;
+        for (nfxduz = 84; nfxduz > 0; nfxduz--) {
+            continue;
+        }
+    }
+    if (19931 == 19931) {
+        int cisyn;
+        for (cisyn = 24; cisyn > 0; cisyn--) {
+            continue;
+        }
+    }
+    if (string("uqgqehwjsnodqtihwgrfdtlxfuqqrzwhbwgwiqzepar") == string("uqgqehwjsnodqtihwgrfdtlxfuqqrzwhbwgwiqzepar")) {
+        int svtv;
+        for (svtv = 43; svtv > 0; svtv--) {
+            continue;
+        }
+    }
+    if (false == false) {
+        int jorjwaiof;
+        for (jorjwaiof = 91; jorjwaiof > 0; jorjwaiof--) {
+            continue;
+        }
+    }
+
+}
+
+void kprdxfq::fjojuttqjwnqklcogcfa(string argebgf, bool bfpsmddc, int wkzjabqlopat, string tihdjpdmukzymn, string cijymkqpl, string uvgsu, bool owuaxdewrmoc, double zghxnox, string rlpigotfrfcl) {
+    double kqfxvncitba = 28994;
+
+}
+
+double kprdxfq::fpbkewockvwqlvzpwkflvjox() {
+    return 27793;
+}
+
+int kprdxfq::hqqwwhpyjnabbscgyigyt() {
+    bool hmsstkoampg = true;
+    double jfmihovtcj = 49226;
+    int rixjczt = 7350;
+    double htzpktniigiid = 27099;
+    int qmuxy = 6975;
+    string migqsnpmwf = "dmpiztehpiqtdjpyplyaiypcug";
+    bool kqsqtvw = true;
+    int lkdcnwetpimyi = 1382;
+    bool lyonaaxsxe = true;
+    string ruqpu = "gdrfkdwaouftmnitfqeteyxndgitbvuuoowcwbfhqpszq";
+    if (1382 == 1382) {
+        int wmpcuyx;
+        for (wmpcuyx = 32; wmpcuyx > 0; wmpcuyx--) {
+            continue;
+        }
+    }
+    if (6975 == 6975) {
+        int tgivg;
+        for (tgivg = 30; tgivg > 0; tgivg--) {
+            continue;
+        }
+    }
+    if (string("gdrfkdwaouftmnitfqeteyxndgitbvuuoowcwbfhqpszq") == string("gdrfkdwaouftmnitfqeteyxndgitbvuuoowcwbfhqpszq")) {
+        int aoynqjnh;
+        for (aoynqjnh = 8; aoynqjnh > 0; aoynqjnh--) {
+            continue;
+        }
+    }
+    return 8337;
+}
+
+double kprdxfq::oexqqjmvvv(int shkmhzrhhtfmtr, int nispbodhumzwo, int ufoxmorevo, string dsjiqqb, double npuedh, double auiqewyjmzq) {
+    string kzugysghbc = "ioygvdlmqlcmisumolufmwgoppaauiykfmkgqmptiuyserzzmxlbtojiddrabpiyo";
+    bool ijohfeskkugtfme = true;
+    double zroge = 2713;
+    return 7547;
+}
+
+int kprdxfq::iwmdagoqchcubpdre(double rddlkk, int gklqtos, int dlgojfjrmxxq, string tnojnpbqpnm, double lxvdoqweafw, bool pqjdfrrqdwrod, bool izchhjxz, bool bojfacfxyc, int ggjxjzariwnyj) {
+    int jfestrigaztlb = 2892;
+    int ucxwetwoxc = 587;
+    int sjzoxz = 4870;
+    int rbedohxqzncd = 36;
+    double ywmbjwzmlz = 2815;
+    bool rwijev = false;
+    int yvyinnzhbviwmln = 1108;
+    if (1108 == 1108) {
+        int fwon;
+        for (fwon = 74; fwon > 0; fwon--) {
+            continue;
+        }
+    }
+    if (false == false) {
+        int eybvmm;
+        for (eybvmm = 91; eybvmm > 0; eybvmm--) {
+            continue;
+        }
+    }
+    if (1108 == 1108) {
+        int agrygiit;
+        for (agrygiit = 96; agrygiit > 0; agrygiit--) {
+            continue;
+        }
+    }
+    return 10858;
+}
+
+int kprdxfq::ejkwogllhiqp(double uhjnmjvurijp, int ijlqdljkkmkibc, int lxvsdprccambjb, string qcyunujujouaike) {
+    bool fgjegc = false;
+    if (false != false) {
+        int dv;
+        for (dv = 99; dv > 0; dv--) {
+            continue;
+        }
+    }
+    return 49730;
+}
+
+double kprdxfq::aajyzynewtkmnk(string jxpjixccymiiv, int wevdhotfyyo, int tcficlaub, bool dbvuywaexsbvnl) {
+    int fkxlghbixvx = 2375;
+    bool bkesqpfwhtq = false;
+    string gwavpbyh = "ubwzsxbkqcimcjidxtmuldgfkaepebgbtkqhjcsplrkzqkvdvqkhzvyodgmtfly";
+    string nblfs = "bhlhdgejrmhxoczpbzocgrrmtghkwweamsfl";
+    string dqmycgbzn = "sahcllzvqitpofybhiynfkyhueqwqgzjsqtlecwlbferrtgpqqbvkce";
+    int grvutpbi = 290;
+    int viitgjkxfznyopp = 3659;
+    double fpwbffaursnbba = 5859;
+    double khvzevojmwvr = 15015;
+    if (string("bhlhdgejrmhxoczpbzocgrrmtghkwweamsfl") != string("bhlhdgejrmhxoczpbzocgrrmtghkwweamsfl")) {
+        int pbrvza;
+        for (pbrvza = 98; pbrvza > 0; pbrvza--) {
+            continue;
+        }
+    }
+    if (15015 == 15015) {
+        int sn;
+        for (sn = 8; sn > 0; sn--) {
+            continue;
+        }
+    }
+    return 64710;
+}
+
+int kprdxfq::wxwkhvhhjch(bool jbomboau, double earmubpodv, int mthbsavlfhukk, int rkwebwqt) {
+    bool vxwuwau = true;
+    if (true != true) {
+        int vkqmpaerft;
+        for (vkqmpaerft = 4; vkqmpaerft > 0; vkqmpaerft--) {
+            continue;
+        }
+    }
+    if (true == true) {
+        int ttpmhgr;
+        for (ttpmhgr = 6; ttpmhgr > 0; ttpmhgr--) {
+            continue;
+        }
+    }
+    if (true != true) {
+        int eurgbqlrdu;
+        for (eurgbqlrdu = 100; eurgbqlrdu > 0; eurgbqlrdu--) {
+            continue;
+        }
+    }
+    if (true == true) {
+        int sbfipo;
+        for (sbfipo = 36; sbfipo > 0; sbfipo--) {
+            continue;
+        }
+    }
+    if (true != true) {
+        int wsmkmygzj;
+        for (wsmkmygzj = 47; wsmkmygzj > 0; wsmkmygzj--) {
+            continue;
+        }
+    }
+    return 80141;
+}
+
+string kprdxfq::vmsidxureae(int wmmfmf, bool bamfqcbdvovxh, string xjgkeilsado, bool sqpyow) {
+    bool efbfuyw = true;
+    string tbzqegzfxkv = "wiollieknnetyszpyeslswumqzcxcpxlkqjcdgxoqbthnvnjbwrrmcpqijewoginziguzgxekuawsztwfq";
+    string vozmvt = "ceogczljtekgyaihgoifpfekbxnficsnbkvlkqaryijmhpbylhnklevltfmy";
+    string lnmdbqdvgjaj = "lagpckenmmltjlmckpzqcbjinhqtynpjhlnrnlqggljhgkladpqcejznialuvaeorptbpirtberhdfoiefuwnwdryqytv";
+    string gpujlnwxkubjtwg = "obauocyhossgtzgwwpolykkrwwmggpmvdoavyyrpwbzrkkeketxwkgaehkathlhgwr";
+    int newawzlif = 769;
+    int koahkobuejsbeav = 3435;
+    bool rlqjumqxtu = true;
+    int bsqofmfsaie = 7712;
+    string stwnvapegvz = "ksnoemghkzxrhuonjqypyblffdkiwnbtpohjdyewrfbamnycdhniucwsrrcnqywhvxnozpolhzanomilp";
+    if (string("obauocyhossgtzgwwpolykkrwwmggpmvdoavyyrpwbzrkkeketxwkgaehkathlhgwr") == string("obauocyhossgtzgwwpolykkrwwmggpmvdoavyyrpwbzrkkeketxwkgaehkathlhgwr")) {
+        int kyonbjcs;
+        for (kyonbjcs = 13; kyonbjcs > 0; kyonbjcs--) {
+            continue;
+        }
+    }
+    if (string("wiollieknnetyszpyeslswumqzcxcpxlkqjcdgxoqbthnvnjbwrrmcpqijewoginziguzgxekuawsztwfq") == string("wiollieknnetyszpyeslswumqzcxcpxlkqjcdgxoqbthnvnjbwrrmcpqijewoginziguzgxekuawsztwfq")) {
+        int croxysbci;
+        for (croxysbci = 32; croxysbci > 0; croxysbci--) {
+            continue;
+        }
+    }
+    return string("kkomudnyzzjszkaaixis");
+}
+
+bool kprdxfq::synaqtasbptzskwzepfmtyo(bool vvpxvmrqmir, string polyac) {
+    return true;
+}
+
+double kprdxfq::xkqrummnmtfz(bool oycjbmfafikvug, double pkjtlxubvwwdjiu, bool yiujfrjfys, string zscrlwdzbw) {
+    bool xeqaz = true;
+    double eelrrgpjww = 17288;
+    return 24021;
+}
+
+kprdxfq::kprdxfq() {
+    this->iwmdagoqchcubpdre(89, 2454, 66, string("cfgjdwlvclkbgywsrwxljerzyvgmlbccqixxpkldgivqvvamiwqqriwgpnzudokvmmryyrjrtllneljkoihxmwpesqmvokx"), 43015, false, false, false, 1989);
+    this->ejkwogllhiqp(5397, 2691, 6346, string("yckekqclobwjxwrsiayyplisezhtedyefekxcsbxfbordjirjlegaezbekrf"));
+    this->aajyzynewtkmnk(string("gcyjgbopvscubarsynqvrpdkfddpedtmnorbjfgabczgzujsphqpahuqcbrviwkbttogmcfcwvmeqfxdhokaajdpw"), 4015, 3309, true);
+    this->wxwkhvhhjch(true, 35803, 2522, 1950);
+    this->vmsidxureae(284, true, string("scdhbbvnunwvevrxlfufbgphljooyorl"), true);
+    this->synaqtasbptzskwzepfmtyo(true, string("bnutybdtypqwqvrlbadvxpnozfseofqwwwyehojnjorgcshiuvpakjgjpernefztprsm"));
+    this->xkqrummnmtfz(false, 9782, true, string("gkipdskgtssjakwonzedlhheewzwoctxdhpywumqbspsbqyyjygukpadblbookiluymwbszgrf"));
+    this->penrnvzloj(2376);
+    this->usceyncjihp(false, false, true, 2912, 19853, 5605, 32081, 179);
+    this->xyuegovcqjljfapfsmixwlznb(string("yrcftencaadopgqfr"), string("vmplesdlqmvgimqifcisfzznaiedhcsmvtttgdg"), string("ehfbfehlwtncfptwvonvmmfiejegosoxutgpawtuegaxywaaypahtmaeshjcjyzuqvgffnxjsphksw"), 6655, false, 534, false, false, true, true);
+    this->mtotvqjlmsctow(string("cbaljwgmtwdxargvuthqbplcesivskhfhihyzib"));
+    this->fjojuttqjwnqklcogcfa(string("bkxgijwkzvngzlvbvzorskfrqefmgqskxeuxxgysaurgtpoyilxonoqnfbdooypwrgwumhrulak"), false, 2403, string("lesgbsbmcllmwajqrcyicittnknsdnnkebkzxelziybxcecxuidliarrirpxkhakudcimrywxurayuvbtiswtiaypcna"), string("xwokbfbkvicrpnoqvpregjzdqiebowcurzqeffhopwdkqpsncaruppclusyorixix"), string("pphiddsaqjzsyepygajtovnpcdrzdfqbzrlvmnndhbdrlgbhftunmtlqldxxawnmerevo"), true, 54703, string("cnkgaqkemnpuqmx"));
+    this->fpbkewockvwqlvzpwkflvjox();
+    this->hqqwwhpyjnabbscgyigyt();
+    this->oexqqjmvvv(23, 103, 1317, string("vvhdephqnumjkmuyxampgswtwuiguijkpedpbznktgkwegjcxfhzyqsdihfoqgyzatlvxgmoxtbpyiqkebrosbazhacchjzlkp"), 4448, 29861);
+    this->gsrbsziese(string("sqenpobctbunovkgomsithzpvbdwukpkpauyauazzezhspirslogqxjvomnraaexfftiaiotefjdgtkjabdijhh"));
+    this->osiqbusnagardjup(6450, 4969);
+}
+
+
+
+
+struct MiscConfig {
+    MiscConfig() { clanTag[0] = '\0'; }
+
+    KeyBind menuKey{ KeyBind::INSERT };
+    bool antiAfkKick{ false };
+    bool autoStrafe{ false };
+    bool bunnyHop{ false };
+    bool customClanTag{ false };
+    bool clocktag{ false };
+    bool animatedClanTag{ false };
+    bool fastDuck{ false };
+    bool moonwalk{ false };
+    bool edgejump{ false };
+    bool slowwalk{ false };
+    bool autoPistol{ false };
+    bool autoReload{ false };
+    bool autoAccept{ false };
+    bool radarHack{ false };
+    bool revealRanks{ false };
+    bool revealMoney{ false };
+    bool revealSuspect{ false };
+    bool revealVotes{ false };
+    bool fixAnimationLOD{ false };
+    bool fixBoneMatrix{ false };
+    bool fixMovement{ false };
+    bool disableModelOcclusion{ false };
+    bool nameStealer{ false };
+    bool disablePanoramablur{ false };
+    bool killMessage{ false };
+    bool nadePredict{ false };
+    bool fixTabletSignal{ false };
+    bool fastPlant{ false };
+    bool fastStop{ false };
+    bool quickReload{ false };
+    bool prepareRevolver{ false };
+    bool oppositeHandKnife = false;
+    PreserveKillfeed preserveKillfeed;
+    char clanTag[16];
+    KeyBind edgejumpkey;
+    KeyBind slowwalkKey;
+    ColorToggleThickness noscopeCrosshair;
+    ColorToggleThickness recoilCrosshair;
+
+    struct SpectatorList {
+        bool enabled = false;
+        bool noTitleBar = false;
+        ImVec2 pos;
+        ImVec2 size{ 200.0f, 200.0f };
+    };
+
+    SpectatorList spectatorList;
+    struct Watermark {
+        bool enabled = false;
+    };
+    Watermark watermark;
+    float aspectratio{ 0 };
+    std::string killMessageString{ "Gotcha!" };
+    int banColor{ 6 };
+    std::string banText{ "Cheater has been permanently banned from official CS:GO servers." };
+    ColorToggle3 bombTimer{ 1.0f, 0.55f, 0.0f };
+    KeyBind prepareRevolverKey;
+    int hitSound{ 0 };
+    int chokedPackets{ 0 };
+    KeyBind chokedPacketsKey;
+    int quickHealthshotKey{ 0 };
+    float maxAngleDelta{ 255.0f };
+    int killSound{ 0 };
+    std::string customKillSound;
+    std::string customHitSound;
+    PurchaseList purchaseList;
+
+    struct Reportbot {
+        bool enabled = false;
+        bool textAbuse = false;
+        bool griefing = false;
+        bool wallhack = true;
+        bool aimbot = true;
+        bool other = true;
+        int target = 0;
+        int delay = 1;
+        int rounds = 1;
+    } reportbot;
+
+    OffscreenEnemies offscreenEnemies;
+} miscConfig;
+
 bool Misc::shouldRevealMoney() noexcept
 {
-    return config->misc.revealMoney;
+    return miscConfig.revealMoney;
 }
 
 bool Misc::shouldRevealSuspect() noexcept
 {
-    return config->misc.revealSuspect;
+    return miscConfig.revealSuspect;
 }
 
 bool Misc::shouldDisableModelOcclusion() noexcept
 {
-    return config->misc.disableModelOcclusion;
+    return miscConfig.disableModelOcclusion;
+}
+
+bool Misc::shouldFixBoneMatrix() noexcept
+{
+    return miscConfig.fixBoneMatrix;
+}
+
+bool Misc::isRadarHackOn() noexcept
+{
+    return miscConfig.radarHack;
+}
+
+bool Misc::isMenuKeyPressed() noexcept
+{
+    return miscConfig.menuKey.isPressed();
 }
 
 float Misc::maxAngleDelta() noexcept
 {
-    return config->misc.maxAngleDelta;
+    return miscConfig.maxAngleDelta;
 }
 
 float Misc::aspectRatio() noexcept
 {
-    return config->misc.aspectratio;
+    return miscConfig.aspectratio;
 }
 
 void Misc::edgejump(UserCmd* cmd) noexcept
 {
-    if (!config->misc.edgejump || !config->misc.edgejumpkey.isDown())
+    if (!miscConfig.edgejump || !miscConfig.edgejumpkey.isDown())
         return;
 
     if (!localPlayer || !localPlayer->isAlive())
@@ -97,7 +581,7 @@ void Misc::edgejump(UserCmd* cmd) noexcept
 
 void Misc::slowwalk(UserCmd* cmd) noexcept
 {
-    if (!config->misc.slowwalk || !config->misc.slowwalkKey.isDown())
+    if (!miscConfig.slowwalk || !miscConfig.slowwalkKey.isDown())
         return;
 
     if (!localPlayer || !localPlayer->isAlive())
@@ -129,7 +613,7 @@ void Misc::updateClanTag(bool tagChanged) noexcept
     static std::string clanTag;
 
     if (tagChanged) {
-        clanTag = config->misc.clanTag;
+        clanTag = miscConfig.clanTag;
         if (!clanTag.empty() && clanTag.front() != ' ' && clanTag.back() != ' ')
             clanTag.push_back(' ');
         return;
@@ -137,7 +621,7 @@ void Misc::updateClanTag(bool tagChanged) noexcept
     
     static auto lastTime = 0.0f;
 
-    if (config->misc.clocktag) {
+    if (miscConfig.clocktag) {
         if (memory->globalVars->realtime - lastTime < 1.0f)
             return;
 
@@ -148,11 +632,11 @@ void Misc::updateClanTag(bool tagChanged) noexcept
         snprintf(s, sizeof(s), "[%02d:%02d:%02d]", localTime->tm_hour, localTime->tm_min, localTime->tm_sec);
         lastTime = memory->globalVars->realtime;
         memory->setClanTag(s, s);
-    } else if (config->misc.customClanTag) {
+    } else if (miscConfig.customClanTag) {
         if (memory->globalVars->realtime - lastTime < 0.6f)
             return;
 
-        if (config->misc.animatedClanTag && !clanTag.empty()) {
+        if (miscConfig.animatedClanTag && !clanTag.empty()) {
             const auto offset = Helpers::utf8SeqLen(clanTag[0]);
             if (offset != -1 && static_cast<std::size_t>(offset) <= clanTag.length())
                 std::rotate(clanTag.begin(), clanTag.begin() + offset, clanTag.end());
@@ -164,7 +648,7 @@ void Misc::updateClanTag(bool tagChanged) noexcept
 
 void Misc::spectatorList() noexcept
 {
-    if (!config->misc.spectatorList.enabled)
+    if (!miscConfig.spectatorList.enabled)
         return;
 
     GameData::Lock lock;
@@ -174,20 +658,20 @@ void Misc::spectatorList() noexcept
     if (std::ranges::none_of(observers, [](const auto& obs) { return obs.targetIsLocalPlayer; }) && !gui->isOpen())
         return;
 
-    if (config->misc.spectatorList.pos != ImVec2{}) {
-        ImGui::SetNextWindowPos(config->misc.spectatorList.pos);
-        config->misc.spectatorList.pos = {};
+    if (miscConfig.spectatorList.pos != ImVec2{}) {
+        ImGui::SetNextWindowPos(miscConfig.spectatorList.pos);
+        miscConfig.spectatorList.pos = {};
     }
 
-    if (config->misc.spectatorList.size != ImVec2{}) {
-        ImGui::SetNextWindowSize(ImClamp(config->misc.spectatorList.size, {}, ImGui::GetIO().DisplaySize));
-        config->misc.spectatorList.size = {};
+    if (miscConfig.spectatorList.size != ImVec2{}) {
+        ImGui::SetNextWindowSize(ImClamp(miscConfig.spectatorList.size, {}, ImGui::GetIO().DisplaySize));
+        miscConfig.spectatorList.size = {};
     }
 
     ImGuiWindowFlags windowFlags = ImGuiWindowFlags_NoCollapse;
     if (!gui->isOpen())
         windowFlags |= ImGuiWindowFlags_NoInputs;
-    if (config->misc.spectatorList.noTitleBar)
+    if (miscConfig.spectatorList.noTitleBar)
         windowFlags |= ImGuiWindowFlags_NoTitleBar;
 
     if (!gui->isOpen())
@@ -237,7 +721,7 @@ static void drawCrosshair(ImDrawList* drawList, const ImVec2& pos, ImU32 color) 
 
 void Misc::noscopeCrosshair(ImDrawList* drawList) noexcept
 {
-    if (!config->misc.noscopeCrosshair.enabled)
+    if (!miscConfig.noscopeCrosshair.enabled)
         return;
 
     {
@@ -246,7 +730,7 @@ void Misc::noscopeCrosshair(ImDrawList* drawList) noexcept
             return;
     }
 
-    drawCrosshair(drawList, ImGui::GetIO().DisplaySize / 2, Helpers::calculateColor(config->misc.noscopeCrosshair));
+    drawCrosshair(drawList, ImGui::GetIO().DisplaySize / 2, Helpers::calculateColor(miscConfig.noscopeCrosshair.asColor4()));
 }
 
 
@@ -267,7 +751,7 @@ static bool worldToScreen(const Vector& in, ImVec2& out) noexcept
 
 void Misc::recoilCrosshair(ImDrawList* drawList) noexcept
 {
-    if (!config->misc.recoilCrosshair.enabled)
+    if (!miscConfig.recoilCrosshair.enabled)
         return;
 
     GameData::Lock lock;
@@ -280,12 +764,12 @@ void Misc::recoilCrosshair(ImDrawList* drawList) noexcept
         return;
 
     if (ImVec2 pos; worldToScreen(localPlayerData.aimPunch, pos))
-        drawCrosshair(drawList, pos, Helpers::calculateColor(config->misc.recoilCrosshair));
+        drawCrosshair(drawList, pos, Helpers::calculateColor(miscConfig.recoilCrosshair.asColor4()));
 }
 
 void Misc::watermark() noexcept
 {
-    if (!config->misc.watermark.enabled)
+    if (!miscConfig.watermark.enabled)
         return;
 
     ImGuiWindowFlags windowFlags = ImGuiWindowFlags_NoCollapse | ImGuiWindowFlags_NoTitleBar | ImGuiWindowFlags_NoResize | ImGuiWindowFlags_AlwaysAutoResize;
@@ -298,7 +782,7 @@ void Misc::watermark() noexcept
     static auto frameRate = 1.0f;
     frameRate = 0.9f * frameRate + 0.1f * memory->globalVars->absoluteFrameTime;
 
-    ImGui::Text("FUCKTHEPOPULATION | %d fps | %d ms", frameRate != 0.0f ? static_cast<int>(1 / frameRate) : 0, GameData::getNetOutgoingLatency());
+    ImGui::Text("FTP | %d fps | %d ms", frameRate != 0.0f ? static_cast<int>(1 / frameRate) : 0, GameData::getNetOutgoingLatency());
     ImGui::End();
 }
 
@@ -308,7 +792,7 @@ void Misc::prepareRevolver(UserCmd* cmd) noexcept
     constexpr float revolverPrepareTime{ 0.234375f };
 
     static float readyTime;
-    if (config->misc.prepareRevolver && localPlayer && (config->misc.prepareRevolverKey == KeyBind::NONE || config->misc.prepareRevolverKey.isDown())) {
+    if (miscConfig.prepareRevolver && localPlayer && (miscConfig.prepareRevolverKey == KeyBind::NONE || miscConfig.prepareRevolverKey.isDown())) {
         const auto activeWeapon = localPlayer->getActiveWeapon();
         if (activeWeapon && activeWeapon->itemDefinitionIndex2() == WeaponId::Revolver) {
             if (!readyTime) readyTime = memory->globalVars->serverTime() + revolverPrepareTime;
@@ -323,7 +807,7 @@ void Misc::prepareRevolver(UserCmd* cmd) noexcept
 
 void Misc::fastPlant(UserCmd* cmd) noexcept
 {
-    if (!config->misc.fastPlant)
+    if (!miscConfig.fastPlant)
         return;
 
     static auto plantAnywhere = interfaces->cvar->findVar("mp_plant_c4_anywhere");
@@ -353,7 +837,7 @@ void Misc::fastPlant(UserCmd* cmd) noexcept
 
 void Misc::fastStop(UserCmd* cmd) noexcept
 {
-    if (!config->misc.fastStop)
+    if (!miscConfig.fastStop)
         return;
 
     if (!localPlayer || !localPlayer->isAlive())
@@ -380,7 +864,7 @@ void Misc::fastStop(UserCmd* cmd) noexcept
 
 void Misc::drawBombTimer() noexcept
 {
-    if (!config->misc.bombTimer.enabled)
+    if (!miscConfig.bombTimer.enabled)
         return;
 
     GameData::Lock lock;
@@ -407,7 +891,7 @@ void Misc::drawBombTimer() noexcept
 
     ImGui::textUnformattedCentered(ss.str().c_str());
 
-    ImGui::PushStyleColor(ImGuiCol_PlotHistogram, Helpers::calculateColor(config->misc.bombTimer));
+    ImGui::PushStyleColor(ImGuiCol_PlotHistogram, Helpers::calculateColor(miscConfig.bombTimer.asColor3()));
     ImGui::PushStyleColor(ImGuiCol_FrameBg, ImVec4{ 0.2f, 0.2f, 0.2f, 1.0f });
     ImGui::progressBarFullWidth((plantedC4.blowTime - memory->globalVars->currenttime) / plantedC4.timerLength, 5.0f);
 
@@ -442,7 +926,7 @@ void Misc::drawBombTimer() noexcept
 
 void Misc::stealNames() noexcept
 {
-    if (!config->misc.nameStealer)
+    if (!miscConfig.nameStealer)
         return;
 
     if (!localPlayer)
@@ -474,12 +958,12 @@ void Misc::stealNames() noexcept
 void Misc::disablePanoramablur() noexcept
 {
     static auto blur = interfaces->cvar->findVar("@panorama_disable_blur");
-    blur->setValue(config->misc.disablePanoramablur);
+    blur->setValue(miscConfig.disablePanoramablur);
 }
 
 void Misc::quickReload(UserCmd* cmd) noexcept
 {
-    if (config->misc.quickReload) {
+    if (miscConfig.quickReload) {
         static Entity* reloadedWeapon{ nullptr };
 
         if (reloadedWeapon) {
@@ -550,7 +1034,7 @@ void Misc::bunnyHop(UserCmd* cmd) noexcept
 
     static auto wasLastTimeOnGround{ localPlayer->flags() & 1 };
 
-    if (config->misc.bunnyHop && !(localPlayer->flags() & 1) && localPlayer->moveType() != MoveType::LADDER && !wasLastTimeOnGround)
+    if (miscConfig.bunnyHop && !(localPlayer->flags() & 1) && localPlayer->moveType() != MoveType::LADDER && !wasLastTimeOnGround)
         cmd->buttons &= ~UserCmd::IN_JUMP;
 
     wasLastTimeOnGround = localPlayer->flags() & 1;
@@ -563,7 +1047,7 @@ void Misc::fakeBan(bool set) noexcept
     if (set)
         shouldSet = set;
 
-    if (shouldSet && interfaces->engine->isInGame() && changeName(false, std::string{ "\x1\xB" }.append(std::string{ static_cast<char>(config->misc.banColor + 1) }).append(config->misc.banText).append("\x1").c_str(), 5.0f))
+    if (shouldSet && interfaces->engine->isInGame() && changeName(false, std::string{ "\x1\xB" }.append(std::string{ static_cast<char>(miscConfig.banColor + 1) }).append(miscConfig.banText).append("\x1").c_str(), 5.0f))
         shouldSet = false;
 }
 
@@ -572,12 +1056,12 @@ void Misc::nadePredict() noexcept
     static auto nadeVar{ interfaces->cvar->findVar("cl_grenadepreview") };
 
     nadeVar->onChangeCallbacks.size = 0;
-    nadeVar->setValue(config->misc.nadePredict);
+    nadeVar->setValue(miscConfig.nadePredict);
 }
 
 void Misc::fixTabletSignal() noexcept
 {
-    if (config->misc.fixTabletSignal && localPlayer) {
+    if (miscConfig.fixTabletSignal && localPlayer) {
         if (auto activeWeapon{ localPlayer->getActiveWeapon() }; activeWeapon && activeWeapon->getClientClass()->classId == ClassId::Tablet)
             activeWeapon->tabletReceptionIsBlocked() = false;
     }
@@ -585,7 +1069,7 @@ void Misc::fixTabletSignal() noexcept
 
 void Misc::killMessage(GameEvent& event) noexcept
 {
-    if (!config->misc.killMessage)
+    if (!miscConfig.killMessage)
         return;
 
     if (!localPlayer || !localPlayer->isAlive())
@@ -595,14 +1079,14 @@ void Misc::killMessage(GameEvent& event) noexcept
         return;
 
     std::string cmd = "say \"";
-    cmd += config->misc.killMessageString;
+    cmd += miscConfig.killMessageString;
     cmd += '"';
     interfaces->engine->clientCmdUnrestricted(cmd.c_str());
 }
 
 void Misc::fixMovement(UserCmd* cmd, float yaw) noexcept
 {
-    if (config->misc.fixMovement) {
+    if (miscConfig.fixMovement) {
         float oldYaw = yaw + (yaw < 0.0f ? 360.0f : 0.0f);
         float newYaw = cmd->viewangles.y + (cmd->viewangles.y < 0.0f ? 360.0f : 0.0f);
         float yawDelta = newYaw < oldYaw ? fabsf(newYaw - oldYaw) : 360.0f - fabsf(newYaw - oldYaw);
@@ -617,14 +1101,14 @@ void Misc::fixMovement(UserCmd* cmd, float yaw) noexcept
 
 void Misc::antiAfkKick(UserCmd* cmd) noexcept
 {
-    if (config->misc.antiAfkKick && cmd->commandNumber % 2)
+    if (miscConfig.antiAfkKick && cmd->commandNumber % 2)
         cmd->buttons |= 1 << 26;
 }
 
 void Misc::fixAnimationLOD(FrameStage stage) noexcept
 {
 #ifdef _WIN32
-    if (config->misc.fixAnimationLOD && stage == FrameStage::RENDER_START) {
+    if (miscConfig.fixAnimationLOD && stage == FrameStage::RENDER_START) {
         if (!localPlayer)
             return;
 
@@ -640,7 +1124,7 @@ void Misc::fixAnimationLOD(FrameStage stage) noexcept
 
 void Misc::autoPistol(UserCmd* cmd) noexcept
 {
-    if (config->misc.autoPistol && localPlayer) {
+    if (miscConfig.autoPistol && localPlayer) {
         const auto activeWeapon = localPlayer->getActiveWeapon();
         if (activeWeapon && activeWeapon->isPistol() && activeWeapon->nextPrimaryAttack() > memory->globalVars->serverTime()) {
             if (activeWeapon->itemDefinitionIndex2() == WeaponId::Revolver)
@@ -653,13 +1137,13 @@ void Misc::autoPistol(UserCmd* cmd) noexcept
 
 void Misc::chokePackets(bool& sendPacket) noexcept
 {
-    if (config->misc.chokedPacketsKey == KeyBind::NONE || config->misc.chokedPacketsKey.isDown())
-        sendPacket = interfaces->engine->getNetworkChannel()->chokedPackets >= config->misc.chokedPackets;
+    if (miscConfig.chokedPacketsKey == KeyBind::NONE || miscConfig.chokedPacketsKey.isDown())
+        sendPacket = interfaces->engine->getNetworkChannel()->chokedPackets >= miscConfig.chokedPackets;
 }
 
 void Misc::autoReload(UserCmd* cmd) noexcept
 {
-    if (config->misc.autoReload && localPlayer) {
+    if (miscConfig.autoReload && localPlayer) {
         const auto activeWeapon = localPlayer->getActiveWeapon();
         if (activeWeapon && getWeaponIndex(activeWeapon->itemDefinitionIndex2()) && !activeWeapon->clip())
             cmd->buttons &= ~(UserCmd::IN_ATTACK | UserCmd::IN_ATTACK2);
@@ -668,14 +1152,14 @@ void Misc::autoReload(UserCmd* cmd) noexcept
 
 void Misc::revealRanks(UserCmd* cmd) noexcept
 {
-    if (config->misc.revealRanks && cmd->buttons & UserCmd::IN_SCORE)
+    if (miscConfig.revealRanks && cmd->buttons & UserCmd::IN_SCORE)
         interfaces->client->dispatchUserMessage(50, 0, 0, nullptr);
 }
 
 void Misc::autoStrafe(UserCmd* cmd) noexcept
 {
     if (localPlayer
-        && config->misc.autoStrafe
+        && miscConfig.autoStrafe
         && !(localPlayer->flags() & 1)
         && localPlayer->moveType() != MoveType::NOCLIP) {
         if (cmd->mousedx < 0)
@@ -687,19 +1171,19 @@ void Misc::autoStrafe(UserCmd* cmd) noexcept
 
 void Misc::removeCrouchCooldown(UserCmd* cmd) noexcept
 {
-    if (config->misc.fastDuck)
+    if (miscConfig.fastDuck)
         cmd->buttons |= UserCmd::IN_BULLRUSH;
 }
 
 void Misc::moonwalk(UserCmd* cmd) noexcept
 {
-    if (config->misc.moonwalk && localPlayer && localPlayer->moveType() != MoveType::LADDER)
+    if (miscConfig.moonwalk && localPlayer && localPlayer->moveType() != MoveType::LADDER)
         cmd->buttons ^= UserCmd::IN_FORWARD | UserCmd::IN_BACK | UserCmd::IN_MOVELEFT | UserCmd::IN_MOVERIGHT;
 }
 
 void Misc::playHitSound(GameEvent& event) noexcept
 {
-    if (!config->misc.hitSound)
+    if (!miscConfig.hitSound)
         return;
 
     if (!localPlayer)
@@ -715,15 +1199,15 @@ void Misc::playHitSound(GameEvent& event) noexcept
         "play physics/glass/glass_impact_bullet1"
     };
 
-    if (static_cast<std::size_t>(config->misc.hitSound - 1) < hitSounds.size())
-        interfaces->engine->clientCmdUnrestricted(hitSounds[config->misc.hitSound - 1]);
-    else if (config->misc.hitSound == 5)
-        interfaces->engine->clientCmdUnrestricted(("play " + config->misc.customHitSound).c_str());
+    if (static_cast<std::size_t>(miscConfig.hitSound - 1) < hitSounds.size())
+        interfaces->engine->clientCmdUnrestricted(hitSounds[miscConfig.hitSound - 1]);
+    else if (miscConfig.hitSound == 5)
+        interfaces->engine->clientCmdUnrestricted(("play " + miscConfig.customHitSound).c_str());
 }
 
 void Misc::killSound(GameEvent& event) noexcept
 {
-    if (!config->misc.killSound)
+    if (!miscConfig.killSound)
         return;
 
     if (!localPlayer || !localPlayer->isAlive())
@@ -739,10 +1223,10 @@ void Misc::killSound(GameEvent& event) noexcept
         "play physics/glass/glass_impact_bullet1"
     };
 
-    if (static_cast<std::size_t>(config->misc.killSound - 1) < killSounds.size())
-        interfaces->engine->clientCmdUnrestricted(killSounds[config->misc.killSound - 1]);
-    else if (config->misc.killSound == 5)
-        interfaces->engine->clientCmdUnrestricted(("play " + config->misc.customKillSound).c_str());
+    if (static_cast<std::size_t>(miscConfig.killSound - 1) < killSounds.size())
+        interfaces->engine->clientCmdUnrestricted(killSounds[miscConfig.killSound - 1]);
+    else if (miscConfig.killSound == 5)
+        interfaces->engine->clientCmdUnrestricted(("play " + miscConfig.customKillSound).c_str());
 }
 
 void Misc::purchaseList(GameEvent* event) noexcept
@@ -791,12 +1275,12 @@ void Misc::purchaseList(GameEvent* event) noexcept
             break;
         }
     } else {
-        if (!config->misc.purchaseList.enabled)
+        if (!miscConfig.purchaseList.enabled)
             return;
 
         static const auto mp_buytime = interfaces->cvar->findVar("mp_buytime");
 
-        if ((!interfaces->engine->isInGame() || freezeEnd != 0.0f && memory->globalVars->realtime > freezeEnd + (!config->misc.purchaseList.onlyDuringFreezeTime ? mp_buytime->getFloat() : 0.0f) || playerPurchases.empty() || purchaseTotal.empty()) && !gui->isOpen())
+        if ((!interfaces->engine->isInGame() || freezeEnd != 0.0f && memory->globalVars->realtime > freezeEnd + (!miscConfig.purchaseList.onlyDuringFreezeTime ? mp_buytime->getFloat() : 0.0f) || playerPurchases.empty() || purchaseTotal.empty()) && !gui->isOpen())
             return;
 
         ImGui::SetNextWindowSize({ 200.0f, 200.0f }, ImGuiCond_Once);
@@ -804,14 +1288,14 @@ void Misc::purchaseList(GameEvent* event) noexcept
         ImGuiWindowFlags windowFlags = ImGuiWindowFlags_NoCollapse;
         if (!gui->isOpen())
             windowFlags |= ImGuiWindowFlags_NoInputs;
-        if (config->misc.purchaseList.noTitleBar)
+        if (miscConfig.purchaseList.noTitleBar)
             windowFlags |= ImGuiWindowFlags_NoTitleBar;
 
         ImGui::PushStyleVar(ImGuiStyleVar_WindowTitleAlign, { 0.5f, 0.5f });
         ImGui::Begin("Purchases", nullptr, windowFlags);
         ImGui::PopStyleVar();
 
-        if (config->misc.purchaseList.mode == PurchaseList::Details) {
+        if (miscConfig.purchaseList.mode == PurchaseList::Details) {
             GameData::Lock lock;
 
             for (const auto& [handle, purchases] : playerPurchases) {
@@ -827,17 +1311,17 @@ void Misc::purchaseList(GameEvent* event) noexcept
                     s.erase(s.length() - 2);
 
                 if (const auto player = GameData::playerByHandle(handle)) {
-                    if (config->misc.purchaseList.showPrices)
+                    if (miscConfig.purchaseList.showPrices)
                         ImGui::TextWrapped("%s $%d: %s", player->name.c_str(), purchases.totalCost, s.c_str());
                     else
                         ImGui::TextWrapped("%s: %s", player->name.c_str(), s.c_str());
                 }
             }
-        } else if (config->misc.purchaseList.mode == PurchaseList::Summary) {
+        } else if (miscConfig.purchaseList.mode == PurchaseList::Summary) {
             for (const auto& purchase : purchaseTotal)
                 ImGui::TextWrapped("%d x %s", purchase.second, purchase.first.c_str());
 
-            if (config->misc.purchaseList.showPrices && totalCost > 0) {
+            if (miscConfig.purchaseList.showPrices && totalCost > 0) {
                 ImGui::Separator();
                 ImGui::TextWrapped("Total: $%d", totalCost);
             }
@@ -848,7 +1332,7 @@ void Misc::purchaseList(GameEvent* event) noexcept
 
 void Misc::oppositeHandKnife(FrameStage stage) noexcept
 {
-    if (!config->misc.oppositeHandKnife)
+    if (!miscConfig.oppositeHandKnife)
         return;
 
     if (!localPlayer)
@@ -877,7 +1361,7 @@ static int reportbotRound;
 
 void Misc::runReportbot() noexcept
 {
-    if (!config->misc.reportbot.enabled)
+    if (!miscConfig.reportbot.enabled)
         return;
 
     if (!localPlayer)
@@ -885,10 +1369,10 @@ void Misc::runReportbot() noexcept
 
     static auto lastReportTime = 0.0f;
 
-    if (lastReportTime + config->misc.reportbot.delay > memory->globalVars->realtime)
+    if (lastReportTime + miscConfig.reportbot.delay > memory->globalVars->realtime)
         return;
 
-    if (reportbotRound >= config->misc.reportbot.rounds)
+    if (reportbotRound >= miscConfig.reportbot.rounds)
         return;
 
     for (int i = 1; i <= interfaces->engine->getMaxClients(); ++i) {
@@ -897,7 +1381,7 @@ void Misc::runReportbot() noexcept
         if (!entity || entity == localPlayer.get())
             continue;
 
-        if (config->misc.reportbot.target != 2 && (entity->isOtherEnemy(localPlayer.get()) ? config->misc.reportbot.target != 0 : config->misc.reportbot.target != 1))
+        if (miscConfig.reportbot.target != 2 && (entity->isOtherEnemy(localPlayer.get()) ? miscConfig.reportbot.target != 0 : miscConfig.reportbot.target != 1))
             continue;
 
         PlayerInfo playerInfo;
@@ -909,15 +1393,15 @@ void Misc::runReportbot() noexcept
 
         std::string report;
 
-        if (config->misc.reportbot.textAbuse)
+        if (miscConfig.reportbot.textAbuse)
             report += "textabuse,";
-        if (config->misc.reportbot.griefing)
+        if (miscConfig.reportbot.griefing)
             report += "grief,";
-        if (config->misc.reportbot.wallhack)
+        if (miscConfig.reportbot.wallhack)
             report += "wallhack,";
-        if (config->misc.reportbot.aimbot)
+        if (miscConfig.reportbot.aimbot)
             report += "aimbot,";
-        if (config->misc.reportbot.other)
+        if (miscConfig.reportbot.other)
             report += "speedhack,";
 
         if (!report.empty()) {
@@ -940,7 +1424,7 @@ void Misc::resetReportbot() noexcept
 
 void Misc::preserveKillfeed(bool roundStart) noexcept
 {
-    if (!config->misc.preserveKillfeed.enabled)
+    if (!miscConfig.preserveKillfeed.enabled)
         return;
 
     static auto nextUpdate = 0.0f;
@@ -968,14 +1452,14 @@ void Misc::preserveKillfeed(bool roundStart) noexcept
         if (!child)
             continue;
 
-        if (child->hasClass("DeathNotice_Killer") && (!config->misc.preserveKillfeed.onlyHeadshots || child->hasClass("DeathNoticeHeadShot")))
+        if (child->hasClass("DeathNotice_Killer") && (!miscConfig.preserveKillfeed.onlyHeadshots || child->hasClass("DeathNoticeHeadShot")))
             child->setAttributeFloat("SpawnTime", memory->globalVars->currenttime);
     }
 }
 
 void Misc::voteRevealer(GameEvent& event) noexcept
 {
-    if (!config->misc.revealVotes)
+    if (!miscConfig.revealVotes)
         return;
 
     const auto entity = interfaces->entityList->getEntity(event.getInt("entityid"));
@@ -1020,7 +1504,7 @@ static void shadeVertsHSVColorGradientKeepAlpha(ImDrawList* draw_list, int vert_
 
 void Misc::drawOffscreenEnemies(ImDrawList* drawList) noexcept
 {
-    if (!config->misc.offscreenEnemies.enabled)
+    if (!miscConfig.offscreenEnemies.enabled)
         return;
 
     const auto yaw = Helpers::deg2rad(interfaces->engine->getViewAngles().y);
@@ -1043,13 +1527,13 @@ void Misc::drawOffscreenEnemies(ImDrawList* drawList) noexcept
         constexpr auto triangleSize = 10.0f;
 
         const auto pos = ImGui::GetIO().DisplaySize / 2 + ImVec2{ x, y } * 200;
-        const auto trianglePos = pos + ImVec2{ x, y } * (avatarRadius + (config->misc.offscreenEnemies.healthBar.enabled ? 5 : 3));
+        const auto trianglePos = pos + ImVec2{ x, y } * (avatarRadius + (miscConfig.offscreenEnemies.healthBar.enabled ? 5 : 3));
 
         Helpers::setAlphaFactor(player.fadingAlpha());
         const auto white = Helpers::calculateColor(255, 255, 255, 255);
         const auto background = Helpers::calculateColor(0, 0, 0, 80);
-        const auto color = Helpers::calculateColor(config->misc.offscreenEnemies);
-        const auto healthBarColor = config->misc.offscreenEnemies.healthBar.type == HealthBar::HealthBased ? Helpers::healthColor(std::clamp(player.health / 100.0f, 0.0f, 1.0f)) : Helpers::calculateColor(config->misc.offscreenEnemies.healthBar);
+        const auto color = Helpers::calculateColor(miscConfig.offscreenEnemies.asColor4());
+        const auto healthBarColor = miscConfig.offscreenEnemies.healthBar.type == HealthBar::HealthBased ? Helpers::healthColor(std::clamp(player.health / 100.0f, 0.0f, 1.0f)) : Helpers::calculateColor(miscConfig.offscreenEnemies.healthBar.asColor4());
         Helpers::setAlphaFactor(1.0f);
 
         const ImVec2 trianglePoints[]{
@@ -1075,7 +1559,7 @@ void Misc::drawOffscreenEnemies(ImDrawList* drawList) noexcept
         if (pushTextureId)
             drawList->PopTextureID();
 
-        if (config->misc.offscreenEnemies.healthBar.enabled) {
+        if (miscConfig.offscreenEnemies.healthBar.enabled) {
             const auto radius = avatarRadius + 2;
             const auto healthFraction = std::clamp(player.health / 100.0f, 0.0f, 1.0f);
 
@@ -1091,7 +1575,7 @@ void Misc::drawOffscreenEnemies(ImDrawList* drawList) noexcept
             }
             const int vertEndIdx = drawList->VtxBuffer.Size;
 
-            if (config->misc.offscreenEnemies.healthBar.type == HealthBar::Gradient)
+            if (miscConfig.offscreenEnemies.healthBar.type == HealthBar::Gradient)
                 shadeVertsHSVColorGradientKeepAlpha(drawList, vertStartIdx, vertEndIdx, pos - ImVec2{ 0.0f, radius }, pos + ImVec2{ 0.0f, radius }, IM_COL32(0, 255, 0, 255), IM_COL32(255, 0, 0, 255));
         }
     }
@@ -1099,7 +1583,7 @@ void Misc::drawOffscreenEnemies(ImDrawList* drawList) noexcept
 
 void Misc::autoAccept(const char* soundEntry) noexcept
 {
-    if (!config->misc.autoAccept)
+    if (!miscConfig.autoAccept)
         return;
 
     if (std::strcmp(soundEntry, "UIPanorama.popup_accept_match_beep"))
@@ -1128,10 +1612,10 @@ void Misc::updateEventListeners(bool forceRemove) noexcept
     static PurchaseEventListener listener;
     static bool listenerRegistered = false;
 
-    if (config->misc.purchaseList.enabled && !listenerRegistered) {
+    if (miscConfig.purchaseList.enabled && !listenerRegistered) {
         interfaces->gameEventManager->addListener(&listener, "item_purchase");
         listenerRegistered = true;
-    } else if ((!config->misc.purchaseList.enabled || forceRemove) && listenerRegistered) {
+    } else if ((!miscConfig.purchaseList.enabled || forceRemove) && listenerRegistered) {
         interfaces->gameEventManager->removeListener(&listener);
         listenerRegistered = false;
     }
@@ -1142,188 +1626,582 @@ void Misc::updateInput() noexcept
 
 }
 
+static bool windowOpen = false;
+
+void Misc::menuBarItem() noexcept
+{
+    if (ImGui::MenuItem("Misc")) {
+        windowOpen = true;
+        ImGui::SetWindowFocus("Misc");
+        ImGui::SetWindowPos("Misc", { 100.0f, 100.0f });
+    }
+}
+
+void Misc::tabItem() noexcept
+{
+    if (ImGui::BeginTabItem("Misc")) {
+        drawGUI(true);
+        ImGui::EndTabItem();
+    }
+}
+
+void Misc::drawGUI(bool contentOnly) noexcept
+{
+    if (!contentOnly) {
+        if (!windowOpen)
+            return;
+        ImGui::SetNextWindowSize({ 580.0f, 0.0f });
+        ImGui::Begin("Misc", &windowOpen, ImGuiWindowFlags_NoCollapse | ImGuiWindowFlags_NoResize
+            | ImGuiWindowFlags_NoScrollbar | ImGuiWindowFlags_NoScrollWithMouse);
+    }
+    ImGui::Columns(2, nullptr, false);
+    ImGui::SetColumnOffset(1, 230.0f);
+    ImGui::hotkey("Menu Key", miscConfig.menuKey);
+    ImGui::Checkbox("Anti AFK kick", &miscConfig.antiAfkKick);
+    ImGui::Checkbox("Auto strafe", &miscConfig.autoStrafe);
+    ImGui::Checkbox("Bunny hop", &miscConfig.bunnyHop);
+    ImGui::Checkbox("Fast duck", &miscConfig.fastDuck);
+    ImGui::Checkbox("Moonwalk", &miscConfig.moonwalk);
+    ImGui::Checkbox("Edge Jump", &miscConfig.edgejump);
+    ImGui::SameLine();
+    ImGui::PushID("Edge Jump Key");
+    ImGui::hotkey("", miscConfig.edgejumpkey);
+    ImGui::PopID();
+    ImGui::Checkbox("Slowwalk", &miscConfig.slowwalk);
+    ImGui::SameLine();
+    ImGui::PushID("Slowwalk Key");
+    ImGui::hotkey("", miscConfig.slowwalkKey);
+    ImGui::PopID();
+    ImGuiCustom::colorPicker("Noscope crosshair", miscConfig.noscopeCrosshair);
+    ImGuiCustom::colorPicker("Recoil crosshair", miscConfig.recoilCrosshair);
+    ImGui::Checkbox("Auto pistol", &miscConfig.autoPistol);
+    ImGui::Checkbox("Auto reload", &miscConfig.autoReload);
+    ImGui::Checkbox("Auto accept", &miscConfig.autoAccept);
+    ImGui::Checkbox("Radar hack", &miscConfig.radarHack);
+    ImGui::Checkbox("Reveal ranks", &miscConfig.revealRanks);
+    ImGui::Checkbox("Reveal money", &miscConfig.revealMoney);
+    ImGui::Checkbox("Reveal suspect", &miscConfig.revealSuspect);
+    ImGui::Checkbox("Reveal votes", &miscConfig.revealVotes);
+
+    ImGui::Checkbox("Spectator list", &miscConfig.spectatorList.enabled);
+    ImGui::SameLine();
+
+    ImGui::PushID("Spectator list");
+    if (ImGui::Button("..."))
+        ImGui::OpenPopup("");
+
+    if (ImGui::BeginPopup("")) {
+        ImGui::Checkbox("No Title Bar", &miscConfig.spectatorList.noTitleBar);
+        ImGui::EndPopup();
+    }
+    ImGui::PopID();
+
+    ImGui::Checkbox("Watermark", &miscConfig.watermark.enabled);
+    ImGuiCustom::colorPicker("Offscreen Enemies", miscConfig.offscreenEnemies.asColor4(), &miscConfig.offscreenEnemies.enabled);
+    ImGui::SameLine();
+    ImGui::PushID("Offscreen Enemies");
+    if (ImGui::Button("..."))
+        ImGui::OpenPopup("");
+
+    if (ImGui::BeginPopup("")) {
+        ImGui::Checkbox("Health Bar", &miscConfig.offscreenEnemies.healthBar.enabled);
+        ImGui::SameLine();
+        ImGui::SetNextItemWidth(95.0f);
+        ImGui::Combo("Type", &miscConfig.offscreenEnemies.healthBar.type, "Gradient\0Solid\0Health-based\0");
+        if (miscConfig.offscreenEnemies.healthBar.type == HealthBar::Solid) {
+            ImGui::SameLine();
+            ImGuiCustom::colorPicker("", miscConfig.offscreenEnemies.healthBar.asColor4());
+        }
+        ImGui::EndPopup();
+    }
+    ImGui::PopID();
+    ImGui::Checkbox("Fix animation LOD", &miscConfig.fixAnimationLOD);
+    ImGui::Checkbox("Fix bone matrix", &miscConfig.fixBoneMatrix);
+    ImGui::Checkbox("Fix movement", &miscConfig.fixMovement);
+    ImGui::Checkbox("Disable model occlusion", &miscConfig.disableModelOcclusion);
+    ImGui::SliderFloat("Aspect Ratio", &miscConfig.aspectratio, 0.0f, 5.0f, "%.2f");
+    ImGui::NextColumn();
+    ImGui::Checkbox("Disable HUD blur", &miscConfig.disablePanoramablur);
+    ImGui::Checkbox("Animated clan tag", &miscConfig.animatedClanTag);
+    ImGui::Checkbox("Clock tag", &miscConfig.clocktag);
+    ImGui::Checkbox("Custom clantag", &miscConfig.customClanTag);
+    ImGui::SameLine();
+    ImGui::PushItemWidth(120.0f);
+    ImGui::PushID(0);
+
+    if (ImGui::InputText("", miscConfig.clanTag, sizeof(miscConfig.clanTag)))
+        Misc::updateClanTag(true);
+    ImGui::PopID();
+    ImGui::Checkbox("Kill message", &miscConfig.killMessage);
+    ImGui::SameLine();
+    ImGui::PushItemWidth(120.0f);
+    ImGui::PushID(1);
+    ImGui::InputText("", &miscConfig.killMessageString);
+    ImGui::PopID();
+    ImGui::Checkbox("Name stealer", &miscConfig.nameStealer);
+    ImGui::PushID(3);
+    ImGui::SetNextItemWidth(100.0f);
+    ImGui::Combo("", &miscConfig.banColor, "White\0Red\0Purple\0Green\0Light green\0Turquoise\0Light red\0Gray\0Yellow\0Gray 2\0Light blue\0Gray/Purple\0Blue\0Pink\0Dark orange\0Orange\0");
+    ImGui::PopID();
+    ImGui::SameLine();
+    ImGui::PushID(4);
+    ImGui::InputText("", &miscConfig.banText);
+    ImGui::PopID();
+    ImGui::SameLine();
+    if (ImGui::Button("Setup fake ban"))
+        Misc::fakeBan(true);
+    ImGui::Checkbox("Fast plant", &miscConfig.fastPlant);
+    ImGui::Checkbox("Fast Stop", &miscConfig.fastStop);
+    ImGuiCustom::colorPicker("Bomb timer", miscConfig.bombTimer);
+    ImGui::Checkbox("Quick reload", &miscConfig.quickReload);
+    ImGui::Checkbox("Prepare revolver", &miscConfig.prepareRevolver);
+    ImGui::SameLine();
+    ImGui::PushID("Prepare revolver Key");
+    ImGui::hotkey("", miscConfig.prepareRevolverKey);
+    ImGui::PopID();
+    ImGui::Combo("Hit Sound", &miscConfig.hitSound, "None\0Metal\0Gamesense\0Bell\0Glass\0Custom\0");
+    if (miscConfig.hitSound == 5) {
+        ImGui::InputText("Hit Sound filename", &miscConfig.customHitSound);
+        if (ImGui::IsItemHovered())
+            ImGui::SetTooltip("audio file must be put in csgo/sound/ directory");
+    }
+    ImGui::PushID(5);
+    ImGui::Combo("Kill Sound", &miscConfig.killSound, "None\0Metal\0Gamesense\0Bell\0Glass\0Custom\0");
+    if (miscConfig.killSound == 5) {
+        ImGui::InputText("Kill Sound filename", &miscConfig.customKillSound);
+        if (ImGui::IsItemHovered())
+            ImGui::SetTooltip("audio file must be put in csgo/sound/ directory");
+    }
+    ImGui::PopID();
+    ImGui::SetNextItemWidth(90.0f);
+    ImGui::InputInt("Choked packets", &miscConfig.chokedPackets, 1, 5);
+    miscConfig.chokedPackets = std::clamp(miscConfig.chokedPackets, 0, 64);
+    ImGui::SameLine();
+    ImGui::PushID("Choked packets Key");
+    ImGui::hotkey("", miscConfig.chokedPacketsKey);
+    ImGui::PopID();
+    /*
+    ImGui::Text("Quick healthshot");
+    ImGui::SameLine();
+    hotkey(miscConfig.quickHealthshotKey);
+    */
+    ImGui::Checkbox("Grenade Prediction", &miscConfig.nadePredict);
+    ImGui::Checkbox("Fix tablet signal", &miscConfig.fixTabletSignal);
+    ImGui::SetNextItemWidth(120.0f);
+    ImGui::SliderFloat("Max angle delta", &miscConfig.maxAngleDelta, 0.0f, 255.0f, "%.2f");
+    ImGui::Checkbox("Opposite Hand Knife", &miscConfig.oppositeHandKnife);
+    ImGui::Checkbox("Preserve Killfeed", &miscConfig.preserveKillfeed.enabled);
+    ImGui::SameLine();
+
+    ImGui::PushID("Preserve Killfeed");
+    if (ImGui::Button("..."))
+        ImGui::OpenPopup("");
+
+    if (ImGui::BeginPopup("")) {
+        ImGui::Checkbox("Only Headshots", &miscConfig.preserveKillfeed.onlyHeadshots);
+        ImGui::EndPopup();
+    }
+    ImGui::PopID();
+
+    ImGui::Checkbox("Purchase List", &miscConfig.purchaseList.enabled);
+    ImGui::SameLine();
+
+    ImGui::PushID("Purchase List");
+    if (ImGui::Button("..."))
+        ImGui::OpenPopup("");
+
+    if (ImGui::BeginPopup("")) {
+        ImGui::SetNextItemWidth(75.0f);
+        ImGui::Combo("Mode", &miscConfig.purchaseList.mode, "Details\0Summary\0");
+        ImGui::Checkbox("Only During Freeze Time", &miscConfig.purchaseList.onlyDuringFreezeTime);
+        ImGui::Checkbox("Show Prices", &miscConfig.purchaseList.showPrices);
+        ImGui::Checkbox("No Title Bar", &miscConfig.purchaseList.noTitleBar);
+        ImGui::EndPopup();
+    }
+    ImGui::PopID();
+
+    ImGui::Checkbox("Reportbot", &miscConfig.reportbot.enabled);
+    ImGui::SameLine();
+    ImGui::PushID("Reportbot");
+
+    if (ImGui::Button("..."))
+        ImGui::OpenPopup("");
+
+    if (ImGui::BeginPopup("")) {
+        ImGui::PushItemWidth(80.0f);
+        ImGui::Combo("Target", &miscConfig.reportbot.target, "Enemies\0Allies\0All\0");
+        ImGui::InputInt("Delay (s)", &miscConfig.reportbot.delay);
+        miscConfig.reportbot.delay = (std::max)(miscConfig.reportbot.delay, 1);
+        ImGui::InputInt("Rounds", &miscConfig.reportbot.rounds);
+        miscConfig.reportbot.rounds = (std::max)(miscConfig.reportbot.rounds, 1);
+        ImGui::PopItemWidth();
+        ImGui::Checkbox("Abusive Communications", &miscConfig.reportbot.textAbuse);
+        ImGui::Checkbox("Griefing", &miscConfig.reportbot.griefing);
+        ImGui::Checkbox("Wall Hacking", &miscConfig.reportbot.wallhack);
+        ImGui::Checkbox("Aim Hacking", &miscConfig.reportbot.aimbot);
+        ImGui::Checkbox("Other Hacking", &miscConfig.reportbot.other);
+        if (ImGui::Button("Reset"))
+            Misc::resetReportbot();
+        ImGui::EndPopup();
+    }
+    ImGui::PopID();
+
+    if (ImGui::Button("Unhook"))
+        hooks->uninstall();
+
+    ImGui::Columns(1);
+    if (!contentOnly)
+        ImGui::End();
+}
+
+static void from_json(const json& j, ImVec2& v)
+{
+    read(j, "X", v.x);
+    read(j, "Y", v.y);
+}
+
+static void from_json(const json& j, PurchaseList& pl)
+{
+    read(j, "Enabled", pl.enabled);
+    read(j, "Only During Freeze Time", pl.onlyDuringFreezeTime);
+    read(j, "Show Prices", pl.showPrices);
+    read(j, "No Title Bar", pl.noTitleBar);
+    read(j, "Mode", pl.mode);
+}
+
+static void from_json(const json& j, OffscreenEnemies& o)
+{
+    from_json(j, static_cast<ColorToggle&>(o));
+
+    read<value_t::object>(j, "Health Bar", o.healthBar);
+}
+
+static void from_json(const json& j, MiscConfig::SpectatorList& sl)
+{
+    read(j, "Enabled", sl.enabled);
+    read(j, "No Title Bar", sl.noTitleBar);
+    read<value_t::object>(j, "Pos", sl.pos);
+    read<value_t::object>(j, "Size", sl.size);
+}
+
+static void from_json(const json& j, MiscConfig::Watermark& o)
+{
+    read(j, "Enabled", o.enabled);
+}
+
+static void from_json(const json& j, PreserveKillfeed& o)
+{
+    read(j, "Enabled", o.enabled);
+    read(j, "Only Headshots", o.onlyHeadshots);
+}
+
+static void from_json(const json& j, MiscConfig& m)
+{
+    read(j, "Menu key", m.menuKey);
+    read(j, "Anti AFK kick", m.antiAfkKick);
+    read(j, "Auto strafe", m.autoStrafe);
+    read(j, "Bunny hop", m.bunnyHop);
+    read(j, "Custom clan tag", m.customClanTag);
+    read(j, "Clock tag", m.clocktag);
+    read(j, "Clan tag", m.clanTag, sizeof(m.clanTag));
+    read(j, "Animated clan tag", m.animatedClanTag);
+    read(j, "Fast duck", m.fastDuck);
+    read(j, "Moonwalk", m.moonwalk);
+    read(j, "Edge Jump", m.edgejump);
+    read(j, "Edge Jump Key", m.edgejumpkey);
+    read(j, "Slowwalk", m.slowwalk);
+    read(j, "Slowwalk key", m.slowwalkKey);
+    read<value_t::object>(j, "Noscope crosshair", m.noscopeCrosshair);
+    read<value_t::object>(j, "Recoil crosshair", m.recoilCrosshair);
+    read(j, "Auto pistol", m.autoPistol);
+    read(j, "Auto reload", m.autoReload);
+    read(j, "Auto accept", m.autoAccept);
+    read(j, "Radar hack", m.radarHack);
+    read(j, "Reveal ranks", m.revealRanks);
+    read(j, "Reveal money", m.revealMoney);
+    read(j, "Reveal suspect", m.revealSuspect);
+    read(j, "Reveal votes", m.revealVotes);
+    read<value_t::object>(j, "Spectator list", m.spectatorList);
+    read<value_t::object>(j, "Watermark", m.watermark);
+    read<value_t::object>(j, "Offscreen Enemies", m.offscreenEnemies);
+    read(j, "Fix animation LOD", m.fixAnimationLOD);
+    read(j, "Fix bone matrix", m.fixBoneMatrix);
+    read(j, "Fix movement", m.fixMovement);
+    read(j, "Disable model occlusion", m.disableModelOcclusion);
+    read(j, "Aspect Ratio", m.aspectratio);
+    read(j, "Kill message", m.killMessage);
+    read<value_t::string>(j, "Kill message string", m.killMessageString);
+    read(j, "Name stealer", m.nameStealer);
+    read(j, "Disable HUD blur", m.disablePanoramablur);
+    read(j, "Ban color", m.banColor);
+    read<value_t::string>(j, "Ban text", m.banText);
+    read(j, "Fast plant", m.fastPlant);
+    read(j, "Fast Stop", m.fastStop);
+    read<value_t::object>(j, "Bomb timer", m.bombTimer);
+    read(j, "Quick reload", m.quickReload);
+    read(j, "Prepare revolver", m.prepareRevolver);
+    read(j, "Prepare revolver key", m.prepareRevolverKey);
+    read(j, "Hit sound", m.hitSound);
+    read(j, "Choked packets", m.chokedPackets);
+    read(j, "Choked packets key", m.chokedPacketsKey);
+    read(j, "Quick healthshot key", m.quickHealthshotKey);
+    read(j, "Grenade predict", m.nadePredict);
+    read(j, "Fix tablet signal", m.fixTabletSignal);
+    read(j, "Max angle delta", m.maxAngleDelta);
+    read(j, "Fix tablet signal", m.fixTabletSignal);
+    read<value_t::string>(j, "Custom Hit Sound", m.customHitSound);
+    read(j, "Kill sound", m.killSound);
+    read<value_t::string>(j, "Custom Kill Sound", m.customKillSound);
+    read<value_t::object>(j, "Purchase List", m.purchaseList);
+    read<value_t::object>(j, "Reportbot", m.reportbot);
+    read(j, "Opposite Hand Knife", m.oppositeHandKnife);
+    read<value_t::object>(j, "Preserve Killfeed", m.preserveKillfeed);
+}
+
+static void from_json(const json& j, MiscConfig::Reportbot& r)
+{
+    read(j, "Enabled", r.enabled);
+    read(j, "Target", r.target);
+    read(j, "Delay", r.delay);
+    read(j, "Rounds", r.rounds);
+    read(j, "Abusive Communications", r.textAbuse);
+    read(j, "Griefing", r.griefing);
+    read(j, "Wall Hacking", r.wallhack);
+    read(j, "Aim Hacking", r.aimbot);
+    read(j, "Other Hacking", r.other);
+}
+
+static void to_json(json& j, const MiscConfig::Reportbot& o, const MiscConfig::Reportbot& dummy = {})
+{
+    WRITE("Enabled", enabled);
+    WRITE("Target", target);
+    WRITE("Delay", delay);
+    WRITE("Rounds", rounds);
+    WRITE("Abusive Communications", textAbuse);
+    WRITE("Griefing", griefing);
+    WRITE("Wall Hacking", wallhack);
+    WRITE("Aim Hacking", aimbot);
+    WRITE("Other Hacking", other);
+}
+
+static void to_json(json& j, const PurchaseList& o, const PurchaseList& dummy = {})
+{
+    WRITE("Enabled", enabled);
+    WRITE("Only During Freeze Time", onlyDuringFreezeTime);
+    WRITE("Show Prices", showPrices);
+    WRITE("No Title Bar", noTitleBar);
+    WRITE("Mode", mode);
+}
+
+static void to_json(json& j, const ImVec2& o, const ImVec2& dummy = {})
+{
+    WRITE("X", x);
+    WRITE("Y", y);
+}
+
+static void to_json(json& j, const OffscreenEnemies& o, const OffscreenEnemies& dummy = {})
+{
+    to_json(j, static_cast<const ColorToggle&>(o), dummy);
+
+    WRITE("Health Bar", healthBar);
+}
+
+static void to_json(json& j, const MiscConfig::SpectatorList& o, const MiscConfig::SpectatorList& dummy = {})
+{
+    WRITE("Enabled", enabled);
+    WRITE("No Title Bar", noTitleBar);
+
+    if (const auto window = ImGui::FindWindowByName("Spectator list")) {
+        j["Pos"] = window->Pos;
+        j["Size"] = window->SizeFull;
+    }
+}
+
+static void to_json(json& j, const MiscConfig::Watermark& o, const MiscConfig::Watermark& dummy = {})
+{
+    WRITE("Enabled", enabled);
+}
+
+static void to_json(json& j, const PreserveKillfeed& o, const PreserveKillfeed& dummy = {})
+{
+    WRITE("Enabled", enabled);
+    WRITE("Only Headshots", onlyHeadshots);
+}
+
+static void to_json(json& j, const MiscConfig& o)
+{
+    const MiscConfig dummy;
+
+    WRITE("Menu key", menuKey);
+    WRITE("Anti AFK kick", antiAfkKick);
+    WRITE("Auto strafe", autoStrafe);
+    WRITE("Bunny hop", bunnyHop);
+    WRITE("Custom clan tag", customClanTag);
+    WRITE("Clock tag", clocktag);
+
+    if (o.clanTag[0])
+        j["Clan tag"] = o.clanTag;
+
+    WRITE("Animated clan tag", animatedClanTag);
+    WRITE("Fast duck", fastDuck);
+    WRITE("Moonwalk", moonwalk);
+    WRITE("Edge Jump", edgejump);
+    WRITE("Edge Jump Key", edgejumpkey);
+    WRITE("Slowwalk", slowwalk);
+    WRITE("Slowwalk key", slowwalkKey);
+    WRITE("Noscope crosshair", noscopeCrosshair);
+    WRITE("Recoil crosshair", recoilCrosshair);
+    WRITE("Auto pistol", autoPistol);
+    WRITE("Auto reload", autoReload);
+    WRITE("Auto accept", autoAccept);
+    WRITE("Radar hack", radarHack);
+    WRITE("Reveal ranks", revealRanks);
+    WRITE("Reveal money", revealMoney);
+    WRITE("Reveal suspect", revealSuspect);
+    WRITE("Reveal votes", revealVotes);
+    WRITE("Spectator list", spectatorList);
+    WRITE("Watermark", watermark);
+    WRITE("Offscreen Enemies", offscreenEnemies);
+    WRITE("Fix animation LOD", fixAnimationLOD);
+    WRITE("Fix bone matrix", fixBoneMatrix);
+    WRITE("Fix movement", fixMovement);
+    WRITE("Disable model occlusion", disableModelOcclusion);
+    WRITE("Aspect Ratio", aspectratio);
+    WRITE("Kill message", killMessage);
+    WRITE("Kill message string", killMessageString);
+    WRITE("Name stealer", nameStealer);
+    WRITE("Disable HUD blur", disablePanoramablur);
+    WRITE("Ban color", banColor);
+    WRITE("Ban text", banText);
+    WRITE("Fast plant", fastPlant);
+    WRITE("Fast Stop", fastStop);
+    WRITE("Bomb timer", bombTimer);
+    WRITE("Quick reload", quickReload);
+    WRITE("Prepare revolver", prepareRevolver);
+    WRITE("Prepare revolver key", prepareRevolverKey);
+    WRITE("Hit sound", hitSound);
+    WRITE("Choked packets", chokedPackets);
+    WRITE("Choked packets key", chokedPacketsKey);
+    WRITE("Quick healthshot key", quickHealthshotKey);
+    WRITE("Grenade predict", nadePredict);
+    WRITE("Fix tablet signal", fixTabletSignal);
+    WRITE("Max angle delta", maxAngleDelta);
+    WRITE("Fix tablet signal", fixTabletSignal);
+    WRITE("Custom Hit Sound", customHitSound);
+    WRITE("Kill sound", killSound);
+    WRITE("Custom Kill Sound", customKillSound);
+    WRITE("Purchase List", purchaseList);
+    WRITE("Reportbot", reportbot);
+    WRITE("Opposite Hand Knife", oppositeHandKnife);
+    WRITE("Preserve Killfeed", preserveKillfeed);
+}
+
+json Misc::toJson() noexcept
+{
+    json j;
+    to_json(j, miscConfig);
+    return j;
+}
+
+void Misc::fromJson(const json& j) noexcept
+{
+    from_json(j, miscConfig);
+}
+
+void Misc::resetConfig() noexcept
+{
+    miscConfig = {};
+}
+
 #include <stdio.h>
 #include <string>
 #include <iostream>
 
 using namespace std;
 
-class WHLIYETOCC
+class DTEDPHBSDM
 { 
-  void mXAVJIHRJx()
+  void FiRHKoqlaF()
   { 
-      bool jfOCtoLJYR = false;
-      bool BhJpUdUanF = false;
-      bool zuHRyrkHEC = false;
-      bool xhVaYcbukh = false;
-      bool LDXBKrSMBR = false;
-      bool DFZTDnXxDC = false;
-      bool DEEWTTMiRq = false;
-      bool BZoGsuWGHG = false;
-      bool YXGmzqHCWj = false;
-      bool EerieGzBgp = false;
-      bool fjuJPdPTZI = false;
-      bool QRpxdeyRWb = false;
-      bool MKMgmWhGal = false;
-      bool wVYQZocxXV = false;
-      bool bmbNSmntFz = false;
-      bool IgdEcVWOVr = false;
-      bool uJsmMusYWn = false;
-      bool CAtBAYhyOA = false;
-      bool imBadOqTmE = false;
-      bool RNaeZRtnBW = false;
-      string krOlFLCibF;
-      string thJUadTokT;
-      string eGlwPxYYHq;
-      string DmWScXPDLn;
-      string ywKVThSZmJ;
-      string VUyiYdGRVH;
-      string lcbkCGLqrC;
-      string NQcxVhuQbh;
-      string ezlxUionsy;
-      string RxgDCUUYSN;
-      string WahjuEqBMq;
-      string iopnclqePS;
-      string RXxskQiYuB;
-      string NVxOKDRCBQ;
-      string qmaCPbHraP;
-      string dpIAuycnye;
-      string USGLcMracY;
-      string UodzadwudI;
-      string JqxeWXNxSL;
-      string acDVuYgOYD;
-      if(krOlFLCibF == WahjuEqBMq){jfOCtoLJYR = true;}
-      else if(WahjuEqBMq == krOlFLCibF){fjuJPdPTZI = true;}
-      if(thJUadTokT == iopnclqePS){BhJpUdUanF = true;}
-      else if(iopnclqePS == thJUadTokT){QRpxdeyRWb = true;}
-      if(eGlwPxYYHq == RXxskQiYuB){zuHRyrkHEC = true;}
-      else if(RXxskQiYuB == eGlwPxYYHq){MKMgmWhGal = true;}
-      if(DmWScXPDLn == NVxOKDRCBQ){xhVaYcbukh = true;}
-      else if(NVxOKDRCBQ == DmWScXPDLn){wVYQZocxXV = true;}
-      if(ywKVThSZmJ == qmaCPbHraP){LDXBKrSMBR = true;}
-      else if(qmaCPbHraP == ywKVThSZmJ){bmbNSmntFz = true;}
-      if(VUyiYdGRVH == dpIAuycnye){DFZTDnXxDC = true;}
-      else if(dpIAuycnye == VUyiYdGRVH){IgdEcVWOVr = true;}
-      if(lcbkCGLqrC == USGLcMracY){DEEWTTMiRq = true;}
-      else if(USGLcMracY == lcbkCGLqrC){uJsmMusYWn = true;}
-      if(NQcxVhuQbh == UodzadwudI){BZoGsuWGHG = true;}
-      if(ezlxUionsy == JqxeWXNxSL){YXGmzqHCWj = true;}
-      if(RxgDCUUYSN == acDVuYgOYD){EerieGzBgp = true;}
-      while(UodzadwudI == NQcxVhuQbh){CAtBAYhyOA = true;}
-      while(JqxeWXNxSL == JqxeWXNxSL){imBadOqTmE = true;}
-      while(acDVuYgOYD == acDVuYgOYD){RNaeZRtnBW = true;}
-      if(jfOCtoLJYR == true){jfOCtoLJYR = false;}
-      if(BhJpUdUanF == true){BhJpUdUanF = false;}
-      if(zuHRyrkHEC == true){zuHRyrkHEC = false;}
-      if(xhVaYcbukh == true){xhVaYcbukh = false;}
-      if(LDXBKrSMBR == true){LDXBKrSMBR = false;}
-      if(DFZTDnXxDC == true){DFZTDnXxDC = false;}
-      if(DEEWTTMiRq == true){DEEWTTMiRq = false;}
-      if(BZoGsuWGHG == true){BZoGsuWGHG = false;}
-      if(YXGmzqHCWj == true){YXGmzqHCWj = false;}
-      if(EerieGzBgp == true){EerieGzBgp = false;}
-      if(fjuJPdPTZI == true){fjuJPdPTZI = false;}
-      if(QRpxdeyRWb == true){QRpxdeyRWb = false;}
-      if(MKMgmWhGal == true){MKMgmWhGal = false;}
-      if(wVYQZocxXV == true){wVYQZocxXV = false;}
-      if(bmbNSmntFz == true){bmbNSmntFz = false;}
-      if(IgdEcVWOVr == true){IgdEcVWOVr = false;}
-      if(uJsmMusYWn == true){uJsmMusYWn = false;}
-      if(CAtBAYhyOA == true){CAtBAYhyOA = false;}
-      if(imBadOqTmE == true){imBadOqTmE = false;}
-      if(RNaeZRtnBW == true){RNaeZRtnBW = false;}
-    } 
-}; 
-
-#include <stdio.h>
-#include <string>
-#include <iostream>
-
-using namespace std;
-
-class XPYKPPHCHY
-{ 
-  void OKeqhkArAG()
-  { 
-      bool LirANhaJcB = false;
-      bool rQAbtWdHFr = false;
-      bool wMnqhIKoAV = false;
-      bool bsTPSrxDOO = false;
-      bool NLtAwzxbLX = false;
-      bool owgUpytBSE = false;
-      bool WlJHZywkIB = false;
-      bool YZsqekSmth = false;
-      bool LidbgfMyZU = false;
-      bool xwkJqaBmax = false;
-      bool CMSJzODooF = false;
-      bool fHGjsnIhZs = false;
-      bool lyKnEcoiAD = false;
-      bool ieLxfyPTcR = false;
-      bool bWIUnpoAPD = false;
-      bool STMgLEBeFV = false;
-      bool ZTokVAuJEt = false;
-      bool XnFIROopzO = false;
-      bool nnTwkPRekb = false;
-      bool xkNGrHhWym = false;
-      string JXgJhGDlbW;
-      string CCFkIKubTF;
-      string TfsVJgjiSo;
-      string pRuncFKQMx;
-      string pNwpkBrVmV;
-      string FBAKzceKAA;
-      string WUTmfjHRID;
-      string AdPVOFjCkH;
-      string nOuxinRkoz;
-      string ZzQLaVtIKA;
-      string taMjValdus;
-      string scZrLHYWDq;
-      string SVcIcANDus;
-      string LaqjMNBKaI;
-      string BmouFxYXzS;
-      string wWFSgYxDHU;
-      string MhiCgSkpey;
-      string FOuuoffgDe;
-      string apEbwnVXCn;
-      string PxDFuSDmNm;
-      if(JXgJhGDlbW == taMjValdus){LirANhaJcB = true;}
-      else if(taMjValdus == JXgJhGDlbW){CMSJzODooF = true;}
-      if(CCFkIKubTF == scZrLHYWDq){rQAbtWdHFr = true;}
-      else if(scZrLHYWDq == CCFkIKubTF){fHGjsnIhZs = true;}
-      if(TfsVJgjiSo == SVcIcANDus){wMnqhIKoAV = true;}
-      else if(SVcIcANDus == TfsVJgjiSo){lyKnEcoiAD = true;}
-      if(pRuncFKQMx == LaqjMNBKaI){bsTPSrxDOO = true;}
-      else if(LaqjMNBKaI == pRuncFKQMx){ieLxfyPTcR = true;}
-      if(pNwpkBrVmV == BmouFxYXzS){NLtAwzxbLX = true;}
-      else if(BmouFxYXzS == pNwpkBrVmV){bWIUnpoAPD = true;}
-      if(FBAKzceKAA == wWFSgYxDHU){owgUpytBSE = true;}
-      else if(wWFSgYxDHU == FBAKzceKAA){STMgLEBeFV = true;}
-      if(WUTmfjHRID == MhiCgSkpey){WlJHZywkIB = true;}
-      else if(MhiCgSkpey == WUTmfjHRID){ZTokVAuJEt = true;}
-      if(AdPVOFjCkH == FOuuoffgDe){YZsqekSmth = true;}
-      if(nOuxinRkoz == apEbwnVXCn){LidbgfMyZU = true;}
-      if(ZzQLaVtIKA == PxDFuSDmNm){xwkJqaBmax = true;}
-      while(FOuuoffgDe == AdPVOFjCkH){XnFIROopzO = true;}
-      while(apEbwnVXCn == apEbwnVXCn){nnTwkPRekb = true;}
-      while(PxDFuSDmNm == PxDFuSDmNm){xkNGrHhWym = true;}
-      if(LirANhaJcB == true){LirANhaJcB = false;}
-      if(rQAbtWdHFr == true){rQAbtWdHFr = false;}
-      if(wMnqhIKoAV == true){wMnqhIKoAV = false;}
-      if(bsTPSrxDOO == true){bsTPSrxDOO = false;}
-      if(NLtAwzxbLX == true){NLtAwzxbLX = false;}
-      if(owgUpytBSE == true){owgUpytBSE = false;}
-      if(WlJHZywkIB == true){WlJHZywkIB = false;}
-      if(YZsqekSmth == true){YZsqekSmth = false;}
-      if(LidbgfMyZU == true){LidbgfMyZU = false;}
-      if(xwkJqaBmax == true){xwkJqaBmax = false;}
-      if(CMSJzODooF == true){CMSJzODooF = false;}
-      if(fHGjsnIhZs == true){fHGjsnIhZs = false;}
-      if(lyKnEcoiAD == true){lyKnEcoiAD = false;}
-      if(ieLxfyPTcR == true){ieLxfyPTcR = false;}
-      if(bWIUnpoAPD == true){bWIUnpoAPD = false;}
-      if(STMgLEBeFV == true){STMgLEBeFV = false;}
-      if(ZTokVAuJEt == true){ZTokVAuJEt = false;}
-      if(XnFIROopzO == true){XnFIROopzO = false;}
-      if(nnTwkPRekb == true){nnTwkPRekb = false;}
-      if(xkNGrHhWym == true){xkNGrHhWym = false;}
+      bool JYJpHzTsMp = false;
+      bool CHRGzqBHsX = false;
+      bool baPcdmzfZJ = false;
+      bool RVeOaCxOuR = false;
+      bool nTeitHzQzu = false;
+      bool mfdlOiJgMT = false;
+      bool znSCXgbDex = false;
+      bool tlMajHufhV = false;
+      bool nhfeVlqszr = false;
+      bool rPBaRzBbLN = false;
+      bool fwkBBASDCG = false;
+      bool mczqfRHnfk = false;
+      bool ohDmEdkkIj = false;
+      bool GTUUoqwecV = false;
+      bool SnpsFPQKuA = false;
+      bool rMuZYxsywX = false;
+      bool PhtSzSIdBn = false;
+      bool UcKKSAqJgo = false;
+      bool MZpIqsYuwr = false;
+      bool yyhFFktXsm = false;
+      string uXhiRWiamB;
+      string xjfEdYhMRM;
+      string NJwAxXgcbL;
+      string QUcYbWHniu;
+      string OChodfikKi;
+      string jZuwwkbhkt;
+      string pFyajcHHbH;
+      string QtdVxKaHWR;
+      string nwSsbqYfbp;
+      string uZDoFJEGEA;
+      string XbIDRouZyl;
+      string KULTFsmFzs;
+      string EaekLpqoPn;
+      string GUCVsMnPal;
+      string uyhofaOiiM;
+      string WyGKwwxWqb;
+      string yGKKfoRoZs;
+      string EWeNyFsoFj;
+      string bHFCRHNqZx;
+      string OQXzmnmWJp;
+      if(uXhiRWiamB == XbIDRouZyl){JYJpHzTsMp = true;}
+      else if(XbIDRouZyl == uXhiRWiamB){fwkBBASDCG = true;}
+      if(xjfEdYhMRM == KULTFsmFzs){CHRGzqBHsX = true;}
+      else if(KULTFsmFzs == xjfEdYhMRM){mczqfRHnfk = true;}
+      if(NJwAxXgcbL == EaekLpqoPn){baPcdmzfZJ = true;}
+      else if(EaekLpqoPn == NJwAxXgcbL){ohDmEdkkIj = true;}
+      if(QUcYbWHniu == GUCVsMnPal){RVeOaCxOuR = true;}
+      else if(GUCVsMnPal == QUcYbWHniu){GTUUoqwecV = true;}
+      if(OChodfikKi == uyhofaOiiM){nTeitHzQzu = true;}
+      else if(uyhofaOiiM == OChodfikKi){SnpsFPQKuA = true;}
+      if(jZuwwkbhkt == WyGKwwxWqb){mfdlOiJgMT = true;}
+      else if(WyGKwwxWqb == jZuwwkbhkt){rMuZYxsywX = true;}
+      if(pFyajcHHbH == yGKKfoRoZs){znSCXgbDex = true;}
+      else if(yGKKfoRoZs == pFyajcHHbH){PhtSzSIdBn = true;}
+      if(QtdVxKaHWR == EWeNyFsoFj){tlMajHufhV = true;}
+      if(nwSsbqYfbp == bHFCRHNqZx){nhfeVlqszr = true;}
+      if(uZDoFJEGEA == OQXzmnmWJp){rPBaRzBbLN = true;}
+      while(EWeNyFsoFj == QtdVxKaHWR){UcKKSAqJgo = true;}
+      while(bHFCRHNqZx == bHFCRHNqZx){MZpIqsYuwr = true;}
+      while(OQXzmnmWJp == OQXzmnmWJp){yyhFFktXsm = true;}
+      if(JYJpHzTsMp == true){JYJpHzTsMp = false;}
+      if(CHRGzqBHsX == true){CHRGzqBHsX = false;}
+      if(baPcdmzfZJ == true){baPcdmzfZJ = false;}
+      if(RVeOaCxOuR == true){RVeOaCxOuR = false;}
+      if(nTeitHzQzu == true){nTeitHzQzu = false;}
+      if(mfdlOiJgMT == true){mfdlOiJgMT = false;}
+      if(znSCXgbDex == true){znSCXgbDex = false;}
+      if(tlMajHufhV == true){tlMajHufhV = false;}
+      if(nhfeVlqszr == true){nhfeVlqszr = false;}
+      if(rPBaRzBbLN == true){rPBaRzBbLN = false;}
+      if(fwkBBASDCG == true){fwkBBASDCG = false;}
+      if(mczqfRHnfk == true){mczqfRHnfk = false;}
+      if(ohDmEdkkIj == true){ohDmEdkkIj = false;}
+      if(GTUUoqwecV == true){GTUUoqwecV = false;}
+      if(SnpsFPQKuA == true){SnpsFPQKuA = false;}
+      if(rMuZYxsywX == true){rMuZYxsywX = false;}
+      if(PhtSzSIdBn == true){PhtSzSIdBn = false;}
+      if(UcKKSAqJgo == true){UcKKSAqJgo = false;}
+      if(MZpIqsYuwr == true){MZpIqsYuwr = false;}
+      if(yyhFFktXsm == true){yyhFFktXsm = false;}
     } 
 }; 
